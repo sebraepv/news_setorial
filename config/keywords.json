@@ -1,0 +1,130 @@
+[
+  {
+    "topic": "Macroeconomia",
+    "priority": 5,
+    "keywords": [
+      "selic",
+      "copom",
+      "ipca",
+      "inflação",
+      "juros",
+      "taxa de juros",
+      "câmbio",
+      "dólar",
+      "euro",
+      "fed",
+      "banco central",
+      "pib",
+      "produto interno bruto",
+      "balança comercial",
+      "déficit",
+      "superávit"
+    ]
+  },
+  {
+    "topic": "Empreendedorismo",
+    "priority": 5,
+    "keywords": [
+      "microempresa",
+      "empresa de pequeno porte",
+      "empreendedor",
+      "startup",
+      "negócios",
+      "franquia",
+      "inovação",
+      "incubadora",
+      "aceleração",
+      "capital de giro"
+    ]
+  },
+  {
+    "topic": "Crédito",
+    "priority": 4,
+    "keywords": [
+      "crédito",
+      "financiamento",
+      "bndes",
+      "pronampe",
+      "microcrédito",
+      "empréstimo",
+      "garantia",
+      "investimento"
+    ]
+  },
+  {
+    "topic": "Agronegócio",
+    "priority": 5,
+    "keywords": [
+      "agronegócio",
+      "agricultura",
+      "pecuária",
+      "soja",
+      "milho",
+      "trigo",
+      "café",
+      "algodão",
+      "arroz",
+      "feijão",
+      "boi",
+      "gado",
+      "avicultura",
+      "suinocultura",
+      "safra",
+      "plantio",
+      "colheita",
+      "conab",
+      "embrapa",
+      "clima",
+      "el niño",
+      "la niña"
+    ]
+  },
+  {
+    "topic": "Comércio Exterior",
+    "priority": 4,
+    "keywords": [
+      "exportação",
+      "importação",
+      "mercado externo",
+      "tarifa",
+      "aduana",
+      "mercosul",
+      "china",
+      "estados unidos",
+      "união europeia"
+    ]
+  },
+  {
+    "topic": "Mercado Financeiro",
+    "priority": 3,
+    "keywords": [
+      "ibovespa",
+      "bolsa",
+      "ações",
+      "fii",
+      "fundo imobiliário",
+      "tesouro direto",
+      "renda fixa",
+      "cdb",
+      "lci",
+      "lca"
+    ]
+  },
+  {
+    "topic": "Tecnologia",
+    "priority": 2,
+    "keywords": [
+      "inteligência artificial",
+      "chatgpt",
+      "copilot",
+      "automação",
+      "transformação digital",
+      "machine learning",
+      "big data",
+      "internet das coisas",
+      "blockchain",
+      "criptomoedas",
+      "fintech"
+    ]
+  }
+]

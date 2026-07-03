@@ -1,0 +1,8 @@
+nltk>=3.8.1
+pandas
+feedparser
+google-generativeai
+python-dotenv
+openai>=1.0.0
+scikit-learn
+azure-ai-projects>=2.0.0

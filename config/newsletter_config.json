@@ -1,0 +1,60 @@
+{
+  "newsletter": {
+    "title": "Resumo de Notícias do Observatório de Negócios do Sebrae/SC",
+    "subtitle": "Principais destsectors_definitiones",
+    "max_news_per_sector": 4,
+    "max_total_news": 20
+  },
+
+  "ranking": {
+    "weights": {
+      "recency": 0.5,
+      "sector": 0.3,
+      "source": 0.2
+    },
+    "min_score": 0.0,
+    "max_age_days": 30
+  },
+
+  "filtering": {
+    "excluded_sectors": ["não se aplica", "outros"],
+    "min_sector_confidence": 0.3
+  },
+
+  "sectors": [
+    {
+      "name": "Serviços",
+      "sectors_definition": 1
+    },
+    {
+      "name": "Comércio",
+      "sectors_definition": 2
+    },
+    {
+      "name": "Agronegócio",
+      "sectors_definition": 3
+    },
+    {
+      "name": "Indústria",
+      "sectors_definition": 4  
+    }
+  ],
+
+  "llm": {
+    "use_llm": true,
+    "temperature": 0.3,
+    "max_tokens": 500
+  },
+
+  "newsletter_content": {
+    "include_intro": true,
+    "include_closing": true,
+    "group_by_sector": true,
+    "highlight_top_news": true
+  },
+
+  "delivery": {
+    "subject": "📰 Resumo de Notícias do Observatório de Negócios do Sebrae/SC",
+    "from_name": "News Catch Agent"
+  }
+}
