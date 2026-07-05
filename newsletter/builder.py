@@ -55,7 +55,6 @@ class NewsletterBuilder:
             "agronegócio",
             "comércio",
             "indústria",
-            "serviço",
             "serviços",
         ]
 
@@ -1037,6 +1036,8 @@ class NewsletterBuilder:
         setor_data: Dict[str, Any],
         include_cta: bool = True,
         observatory_url: str = "https://observatorio.sebrae-sc.com.br",
+        include_intro: bool = True,
+        include_closing: bool = True,
     ) -> List[Dict[str, Any]]:
         """
         Monta a lista de blocos/notícias para uma newsletter específica de um setor.
@@ -1048,12 +1049,26 @@ class NewsletterBuilder:
             setor_data.get("titulo")
             or f"Análise - {str(setor).capitalize()}"
         )
-
+        introducao = setor_data.get("introducao", "")
         analise = setor_data.get("conteudo", "")
         destaques = setor_data.get("destaques", [])
         oportunidades = setor_data.get("oportunidades", [])
         riscos = setor_data.get("riscos", [])
         noticias = setor_data.get("noticias", [])
+        conclusao = setor_data.get("conclusao", "")
+
+        #Introdução do Setor
+        if include_intro and introducao:
+            news_list.append(
+                {
+                    "title": f"Introdução - {str(setor).capitalize()}",
+                    "summary": introducao,
+                    "source": "Análise setorial",
+                    "published_at": "",
+                    "url": "#",
+                    "setor": setor,
+                }
+            )
 
         # 1. Análise setorial
         if analise:
@@ -1154,6 +1169,19 @@ class NewsletterBuilder:
                 }
             )
 
+        # Conclusão do setor
+        if include_closing and conclusao:
+            news_list.append(
+                {
+                    "title": f"Conclusão - {str(setor).capitalize()}",
+                    "summary": conclusao,
+                    "source": "Análise setorial",
+                    "published_at": "",
+                    "url": "#",
+                    "setor": setor,
+                }
+            )
+
         if not news_list:
             news_list.append(
                 {
@@ -1224,6 +1252,8 @@ class NewsletterBuilder:
         title_prefix: str | None = None,
         include_cta: bool = True,
         observatory_url: str = "https://www.sebrae-sc.com.br/observatorio",
+        include_intro: bool = True,
+        include_closing: bool = True,
     ) -> Dict[str, str]:
         """
         Constrói uma newsletter HTML para cada setor encontrado no DataFrame.
@@ -1239,8 +1269,8 @@ class NewsletterBuilder:
         self.build_newsletter(
             dataframe=dataframe,
             sector_column=sector_column,
-            include_intro=False,
-            include_closing=False,
+            include_intro=include_intro,
+            include_closing=include_closing,
         )
 
         conteudo = self.newsletter_structure.get("conteudo", {})
@@ -1254,6 +1284,8 @@ class NewsletterBuilder:
                 setor_data=setor_data,
                 include_cta=include_cta,
                 observatory_url=observatory_url,
+                include_intro=include_intro,
+                include_closing=include_closing,
             )
 
             sector_title = f"{title_prefix} - {str(setor).capitalize()}"

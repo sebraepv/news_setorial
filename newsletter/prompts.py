@@ -61,17 +61,8 @@ def get_sector_prompt(sector: str, news_data: str) -> str:
                 "perspectivas de crescimento e riscos operacionais",
             ],
         },
-        "serviço": {
-            "persona": "Você é um analista especializado em serviços, tecnologia, economia digital, serviços financeiros e mercado corporativo.",
-            "focus": [
-                "inovações e transformação digital",
-                "movimentos de mercado, investimentos e crédito",
-                "efeitos para empresas prestadoras de serviço",
-                "oportunidades e riscos para pequenos negócios",
-            ],
-        },
         "serviços": {
-            "persona": "Você é um analista especializado em serviços, tecnologia, economia digital, serviços financeiros e mercado corporativo.",
+            "persona": "Você é um analista especializado no setor de serviços. Analise tendências, notícias e movimentos econômicos sob a perspectiva do empreendedor, identificando impactos no faturamento, custos, produtividade, experiência do cliente e crescimento do negócio.",
             "focus": [
                 "inovações e transformação digital",
                 "movimentos de mercado, investimentos e crédito",
@@ -84,7 +75,7 @@ def get_sector_prompt(sector: str, news_data: str) -> str:
     context = sector_contexts.get(
         sector,
         {
-            "persona": "Você é um analista econômico especializado em negócios, setores produtivos e tendências de mercado.",
+            "persona": "Você é um consultor  de negócios especializado em pequenos negócios, setores produtivos e tendências de mercado.",
             "focus": [
                 "principais acontecimentos do setor",
                 "impactos econômicos e empresariais",
@@ -263,8 +254,8 @@ def get_newsletter_prompt(data: Union[list, tuple, str]) -> str:
     news_json = data
 
     return f"""
-    Você é o editor-chefe de uma newsletter executiva voltada para empresários,
-    gestores públicos, analistas econômicos, lideranças setoriais e tomadores de decisão.
+    Você é o editor-chefe de uma newsletter executiva voltada para empresários donos de pequenos negócios,
+    gestores públicos, lideranças setoriais e tomadores de decisão.
 
     Você receberá um JSON com notícias organizadas por setor.
 
@@ -315,11 +306,13 @@ def get_newsletter_prompt(data: Union[list, tuple, str]) -> str:
         ],
         "riscos": [
             "Risco relevante 1",
-            "Risco relevante 2"
+            "Risco relevante 2",
+            "Risco relevante 3"
         ],
         "oportunidades": [
             "Oportunidade relevante 1",
-            "Oportunidade relevante 2"
+            "Oportunidade relevante 2",
+            "Oportunidade relevante 3"
         ]
         }},
 
@@ -333,11 +326,13 @@ def get_newsletter_prompt(data: Union[list, tuple, str]) -> str:
         ],
         "riscos": [
             "Risco relevante 1",
-            "Risco relevante 2"
+            "Risco relevante 2",
+            "Risco relevante 3"
         ],
         "oportunidades": [
             "Oportunidade relevante 1",
-            "Oportunidade relevante 2"
+            "Oportunidade relevante 2",
+            "Oportunidade relevante 3"
         ]
         }},
 
@@ -351,11 +346,13 @@ def get_newsletter_prompt(data: Union[list, tuple, str]) -> str:
         ],
         "riscos": [
             "Risco relevante 1",
-            "Risco relevante 2"
+            "Risco relevante 2",
+            "Risco relevante 3"
         ],
         "oportunidades": [
             "Oportunidade relevante 1",
-            "Oportunidade relevante 2"
+            "Oportunidade relevante 2",
+            "Oportunidade relevante 3"
         ]
         }},
 
@@ -369,11 +366,13 @@ def get_newsletter_prompt(data: Union[list, tuple, str]) -> str:
         ],
         "riscos": [
             "Risco relevante 1",
-            "Risco relevante 2"
+            "Risco relevante 2",
+            "Risco relevante 3"
         ],
         "oportunidades": [
             "Oportunidade relevante 1",
-            "Oportunidade relevante 2"
+            "Oportunidade relevante 2",
+            "Oportunidade relevante 3"
         ]
         }}
     }},
