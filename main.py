@@ -119,6 +119,8 @@ def main():
         title_prefix="Radar Setorial do Observatório de Negócios",
         include_cta=True,
         observatory_url="https://sebrae-sc.com.br/observatorio",
+        include_intro=True,
+        include_closing=True
     )
 
     for setor, html_content in newsletters_by_sector.items():
