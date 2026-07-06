@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "data_geracao": "2026-07-02T08:51:11.276798",
+    "data_geracao": "2026-07-06T09:02:11.629627",
     "total_noticias": 20,
     "setores_cobertos": [
       "agronegócio",
@@ -10,80 +10,80 @@
     ]
   },
   "conteudo": {
-    "introducao": "",
+    "introducao": "A edição desta semana traz um panorama estratégico dos principais setores da economia brasileira, destacando avanços regulatórios, tecnológicos e de mercado que impactam diretamente pequenos negócios e tomadores de decisão. As notícias e análises detalham movimentos relevantes no agronegócio, comércio, indústria e serviços, apontando tendências, riscos e oportunidades que exigem atenção especial dos empresários e gestores públicos.",
     "setores": {
       "agronegócio": {
         "setor": "agronegócio",
-        "titulo": "Agronegócio acelera inovação e integração regional com foco no pequeno produtor",
+        "titulo": "Agronegócio: Volatilidade de preços e inovação fortalecem pequenos produtores",
         "quantidade_noticias": 5,
-        "conteudo": "O agronegócio brasileiro evidencia um ciclo virtuoso de fortalecimento das cadeias produtivas regionais, com destaque para o lançamento do Plano Safra da Agricultura Familiar 2026/2027 no Nordeste. A iniciativa amplia o acesso ao crédito, incentiva a mecanização e fomenta programas de apoio rural, beneficiando diretamente pequenos produtores e cooperativas. Paralelamente, a formação de associações, eventos técnicos e a valorização de produtos de origem, como café, abacaxi e produtos com indicação geográfica, impulsionam a agregação de valor e o turismo rural em diversas regiões.\n\nEsses movimentos promovem o desenvolvimento sustentável, maior visibilidade a produtos regionais e ampliação de mercados, inclusive para o turismo de experiência. Pequenos negócios do campo e do entorno vêm se beneficiando de capacitação, acesso a financiamento e novas formas de comercialização, fortalecendo cadeias locais e diversificando receitas. O ambiente setorial mostra-se favorável à inovação e à organização coletiva, fatores essenciais para elevar competitividade e mitigar custos no curto prazo.",
+        "conteudo": "O setor agropecuário vive momentos de volatilidade, especialmente nos mercados de milho e carne bovina. A oferta restrita de milho impulsiona os preços, mas a colheita da safrinha exerce pressão baixista, exigindo uma gestão ativa dos produtores diante das oscilações. O mercado do boi gordo apresentou recuo em junho devido ao menor ritmo dos frigoríficos e ajuste da demanda, impactando pecuaristas e cooperativas na gestão de receitas e custos.\n\nEventos e capacitações promovidos pelo Sebrae em diferentes regiões reforçam a aproximação dos pequenos produtores com tecnologias e práticas inovadoras. Essas iniciativas ampliam o acesso à agricultura familiar, políticas públicas e prevenção de riscos como incêndios rurais, fortalecendo a competitividade e sustentabilidade no campo. A adoção de novas soluções e parcerias institucionais mostra-se fundamental para a tomada de decisão e ajustes operacionais, especialmente diante da expectativa de continuidade da volatilidade nos próximos dias.",
         "destaques": [
-          "Início do novo Plano Safra da Agricultura Familiar com foco em crédito e mecanização no Nordeste",
-          "Crescimento de associações e eventos que estimulam integração e inovação em cadeias como café, abacaxi e produtos de origem",
-          "Valorização de produtos regionais e incentivo ao turismo de experiência, ampliando oportunidades para pequenos negócios"
+          "Oferta restrita de milho impulsiona preços, mas a colheita da safrinha pode limitar ganhos.",
+          "Mercado do boi gordo recua, refletindo menor demanda e ritmo dos frigoríficos.",
+          "Eventos e capacitações ampliam acesso de pequenos produtores a tecnologias e políticas públicas."
         ],
         "riscos": [
-          "Possível dificuldade na implementação efetiva das políticas e acesso ao crédito para todos os produtores",
-          "Desafios logísticos e de mercado para inserção comercial duradoura de produtos regionais"
+          "Volatilidade nos preços do milho devido à entrada da safra e oscilações de oferta.",
+          "Redução na demanda por carne bovina e ritmo dos frigoríficos pode impactar receitas dos pecuaristas."
         ],
         "oportunidades": [
-          "Maior acesso a financiamento e máquinas pode elevar produtividade e renda de pequenos produtores",
-          "Organização coletiva e promoção de produtos de origem abrem portas para novos mercados e turismo rural"
+          "Adoção de tecnologias e capacitações pode elevar produtividade e eficiência dos pequenos produtores.",
+          "Discussão de políticas públicas e prevenção de riscos favorecem gestão e sustentabilidade no campo."
         ],
         "noticias": [
           {
-            "title": "Plano Safra da Agricultura Familiar 2026/2027 é lançado no Nordeste em Fortaleza",
-            "summary": "Evento reuniu anúncio de crédito fundiário, entrega de máquinas e apresentação de estudo sobre o Agroamigo O post Plano Safra da Agricultura Familiar 2026/2027 é lançado no Nordeste em Fortaleza apareceu primeiro em Canal Rural.",
-            "newsletter_summary": "O novo Plano Safra da Agricultura Familiar 2026/2027 foi lançado em Fortaleza, trazendo novidades como crédito fundiário e entrega de máquinas. O evento marcou também a apresentação de estudo sobre o Agroamigo, impulsionando o apoio ao pequeno produtor no Nordeste.",
-            "url": "https://www.canalrural.com.br/agricultura/plano-safra-da-agricultura-familiar-2026-2027-e-lancado-no-nordeste-em-fortaleza/",
-            "link": "https://www.canalrural.com.br/agricultura/plano-safra-da-agricultura-familiar-2026-2027-e-lancado-no-nordeste-em-fortaleza/",
+            "title": "Milho sobe com oferta restrita, mas colheita da safrinha mantém pressão sobre preços",
+            "summary": "",
+            "newsletter_summary": "Com a oferta limitada, o milho registra alta, porém a colheita da safrinha mantém o mercado pressionado. Descubra como esse cenário pode impactar os preços e estratégias para produtores e investidores.",
+            "url": "https://www.canalrural.com.br/agricultura/milho/milho-sobe-com-oferta-restrita-mas-colheita-da-safrinha-mantem-pressao-sobre-precos/",
+            "link": "https://www.canalrural.com.br/agricultura/milho/milho-sobe-com-oferta-restrita-mas-colheita-da-safrinha-mantem-pressao-sobre-precos/",
             "source": "Canal Rural",
-            "published_at": "2026-07-01T23:18:42+00:00",
-            "ranking_score": 0.8703,
+            "published_at": "2026-07-06T11:45:50+00:00",
+            "ranking_score": 0.8095,
             "setor": "agronegócio"
           },
           {
-            "title": "Empreendedores criam associação da Rota do Café do Cerrado Mineiro",
-            "summary": "A Região do Cerrado Mineiro passou a contar com a Associação dos Empreendedores da Rota do Café do Cerrado Mineiro (ACAFÉTUR). A nova entidade foi constituída para fomentar o desenvolvimento sustentável do turismo, promover a integração entre os empreendedores e estimular ações conjuntas de divulgação, capacitação e inovação na Rota. A iniciativa teve o suporte […]",
-            "newsletter_summary": "Empreendedores do Cerrado Mineiro fundaram a ACAFÉTUR, associação dedicada a fortalecer o turismo sustentável na Rota do Café. A iniciativa busca unir esforços para divulgar o destino, promover capacitação e incentivar a inovação no setor.",
-            "url": "https://mg.agenciasebrae.com.br/cultura-empreendedora/empreendedores-criam-associacao-da-rota-do-cafe-do-cerrado-mineiro/",
-            "link": "https://mg.agenciasebrae.com.br/cultura-empreendedora/empreendedores-criam-associacao-da-rota-do-cafe-do-cerrado-mineiro/",
-            "source": "Agencia de Notícias Sebrae/MG",
-            "published_at": "2026-07-01T20:31:20+00:00",
-            "ranking_score": 0.8016,
+            "title": "Sebrae-SP participa de evento voltado à pecuária bovina em Lavrinhas",
+            "summary": "No dia 7 de julho, às 9h30, o Sebrae-SP estará presente no município de Lavrinhas para a segunda edição do evento de pecuária “Carne do Vale”. A ação “A vez do mercado: índices, cotação e carne de qualidade”, realizada pelo Sindicato Rural de Cruzeiro e Lavrinhas, conta com a parceria da Associação dos Produtores de […]",
+            "newsletter_summary": "O Sebrae-SP marca presença em Lavrinhas na segunda edição do “Carne do Vale”, trazendo debates sobre índices, cotação e qualidade da carne. Veja como o evento pode ajudar pecuaristas a se atualizar sobre o mercado.",
+            "url": "https://sp.agenciasebrae.com.br/cultura-empreendedora/sebrae-sp-participa-de-evento-voltado-a-pecuaria-bovina-em-lavrinhas/",
+            "link": "https://sp.agenciasebrae.com.br/cultura-empreendedora/sebrae-sp-participa-de-evento-voltado-a-pecuaria-bovina-em-lavrinhas/",
+            "source": "Agencia de Notícias Sebrae/SP",
+            "published_at": "2026-07-03T19:19:41+00:00",
+            "ranking_score": 0.79,
             "setor": "agronegócio"
           },
           {
-            "title": "Indicações Geográficas de Goiás brilham em Gramado",
-            "summary": "A participação goiana no Connection Terroirs do Brasil 2026, realizado de 10 a 13 de junho em Gramado, Rio Grande do Sul, foi apoiada pelo Sebrae Goiás, que busca fortalecer a inserção comercial dos pequenos produtores e do turismo de experiência. O tradicional evento reúne anualmente lideranças institucionais, compradores, chefs, imprensa e representantes de IGs […]",
-            "newsletter_summary": "Pequenos produtores goianos ganharam destaque no Connection Terroirs do Brasil 2026, em Gramado. O evento, apoiado pelo Sebrae Goiás, reforçou a importância das indicações geográficas para ampliar mercados e valorizar o turismo de experiência.",
-            "url": "https://go.agenciasebrae.com.br/cultura-empreendedora/indicacoes-geograficas-de-goias-brilham-em-gramado/",
-            "link": "https://go.agenciasebrae.com.br/cultura-empreendedora/indicacoes-geograficas-de-goias-brilham-em-gramado/",
-            "source": "Agencia de Notícias Sebrae/GO",
-            "published_at": "2026-06-30T13:24:27+00:00",
-            "ranking_score": 0.7888,
+            "title": "Sebrae-SP, Sindicato Rural de Jales e Prefeitura de Turmalina realizam o 1º Dia de Campo de Turmalina",
+            "summary": "Pela primeira vez, produtores rurais de Turmalina e municípios vizinhos tiveram um espaço voltado à discussão dos principais desafios do campo na região. Agricultura familiar, citricultura, acesso a políticas públicas e prevenção de incêndios rurais pautaram o 1º Dia de Campo de Produtores Rurais, realizado nesta quinta-feira (2), no Turmalina Camping Clube. Promovido pelo Sebrae-SP, […]",
+            "newsletter_summary": "Produtores rurais de Turmalina e região têm agora um espaço para discutir desafios como agricultura familiar e prevenção de incêndios. Saiba como o 1º Dia de Campo fortalece o diálogo e incentiva soluções locais.",
+            "url": "https://sp.agenciasebrae.com.br/cultura-empreendedora/sebrae-sp-sindicato-rural-de-jales-e-prefeitura-de-turmalina-realizam-o-1o-dia-de-campo-de-turmalina/",
+            "link": "https://sp.agenciasebrae.com.br/cultura-empreendedora/sebrae-sp-sindicato-rural-de-jales-e-prefeitura-de-turmalina-realizam-o-1o-dia-de-campo-de-turmalina/",
+            "source": "Agencia de Notícias Sebrae/SP",
+            "published_at": "2026-07-03T18:07:36+00:00",
+            "ranking_score": 0.7792,
             "setor": "agronegócio"
           },
           {
-            "title": "Dia de Campo fortalece cadeia produtiva do Abacaxi de Porto Grande",
-            "summary": "O Serviço de Apoio às Micro e Pequenas Empresas no Amapá (Sebrae) em parceria com a Prefeitura de Porto Grande, Empresa Brasileira de Pesquisa Agropecuária (Embrapa), Instituto de Desenvolvimento Rural do Amapá (Rurap) e Associação dos Produtores do Abacaxi de Porto Grande (ASPAG PG), realizou neste sábado (27), na Colônia Agrícola do Matapi, em Porto […]",
-            "newsletter_summary": "Uma ação conjunta no Amapá reuniu produtores, Sebrae, Embrapa e parceiros para fortalecer a cadeia produtiva do Abacaxi de Porto Grande. O Dia de Campo promoveu troca de conhecimento e estratégias para impulsionar o setor na região.",
-            "url": "https://ap.agenciasebrae.com.br/cultura-empreendedora/dia-de-campo-fortalece-cadeia-produtiva-do-abacaxi-de-porto-grande/",
-            "link": "https://ap.agenciasebrae.com.br/cultura-empreendedora/dia-de-campo-fortalece-cadeia-produtiva-do-abacaxi-de-porto-grande/",
-            "source": "Agencia de Notícias Sebrae/AP",
-            "published_at": "2026-06-30T19:47:19+00:00",
-            "ranking_score": 0.7835,
+            "title": "Tecnologia no campo transforma a rotina de produtores rurais e impulsiona o agronegócio no Maranhão",
+            "summary": "OUÇA ESTA MATÉRIA 🎧 Realizada pelo Sebrae, 6ª edição do Inova Agro aproxima pequenos produtores da inovação por meio de capacitações, demonstrações de tecnologias e troca de experiências.A inovação deixou de ser um conceito distante para se tornar ferramenta de transformação na rotina de quem vive da produção rural. Foi com esse propósito que cerca […]",
+            "newsletter_summary": "A inovação está cada vez mais presente no agronegócio maranhense. Conheça a 6ª edição do Inova Agro, que aproxima pequenos produtores de capacitações e tecnologias, potencializando resultados no campo.",
+            "url": "https://ma.agenciasebrae.com.br/cultura-empreendedora/tecnologia-no-campo-transforma-a-rotina-de-produtores-rurais-e-impulsiona-o-agronegocio-no-maranhao/",
+            "link": "https://ma.agenciasebrae.com.br/cultura-empreendedora/tecnologia-no-campo-transforma-a-rotina-de-produtores-rurais-e-impulsiona-o-agronegocio-no-maranhao/",
+            "source": "Agencia de Notícias Sebrae/MA",
+            "published_at": "2026-07-03T18:38:54+00:00",
+            "ranking_score": 0.7714,
             "setor": "agronegócio"
           },
           {
-            "title": "Sebrae promove a Arena do Empreendedor na Picos Pro Race",
-            "summary": "Entre os dias 03 e 05 de julho acontecerá a Picos Pro Race, um dos maiores eventos esportivos do Norte e Nordeste. O Sebrae é parceiro da iniciativa e durante os três dias do evento, na cidade de Picos, promoverá a Arena do Empreendedor, no estacionamento do Piauí Shopping, espaço que reunirá 21 pequenos negócios […]",
-            "newsletter_summary": "Durante a Picos Pro Race, Sebrae realiza a Arena do Empreendedor em Picos (PI), reunindo 21 pequenos negócios em um espaço de destaque. A iniciativa conecta esporte e empreendedorismo, ampliando oportunidades para empresas locais.",
-            "url": "https://pi.agenciasebrae.com.br/cultura-empreendedora/sebrae-promove-a-arena-do-empreendedor-na-picos-pro-race/",
-            "link": "https://pi.agenciasebrae.com.br/cultura-empreendedora/sebrae-promove-a-arena-do-empreendedor-na-picos-pro-race/",
-            "source": "Agencia de Notícias Sebrae/PI",
-            "published_at": "2026-07-01T12:19:04+00:00",
-            "ranking_score": 0.7798,
+            "title": "Mercado do boi gordo recua em junho com ajuste da demanda e menor ritmo dos frigoríficos",
+            "summary": "",
+            "newsletter_summary": "O mercado do boi gordo apresentou recuo em junho, influenciado pela demanda ajustada e ritmo reduzido dos frigoríficos. Entenda os fatores por trás desse movimento e o que esperar nos próximos meses.",
+            "url": "https://www.canalrural.com.br/pecuaria/mercado-do-boi-gordo-recua-em-junho-com-ajuste-da-demanda-e-menor-ritmo-dos-frigorificos/",
+            "link": "https://www.canalrural.com.br/pecuaria/mercado-do-boi-gordo-recua-em-junho-com-ajuste-da-demanda-e-menor-ritmo-dos-frigorificos/",
+            "source": "Canal Rural",
+            "published_at": "2026-07-05T22:01:00+00:00",
+            "ranking_score": 0.764,
             "setor": "agronegócio"
           }
         ],
@@ -91,76 +91,76 @@
       },
       "comércio": {
         "setor": "comércio",
-        "titulo": "Ambiente regulatório favorece integração internacional e digitalização do comércio",
+        "titulo": "Comércio: Modernização regulatória e nichos em expansão impulsionam pequenos negócios",
         "quantidade_noticias": 5,
-        "conteudo": "O comércio brasileiro passa por mudanças regulatórias relevantes, com destaque para a ampliação do acesso a contas em moeda estrangeira para empresas com atuação internacional, medida que tende a aumentar eficiência operacional e reduzir custos para exportadores e negócios com participação estrangeira. A flexibilização do Pix por aproximação, eliminando o teto fixo para transações, deve ainda tornar os pagamentos eletrônicos mais acessíveis a consumidores e lojistas, potencializando vendas de maior valor em ambientes físicos e digitais.\n\nO período de férias em regiões como Roraima estimula setores ligados ao lazer, turismo e alimentação, criando oportunidades para pequenos negócios. Programas de capacitação empreendedora, como o Empretec, fortalecem a competitividade de novos empresários, incentivando inovação e melhores práticas de gestão. O setor caminha para maior integração internacional, modernização dos meios de pagamento e valorização do empreendedorismo local.",
+        "conteudo": "O setor de comércio passa por transformações relevantes, com destaque para a modernização cambial promovida pelo Banco Central. A ampliação do acesso a contas em moeda estrangeira favorece empresas exportadoras, reduzindo custos operacionais e facilitando a gestão de fluxos financeiros. Paralelamente, o lançamento do ecossistema de duplicatas escriturais digitalizadas amplia o acesso ao crédito para pequenas e médias empresas, trazendo mais segurança, transparência e eficiência às operações mercantis.\n\nO mercado pet se destaca pelo crescimento expressivo, como observado em Ribeirão das Neves, impulsionando a abertura de pequenos negócios e refletindo oportunidades em segmentos específicos. O período de férias representa potencial de aumento no consumo de produtos e serviços ligados ao lazer, turismo e alimentação, abrindo novas possibilidades para empresas que souberem adaptar seus processos e aproveitar tendências sazonais.",
         "destaques": [
-          "Modernização do câmbio amplia possibilidades para empresas com operações internacionais",
-          "Pix por aproximação ganha flexibilidade, facilitando transações de maior valor",
-          "Período de férias e capacitação impulsionam pequenos negócios em segmentos de lazer e turismo"
+          "Banco Central amplia acesso a contas em moeda estrangeira, favorecendo empresas exportadoras e com relação internacional.",
+          "Duplicatas escriturais digitalizadas facilitam o acesso ao crédito para pequenas e médias empresas, trazendo mais segurança e eficiência.",
+          "O mercado pet e o período de férias impulsionam a abertura e o crescimento de pequenos negócios em setores específicos."
         ],
         "riscos": [
-          "Necessidade de adaptação tecnológica e operacional até a entrada em vigor das novas regras cambiais e de pagamentos",
-          "Manutenção de controles rigorosos para prevenção à lavagem de dinheiro pode gerar custos e desafios para empresas menores"
+          "Necessidade de adaptação operacional e tecnológica para atender às novas regras cambiais e de duplicatas escriturais.",
+          "Pequenos negócios podem enfrentar desafios de acesso a sistemas digitais e compliance regulatório, afetando competitividade."
         ],
         "oportunidades": [
-          "Empresas exportadoras e com capital estrangeiro podem otimizar custos e gestão financeira com as novas regras cambiais",
-          "Lojistas e pequenos negócios podem capturar maior volume de vendas ao facilitar pagamentos eletrônicos de maior valor, especialmente em períodos sazonais de alta demanda"
+          "Abertura de contas em moeda estrangeira e digitalização de duplicatas podem reduzir custos e ampliar acesso ao crédito para empresas com operações internacionais.",
+          "Períodos de alta circulação, como férias, e nichos em expansão, como o mercado pet, oferecem potencial de crescimento para pequenos negócios."
         ],
         "noticias": [
           {
             "title": "BC amplia acesso a contas em moeda estrangeira e moderniza a regulação cambial no país",
             "summary": "​O Banco Central (BC) anunciou, em 18 de junho, um novo passo no processo de modernização do mercado de câmbio brasileiro. A Resolução BCB 575 ampliou as possibilidades de abertura e movimentação de contas de depósito em moeda estrangeira no país, permitindo que novos perfis de pessoas jurídicas passem a utilizar esse instrumento em operações ligadas ao comércio exterior, ao crédito externo e ao investimento estrangeiro. A medida tem como objetivo aumentar a eficiência das operações internacionais, reduzir custos para empresas que atuam além das fronteiras e adequar a regulação à crescente integração da economia brasileira ao ambiente internacional.\"Estamos aprimorando a regulação cambial para refletir melhor a inserção internacional da economia brasileira, com mais eficiência operacional e menor custo para as empresas, sem abrir mão da segurança, dos controles prudenciais e das regras que preservam o funcionamento do mercado de câmbio\", destaca Ricardo Franco Moura, Chefe do Departamento de Regulação Prudencial e Cambial (Dereg) do BC.A regulamentação atual já permite a utilização dessas contas por determinados agentes econômicos, como instituições financeiras, embaixadas, seguradoras e empresas de setores específicos. A medida amplia esse rol, incluindo novas categorias de titulares.Com a nova regra, poderão ser titulares dessas contas pessoas jurídicas exportadoras de bens, empresas residentes de direito privado com dívidas contratadas no exterior, sociedades sediadas no país com participação direta de não residentes em seu capital social e pessoas jurídicas não residentes credoras de crédito externo ou com participação direta em empresas brasileiras. Na prática, a norma abre espaço para que empresas com relação recorrente com o exterior administrem melhor seus fluxos financeiros, com menor necessidade de conversões operacionais e mais previsibilidade na gestão de recursos. Ao mesmo tempo, o aperfeiçoamento regulatório veio acompanhado de salvaguardas. A norma mantém as atuais restrições ao uso de moeda estrangeira para pagamentos no território nacional e não interfere na formação da taxa de câmbio. Também foram preservadas as exigências de prevenção à lavagem de dinheiro e ao financiamento do terrorismo, em linha com padrões internacionais. Além disso, as novas contas estarão sujeitas a condições específicas, como a vedação a saques e depósitos em espécie e a necessidade de comprovação da origem dos recursos. A norma entra em vigor em 1º de outubro de 2026, prazo definido para que as instituições autorizadas adaptem seus sistemas e processos.",
-            "newsletter_summary": "Empresas que atuam no comércio exterior poderão abrir contas em moeda estrangeira no Brasil, facilitando operações internacionais e reduzindo custos. A nova regra entra em vigor em outubro de 2026 e traz mais flexibilidade, sem comprometer a segurança e os controles do mercado de câmbio.",
+            "newsletter_summary": "O Banco Central anunciou novas regras para contas em moeda estrangeira, ampliando o acesso para empresas com operações internacionais. A medida promete mais eficiência e menor custo para negócios que atuam fora do Brasil, mantendo salvaguardas e restrições. A novidade entra em vigor em outubro de 2026.",
             "url": "https://www.bcb.gov.br/detalhenoticia/21191/noticia",
             "link": "https://www.bcb.gov.br/detalhenoticia/21191/noticia",
             "source": "Banco Central do Brasil Notícias",
             "published_at": "2026-07-01T12:45:15+00:00",
-            "ranking_score": 0.8046,
+            "ranking_score": 0.7379,
             "setor": "comércio"
           },
           {
-            "title": "Indicado de Haddad ganha peso em disputa por diretoria-chave do BC",
-            "summary": "O diretor do Banco Central Paulo Picchetti, 64, ganhou peso na disputa para ser efetivado na diretoria de Política Econômica da autarquia. O posto é considerado chave no BC porque subsidia o Copom (Comitê de Política Monetária), instância que define o futuro da taxa básica de juros (Selic), com estudos, dados e análises de conjuntura. (07/01/2026 - 04h00)",
-            "newsletter_summary": "Paulo Picchetti surge como favorito para assumir a diretoria de Política Econômica do Banco Central. O cargo é estratégico, pois influencia diretamente as decisões sobre a taxa básica de juros, atuando na análise e estudos que embasam o Copom.",
-            "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/indicado-de-haddad-ganha-peso-em-disputa-por-diretoria-chave-do-bc.shtml",
-            "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/indicado-de-haddad-ganha-peso-em-disputa-por-diretoria-chave-do-bc.shtml",
-            "source": "Folha Mercado",
-            "published_at": "2026-07-01T07:00:00+00:00",
-            "ranking_score": 0.741,
+            "title": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda",
+            "summary": "Índices futuros dos EUA avançam com ações de tecnologia em alta The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda appeared first on InfoMoney.",
+            "newsletter_summary": "Acompanhe as movimentações do mercado financeiro nesta segunda, com destaque para o avanço dos índices futuros dos EUA impulsionados por ações de tecnologia. Entenda como Bolsa, Dólar e Juros estão reagindo e o que pode influenciar seus investimentos hoje.",
+            "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-06072026/",
+            "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-06072026/",
+            "source": "InfoMoney",
+            "published_at": "2026-07-06T11:38:33+00:00",
+            "ranking_score": 0.7031,
             "setor": "comércio"
           },
           {
-            "title": "Pix por aproximação ganha mais flexibilidade e deixa de ter teto fixo de R$500",
-            "summary": "​O Banco Central (BC) alterou as regras do Pix por aproximação e retirou o teto fixo de R$500 que vigorava para esse tipo de pagamento. Pela Instrução Normativa BCB 746, publicada em 17 de junho, as transações por aproximação e aquelas iniciadas por meio da Jornada Sem Redirecionamento (JSR), no Open Finance, passam a seguir a lógica dos demais pagamentos via Pix: o usuário poderá solicitar ao seu banco o aumento ou a redução do limite diário e do limite por transação, de acordo com a ferramenta de gestão de limites que deve ser disponibilizada por todos os bancos em seus aplicativos. Na prática, a mudança torna o Pix por aproximação ainda mais parecido com a experiência já conhecida por quem usa chave ou QR Code. Com a retirada do limite específico, os usuários poderão fazer transações de valor mais elevado, respeitados os limites definidos pelo usuário, por meio do Pix por aproximação, que é uma experiência com menos fricção do que as demais formas de iniciação. A norma entra em vigor em 1º de outubro de 2026, prazo dado às instituições financeiras e de pagamento para que realizem as adequações operacionais necessárias.\"Ao permitir que o usuário ajuste o limite do Pix por aproximação dentro dos canais da sua instituição, a nova regra torna a experiência mais aderente às necessidades do dia a dia, sem perder de vista os mecanismos de segurança já incorporados ao ecossistema do Pix\", destaca Breno Lobo, Chefe Adjunto do Departamento de Competição e de Estrutura do Mercado Financeiro (Decem) do BC.Open FinanceA atualização também alcança pagamentos iniciados sem redirecionamento no Open Finance, como transações feitas em carteiras digitais compatíveis. O objetivo é unificar as diretrizes e reduzir diferenças regulatórias entre jornadas que, do ponto de vista do usuário, têm a mesma proposta: tornar o pagamento mais simples, rápido e fluido tanto no comércio físico quanto no ambiente digital, permitindo que transações de valor mais elevado também possam ser feitas por meio das carteiras digitais compatíveis. O Pix por aproximação foi concebido justamente para simplificar a jornada de pagamento e ampliar a conveniência no uso do sistema.",
-            "newsletter_summary": "O Banco Central retirou o limite fixo de R$500 para pagamentos via Pix por aproximação, permitindo que usuários definam seus próprios limites. A medida, válida a partir de outubro de 2026, promete tornar o uso do Pix ainda mais prático e alinhado às necessidades do comércio.",
-            "url": "https://www.bcb.gov.br/detalhenoticia/21169/noticia",
-            "link": "https://www.bcb.gov.br/detalhenoticia/21169/noticia",
+            "title": "Ribeirão das Neves avança no mercado pet com crescimento de 23% em novos negócios, em 2025",
+            "summary": "O mercado pet segue em expansão no Brasil, e Ribeirão das Neves acompanha esse crescimento. O município ocupa a 9ª posição no ranking de abertura de pequenos negócios do segmento em Minas Gerais. Em 2025, foram abertas 90 empresas no setor, um crescimento de 23,29% em relação ao ano anterior. São 386 pequenos negócios ativos […]",
+            "newsletter_summary": "Ribeirão das Neves se destaca no mercado pet mineiro, ocupando a 9ª posição em abertura de negócios no segmento. Em 2025, o município registrou um aumento de 23% na criação de empresas do setor, refletindo a expansão nacional e novas oportunidades para pequenos empreendedores.",
+            "url": "https://mg.agenciasebrae.com.br/cultura-empreendedora/ribeirao-das-neves-avanca-no-mercado-pet-com-crescimento-de-23-em-novos-negocios-em-2025/",
+            "link": "https://mg.agenciasebrae.com.br/cultura-empreendedora/ribeirao-das-neves-avanca-no-mercado-pet-com-crescimento-de-23-em-novos-negocios-em-2025/",
+            "source": "Agencia de Notícias Sebrae/MG",
+            "published_at": "2026-07-02T12:34:30+00:00",
+            "ranking_score": 0.6918,
+            "setor": "comércio"
+          },
+          {
+            "title": "As férias estão chegando e, com elas, novas possibilidades para os pequenos negócios",
+            "summary": "As férias do meio de ano representam uma oportunidade para diversos setores da economia. De acordo com o Sebrae, o período costuma aumentar a circulação de pessoas e estimular o consumo de produtos e serviços ligados ao lazer, turismo, entretenimento e alimentação, gerando reflexos positivos para os pequenos negócios. Com mudanças na rotina das famílias […]",
+            "newsletter_summary": "O período de férias do meio do ano traz oportunidades para pequenos negócios, especialmente nos setores de lazer, turismo e alimentação. O aumento na circulação de pessoas estimula o consumo e pode gerar impactos positivos para empresas que souberem aproveitar o momento.",
+            "url": "https://ce.agenciasebrae.com.br/cultura-empreendedora/as-ferias-estao-chegando-e-com-elas-novas-possibilidades-para-os-pequenos-negocios/",
+            "link": "https://ce.agenciasebrae.com.br/cultura-empreendedora/as-ferias-estao-chegando-e-com-elas-novas-possibilidades-para-os-pequenos-negocios/",
+            "source": "Agencia de Notícias Sebrae/CE",
+            "published_at": "2026-07-03T22:02:15+00:00",
+            "ranking_score": 0.6822,
+            "setor": "comércio"
+          },
+          {
+            "title": "Ecossistema de duplicatas escriturais: títulos de crédito passarão a ser negociados em formato digital",
+            "summary": "O Banco Central (BC) lançou nesta terça-feira (30/6) o ecossistema de duplicatas escriturais, marco relevante para a modernização do mercado de crédito no país. O início da negociação desses ativos em formato digital, representa um novo estágio de maturidade institucional e operacional para o sistema financeiro nacional. As duplicatas escriturais consistem na versão eletrônica de títulos de crédito representativos de recebíveis mercantis amplamente utilizados nas relações comerciais, especialmente no financiamento de capital de giro. Ao substituir o formato físico por registros eletrônicos padronizados e rastreáveis, o novo modelo busca conferir maior transparência, eficiência e segurança às operações, contribuindo para o desenvolvimento de um ambiente mais confiável para credores e tomadores de crédito. Saiba mais sobre as duplicatas escriturais aqui​.​ O evento de lançamento aconteceu no Auditório do Edifício-Sede do Banco Central e contou com discurso do Diretor de Regulação do BC, Gilneu Vivan, do Deputado Federal Júlio Lopes, autor da lei da duplicata escritural, além de autoridades do Ministério da Fazenda, do setor produtivo e do sistema financeiro. \"O lançamento deste ecossistema representa mais do que a introdução de uma nova infraestrutura: trata-se de um passo concreto na direção de um sistema financeiro mais moderno, seguro e eficiente, capaz de melhor servir às necessidades da economia real. As duplicatas escriturais ilustram, de forma clara, como a combinação entre tecnologia, inovação regulatória e cooperação institucional pode gerar ganhos tangíveis para empresas, instituições financeiras e a sociedade como um todo\", destacou Gilneu Vivan.Segundo o Diretor de Regulação do BC, a implementação do ecossistema de duplicatas escriturais demandou mais tempo do que originalmente previsto. Além da pandemia, a entrada em operação do ecossistema de registro de recebíveis de cartões apontou a necessidade de aperfeiçoamentos operacionais, tecnológicos e de governança no projeto. “A incorporação de tais aprendizados ao desenho das duplicatas escriturais demandou tempo, mas permitiu assegurar um sistema mais robusto, interoperável e confiável desde o início de sua implementação.” Confiança Foram discutidos na ocasião os principais benefícios esperados com a implementação do ecossistema. Entre eles, destacam-se a redução de assimetrias de informação e o fortalecimento da segurança operacional e jurídica nas operações. A digitalização e a centralização dos registros tendem a mitigar riscos como a duplicidade de cessões e a dificuldade de verificação de titularidade, problemas historicamente associados ao mercado de duplicatas. Também foram tratados no encontro os ganhos concretos a serem proporcionados pelo novo sistema para pequenas e médias empresas, que frequentemente enfrentam maiores dificuldades de acesso ao crédito. Com o registro eletrônico dos recebíveis, essas empresas passam a dispor de ativos mais transparentes e verificáveis, o que eleva a confiança por parte de instituições financeiras e amplia suas possibilidades de financiamento. A melhoria na qualidade da informação permite avaliação de risco mais precisa, criando condições para a oferta de crédito em termos mais favoráveis. A maior segurança jurídica e a redução de potenciais fraudes aumentam a disposição do mercado em financiar empresas de menor porte. A padronização e a rastreabilidade das duplicatas reduzem incertezas tradicionais, favorecendo a concorrência entre financiadores e contribuindo para a diminuição do custo do crédito. Processos mais simples e digitais também tendem a acelerar o acesso a recursos, aspecto fundamental para a gestão de caixa e o capital de giro das pequenas empresas. Outro efeito diz respeito ao custo do crédito de forma geral. A medida reforça o compromisso do BC, ao promover maior previsibilidade, menor risco operacional e legal, empoderando as empresas nas negociações desses ativos, resultando em um mercado de crédito mais eficiente, competitivo e inclusivo, alinhado às melhores práticas internacionais. Debate Também participaram da abertura do evento de lançamento o deputado federal Julio Lopes, o presidente da Confederação Nacional da Indústria (CNI), Ricardo Alvarez Alban, e o secretário de Reformas Econômicas do Ministério da Fazenda, Regis Dudena. O encontro promoveu, ainda, o debate Duplicata Escritural: impactos para o crédito e para a economia real, com moderação do Secretário-Executivo do BC, Rogério Lucca. A mesa contou com o diretor-executivo de Inovação, Produtos e Serviços da Febraban, Ivo Mósca; o CEO da Associação Brasileira de Bancos (ABBC), Leandro Vilain; o coordenador do Comitê Gestor da Estrutura de Governança da Convenção de Duplicatas Escriturais da Associação das Provedoras de Infraestrutura do Mercado Financeiro (APIIMF), Fernando Fontes; e o diretor adjunto de Desenvolvimento Industrial da CNI, Mario Sérgio Telles.",
+            "newsletter_summary": "O Banco Central lançou o ecossistema de duplicatas escriturais, permitindo que títulos de crédito sejam negociados digitalmente. Esse avanço traz mais transparência, segurança e acesso ao crédito, especialmente para pequenas e médias empresas, e promete transformar o mercado de recebíveis no Brasil.",
+            "url": "https://www.bcb.gov.br/detalhenoticia/21194/noticia",
+            "link": "https://www.bcb.gov.br/detalhenoticia/21194/noticia",
             "source": "Banco Central do Brasil Notícias",
-            "published_at": "2026-06-19T19:01:50+00:00",
-            "ranking_score": 0.732,
-            "setor": "comércio"
-          },
-          {
-            "title": "Período de férias movimenta economia de Roraima e cria oportunidades para pequenos negócios",
-            "summary": "As férias do meio de ano representam uma oportunidade para diversos setores da economia de Roraima. De acordo com o Sebrae Roraima, o período costuma aumentar a circulação de pessoas e estimular o consumo de produtos e serviços ligados ao lazer, turismo, entretenimento e alimentação, gerando reflexos positivos para os pequenos negócios. Com mudanças na […]",
-            "newsletter_summary": "O meio do ano traz um impulso ao comércio de Roraima, com mais consumidores buscando lazer, turismo e alimentação. Pequenos negócios aproveitam o aumento na circulação de pessoas para ampliar vendas e diversificar serviços.",
-            "url": "https://rr.agenciasebrae.com.br/cultura-empreendedora/periodo-de-ferias-movimenta-economia-de-roraima-e-cria-oportunidades-para-pequenos-negocios/",
-            "link": "https://rr.agenciasebrae.com.br/cultura-empreendedora/periodo-de-ferias-movimenta-economia-de-roraima-e-cria-oportunidades-para-pequenos-negocios/",
-            "source": "Agencia de Notícias Sebrae/RR",
-            "published_at": "2026-07-01T13:20:22+00:00",
-            "ranking_score": 0.7058,
-            "setor": "comércio"
-          },
-          {
-            "title": "Nova turma do Empretec transforma empreendedores em Bauru",
-            "summary": "A primeira edição do Empretec 2026 em Bauru formou 22 novos empreendedores capacitados com a metodologia desenvolvida pela ONU e reconhecida por promover o desenvolvimento de características essenciais para o sucesso nos negócios. O seminário foi realizado entre os dias 22 e 26 de junho no escritório regional do Sebrae-SP em Bauru. A capacitação contou com a parceria do Instituto Credicitrus, reforçando o compromisso com o […]",
-            "newsletter_summary": "Vinte e dois empreendedores de Bauru concluíram a primeira edição do Empretec 2026, desenvolvendo habilidades essenciais para o sucesso nos negócios. A formação, realizada pelo Sebrae-SP em parceria com o Instituto Credicitrus, reforça o compromisso com o empreendedorismo local.",
-            "url": "https://sp.agenciasebrae.com.br/cultura-empreendedora/nova-turma-do-empretec-transforma-empreendedores-em-bauru/",
-            "link": "https://sp.agenciasebrae.com.br/cultura-empreendedora/nova-turma-do-empretec-transforma-empreendedores-em-bauru/",
-            "source": "Agencia de Notícias Sebrae/SP",
-            "published_at": "2026-06-30T20:21:50+00:00",
-            "ranking_score": 0.7007,
+            "published_at": "2026-07-03T13:54:54+00:00",
+            "ranking_score": 0.6734,
             "setor": "comércio"
           }
         ],
@@ -168,76 +168,76 @@
       },
       "indústria": {
         "setor": "indústria",
-        "titulo": "Inovação sustentável e digitalização financeira marcam a agenda industrial",
+        "titulo": "Indústria: Queda de custos e inovação sustentável fortalecem o setor",
         "quantidade_noticias": 5,
-        "conteudo": "A indústria brasileira avança em inovação com a entrada de novos players em nichos sustentáveis, como a produção de proteína de insetos por biofábricas, ampliando mercados e reforçando o potencial para pequenas e médias empresas que apostam em alternativas ambientalmente responsáveis. O Open Finance ganha força ao promover mais eficiência e segurança nos pagamentos, facilitando a criação de novos produtos e melhorando a gestão financeira nas cadeias industriais.\n\nNo entanto, incertezas relacionadas a custos de insumos estratégicos, como combustíveis, exigem atenção dos gestores à volatilidade de preços e à busca por ganhos de produtividade. A educação financeira cresce como pilar para ampliação da autonomia e inclusão, sendo estimulada por eventos nacionais e programas estruturantes, em um ambiente que demanda adaptação rápida a transformações tecnológicas e comportamentais.",
+        "conteudo": "O setor industrial acompanha avanços na produção global de petróleo, com a OPEP+ aprovando aumento nas metas a partir de agosto e perspectiva de redução gradual do imposto sobre exportação no Brasil. Esses fatores indicam potencial de queda nos preços e maior disponibilidade de matéria-prima, beneficiando o parque industrial nacional. Investimentos em projetos de transmissão elétrica, especialmente em São Paulo, Mato Grosso e Mato Grosso do Sul, reforçam a infraestrutura energética, contribuindo para a segurança e estabilidade do fornecimento às indústrias.\n\nA expansão de biofábricas focadas em proteínas de insetos representa alternativa sustentável e diversificação produtiva, especialmente para pequenos empreendedores. No entanto, persistem desafios regulatórios, volatilidade nos preços do petróleo e disputas societárias em grandes empresas do setor, exigindo atenção dos gestores quanto à adaptação frente às mudanças fiscais e demandas de mercado.",
         "destaques": [
-          "Entrada de novos players em nichos sustentáveis, como a produção de proteína de insetos",
-          "Avanços no Open Finance trazem mais agilidade e segurança aos processos de pagamento e gestão financeira",
-          "Iniciativas de educação financeira ganham força e ampliam a inclusão e a autonomia no ambiente de negócios"
+          "Ampliação da produção global de petróleo com potencial impacto sobre custos industriais",
+          "Investimentos de R$ 1,8 bilhão em reforço da transmissão elétrica em regiões industriais",
+          "Evolução de modelos de negócios sustentáveis, como biofábricas de proteína de insetos"
         ],
         "riscos": [
-          "Incertezas nos preços de insumos estratégicos como combustíveis podem elevar custos industriais",
-          "Desafios de adaptação a rápidas mudanças tecnológicas e comportamentais podem impactar a competitividade"
+          "Volatilidade nos preços do petróleo devido à dinâmica global de oferta e demanda",
+          "Possíveis incertezas regulatórias e disputas societárias em grandes empresas do setor"
         ],
         "oportunidades": [
-          "Exploração de mercados sustentáveis e adoção de inovações produtivas para ampliar competitividade",
-          "Uso de soluções financeiras digitais para otimizar fluxos de caixa e reduzir falhas em transações empresariais"
+          "Redução dos custos energéticos e de insumos para a indústria nacional",
+          "Novos nichos de mercado e inovação em cadeias produtivas sustentáveis"
         ],
         "noticias": [
           {
+            "title": "Opep+ aprova novo aumento na produção de petróleo após retomada de exportações via Hormuz",
+            "summary": "A OPEP+ concordou com um novo aumento nas metas de produção a partir de agosto, informou o grupo em comunicado neste domingo (5). A decisão amplia a oferta global em um momento em que os preços do petróleo estão caindo devido à reabertura gradual do estreito de Hormuz para exportações de petróleo. (07/05/2026 - 09h52)",
+            "newsletter_summary": "A OPEP+ decidiu ampliar a produção de petróleo a partir de agosto, aproveitando a reabertura do estreito de Hormuz. A medida promete aumentar a oferta global em um cenário de queda nos preços do barril. Veja os impactos para o setor.",
+            "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/opep-aprova-novo-aumento-na-producao-de-petroleo-apos-retomada-de-exportacoes-via-hormuz.shtml",
+            "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/opep-aprova-novo-aumento-na-producao-de-petroleo-apos-retomada-de-exportacoes-via-hormuz.shtml",
+            "source": "Folha Mercado",
+            "published_at": "2026-07-05T12:52:00+00:00",
+            "ranking_score": 0.6729,
+            "setor": "indústria"
+          },
+          {
+            "title": "Imposto sobre exportação de petróleo pode cair a 5% ou 6% com redução gradual de subvenções",
+            "summary": "O Imposto de Exportação sobre o petróleo pode cair a 5% ou 6% em meio ao processo de retirada gradual das subvenções aos combustíveis, segundo um integrante da equipe econômica ouvido pela Folha. Hoje, a alíquota do tributo está em 12%. (07/03/2026 - 10h00)",
+            "newsletter_summary": "O imposto sobre exportação de petróleo pode ser reduzido para 5% ou 6% devido à retirada progressiva das subvenções aos combustíveis. Atualmente, a alíquota está em 12%. Entenda como essa mudança pode influenciar o mercado.",
+            "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/imposto-sobre-exportacao-de-petroleo-pode-cair-a-5-ou-6-com-reducao-gradual-de-subvencoes.shtml",
+            "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/imposto-sobre-exportacao-de-petroleo-pode-cair-a-5-ou-6-com-reducao-gradual-de-subvencoes.shtml",
+            "source": "Folha Mercado",
+            "published_at": "2026-07-03T13:00:00+00:00",
+            "ranking_score": 0.6663,
+            "setor": "indústria"
+          },
+          {
             "title": "Biofábrica maranhense aposta na proteína de insetos e conquista mercado nacional com produção sustentável",
             "summary": "OUÇA ESTA MATÉRIA 🎧 Uma oportunidade pode surgir dos lugares mais inesperados. No caso do empreendedor Armando Pacheco, ela veio da televisão. Há cerca de quatro anos, ao assistir a uma reportagem sobre a produção de insetos em diferentes países, ele teve contato com um setor ainda pouco conhecido no Brasil, mas que já despertava […]",
-            "newsletter_summary": "Inspirada em uma reportagem de TV, uma biofábrica do Maranhão encontrou nos insetos uma alternativa inovadora para a produção de proteína sustentável. Em poucos anos, conquistou espaço no mercado nacional e mostra como ideias disruptivas podem transformar negócios na indústria brasileira.",
+            "newsletter_summary": "Uma biofábrica maranhense está inovando ao produzir proteína de insetos e já conquista espaço no mercado nacional. O negócio sustentável nasceu de uma inspiração inesperada e mostra potencial em um segmento pouco explorado no Brasil.",
             "url": "https://ma.agenciasebrae.com.br/cultura-empreendedora/biofabrica-maranhense-aposta-na-proteina-de-insetos-e-conquista-mercado-nacional-com-producao-sustentavel/",
             "link": "https://ma.agenciasebrae.com.br/cultura-empreendedora/biofabrica-maranhense-aposta-na-proteina-de-insetos-e-conquista-mercado-nacional-com-producao-sustentavel/",
             "source": "Agencia de Notícias Sebrae/MA",
             "published_at": "2026-07-01T18:38:13+00:00",
-            "ranking_score": 0.7216,
+            "ranking_score": 0.6549,
             "setor": "indústria"
           },
           {
-            "title": "Presidente da Petrobras diz ser cedo para falar sobre redução no preço da gasolina",
-            "summary": "A presidente da Petrobras, Magda Chambriard, afirmou nesta quarta-feira (1º) que ainda é prematuro falar sobre corte no preço da gasolina, apesar da queda das cotações internacionais do petróleo com a perspectiva de fim da guerra no Irã. (07/01/2026 - 14h31)",
-            "newsletter_summary": "Apesar da recente queda internacional do petróleo, a presidente da Petrobras afirmou que ainda é prematuro prever redução no preço da gasolina. O posicionamento ressalta a cautela da estatal diante das incertezas do mercado global de energia.",
-            "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/presidente-da-petrobras-diz-ser-cedo-para-falar-sobre-reducao-no-preco-da-gasolina.shtml",
-            "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/presidente-da-petrobras-diz-ser-cedo-para-falar-sobre-reducao-no-preco-da-gasolina.shtml",
+            "title": "Recuperação histórica da ExxonMobil consolida CEO como líder da indústria de petróleo global",
+            "summary": "A ExxonMobil consolidou uma das recuperações mais expressivas da indústria de petróleo nos últimos anos. Na assembleia anual realizada em maio, a empresa celebrou a aprovação da mudança do domicílio legal de Nova Jersey para o Texas, apesar das críticas de acionistas que afirmam que a medida reduz seus direitos. (07/04/2026 - 04h00)",
+            "newsletter_summary": "A ExxonMobil celebra uma recuperação marcante, fortalecendo a posição de seu CEO como referência global no setor. Mudanças no domicílio legal e debates com acionistas marcaram a assembleia anual. Descubra os próximos passos da gigante.",
+            "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/recuperacao-historica-da-exxonmobil-consolida-ceo-como-lider-da-industria-de-petroleo-global.shtml",
+            "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/recuperacao-historica-da-exxonmobil-consolida-ceo-como-lider-da-industria-de-petroleo-global.shtml",
             "source": "Folha Mercado",
-            "published_at": "2026-07-01T17:31:00+00:00",
-            "ranking_score": 0.6504,
+            "published_at": "2026-07-04T07:00:00+00:00",
+            "ranking_score": 0.6454,
             "setor": "indústria"
           },
           {
-            "title": "Mais eficiência nos pagamentos com o uso do Open Finance",
-            "summary": "Mais uma novidade para os usuários do Open Finance. A partir de hoje, o cliente poderá optar pelo compartilhamento dos dados de saldo e limite ao conectar sua conta no Pix por Aproximação em carteiras digitais ou ao autorizar movimentações automáticas dessa conta via Open Finance. Assim, quando for fazer um pagamento utilizando uma carteira digital que ofereça essa funcionalidade, o cliente poderá, por exemplo, visualizar quanto ainda tem de saldo em conta antes da transação. A opção está sendo chamada de \"jornada otimizada\" porque evita que o cliente tenha que passar por todo o processo de compartilhamento de dados para autorizar o acesso dessas informações e depois passar por processo semelhante para autorizar a vinculação da conta para pagamentos. Com essa funcionalidade, espera-se aumentar a efetividade dos pagamentos realizados via Open Finance, uma vez que um dos principais motivos de falha é saldo insuficiente. Segundo o chefe de subunidade no Departamento de Regulação do Sistema Financeiro (Denor) Matheus Rauber, bancos e empresas podem criar novos produtos com essa funcionalidade, tanto vinculados a pagamentos com débito em conta, como relacionados a checkout mais fluido, com características de menor abandono de pagamento e de conclusão mais rápida da compra. ​\"Qualquer que seja a solução ofertada, deve estar claro para o cliente a finalidade de uso dessas informações. Como em qualquer compartilhamento de dados, é importante que o cliente sempre verifique de que forma essa informação será utilizada\", disse Matheus Rauber, Chefe de subunidade no Departamento de Regulação do Sistema Financeiro (Denor) do BC.Rauber destaca que o compartilhamento do saldo e limite é opcional e as instituições devem permitir que a vinculação da conta ou a autorização de movimentação automática prossiga normalmente mesmo quando o cliente não selecionar essa opção. “O Banco Central estabeleceu que o cliente precisa ativamente selecionar a opção. Ela não pode vir pré-preenchida”, esclarece. Além disso, como já é regra no Open Finance, o cancelamento é possível a qualquer tempo. O cliente poderá cancelar somente o compartilhamento de saldo e limite, mantendo a vinculação de conta ativa. Se o cliente cancelar a vinculação, o compartilhamento de saldo e limite também é cancelado automaticamente. É importante destacar que esses consentimentos do cliente poderão ser revogados a qualquer momento. A possibilidade de visualização de saldos e limites disponíveis serve para melhorar a experiência do pagamento. Assim, se o cliente revogar o consentimento de pagamento, revoga automaticamente a visualização de dados. Por outro lado, se o cliente quiser continuar a fazer pagamentos, mas não quiser mais visualizar estes dados durante sua efetivação pode revogá-lo sem problema. Otimização Essa jornada otimizada poderá ser oferecida somente em duas modalidades de pagamento do Open Finance: - quando o cliente vincula sua conta no banco B a uma instituição iniciadora (banco A); essa funcionalidade inclui o Pix por aproximação por meio da carteira digital; - quando o cliente autoriza transferências automáticas via Open Finance de uma conta sua no banco B para sua conta no banco A (Transferências Inteligentes). Quem vai ofertar o serviço A oferta do serviço é opcional. Mas as instituições detentoras das contas do cliente serão obrigadas a cumprir eventual ordem de pagamento ou transferência. Segurança A segurança é um dos pilares regulatórios do Open Finance. O ecossistema se baseia em aspectos como consentimento explícito; autenticação forte – com senha e biometria, que são as mesmas usadas pelo cliente para utilizar os serviços financeiros do seu banco; compartilhamento bilateral via APIs padronizadas; e a participação de apenas instituições autorizadas pelo BC. “O consentimento explícito significa que, para o compartilhamento acontecer, é preciso o cliente dar uma autorização específica e autenticada, ele controla de qual banco quer compartilhar, por quanto tempo e outras condições”, lembrou o chefe de subunidade. Papel do BC O Banco Central define os princípios, objetivos e principais regras do Open Finance, estimulando a concorrência e a criação de novos produtos e serviços financeiros no âmbito do ecossistema, além de estabelecer regras de consentimento e supervisionar os participantes do sistema. Saiba mais sobre o Open Finance aqui.",
-            "newsletter_summary": "Agora, clientes do Open Finance podem compartilhar saldos e limites ao usar carteiras digitais e autorizar movimentações automáticas, tornando pagamentos mais ágeis e evitando falhas por saldo insuficiente. A novidade promete impulsionar a criação de soluções inovadoras para o setor financeiro.",
-            "url": "https://www.bcb.gov.br/detalhenoticia/21170/noticia",
-            "link": "https://www.bcb.gov.br/detalhenoticia/21170/noticia",
-            "source": "Banco Central do Brasil Notícias",
-            "published_at": "2026-06-22T11:30:42+00:00",
-            "ranking_score": 0.5546,
-            "setor": "indústria"
-          },
-          {
-            "title": "Educação financeira é central para ampliar autonomia da população, diz diretora do BC",
-            "summary": "A educação financeira também é elemento central para promover a autonomia da população brasileira. A avaliação foi apresentada pela Diretora de Cidadania e Supervisão de Conduta do Banco Central, Izabela Correa, durante a abertura do 3º Encontro de Educação Financeira, realizado nesta sexta-feira (12), em São Paulo.Clique para ver como foi encontro.Promovido pela Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais (Anbima), o evento reuniu representantes de diversas instituições, como B3, Comissão de Valores Mobiliários (CVM), Federação Brasileira de Bancos (Febraban), Fundo Garantidor de Créditos (FGC), Planejar e Sebrae. O tema desta edição foi “Aprender para viver mais e melhor”.Na avaliação da diretora, a educação financeira tem papel estruturante na ampliação de oportunidades e na promoção da inclusão. \"Em um país que busca ampliar oportunidades e promover inclusão, a educação financeira não é um tema periférico, mas um elemento central para que possamos avançar na cidadania e na autonomia dos brasileiros\", disse Izabela Correa, Diretora de Cidadania e Supervisão de Conduta do BC.Segundo ela, o Banco Central tem ampliado a atuação nessa agenda por meio de diferentes iniciativas voltadas à educação financeira.\"Humor e linguagem aproximam debate dos adolescentesA programação do evento incluiu painéis que combinaram dados e análise para discutir os desafios contemporâneos da educação financeira — especialmente entre adolescentes. Parte da nossa comunicação sobre educação financeira é para os especialistas, aí usamos a linguagem dos especialistas. Parte da nossa comunicação é para a população geral, aí usamos linguagens diversas. Inclusive o humor. E o humor não é usado simplesmente porque a gente gosta do humor. O humor é uma linguagem inclusiva, conversa com um público bastante amplo”, afirmou Izabela.Em uma das mesas do evento, Rita Almeida, do Lab Humanidades, e Renato Meireles, do Instituto Locomotiva, abordaram transformações no comportamento das novas gerações, em temas como tecnologia, algoritmos e inteligência artificial.Para Meireles, o desafio passa também pela forma de comunicação. “Nós somos os adultos da sala. E, quando falamos de educação financeira, a responsabilidade é nossa — mas talvez não com a mesma régua e o mesmo vocabulário que usamos no passado”, afirmou.Rita destacou que os adolescentes associam educação financeira a objetivos concretos, como independência e apoio à família, ao mesmo tempo em que demonstram insegurança em relação ao futuro. “Quase metade deles tem receio de que os pais percam o emprego por causa da inteligência artificial”, observou.O debate também avançou sobre a relação entre trabalho, aposentadoria e saúde mental. Segundo o psiquiatra Pedro Shiozawa, da Great People Mental Health, a velocidade de produção de conhecimento redefine desafios para a sociedade. “O volume de informação cresce de forma exponencial, o que aumenta a complexidade das decisões individuais”, disse.O cenário, segundo os participantes, reforça a importância de fortalecer a educação financeira como ferramenta para lidar com um ambiente de mudanças rápidas e maior incerteza.Aprender ValorEntre as iniciativas, Izabela destacou o programa Aprender Valor, principal ação do Banco Central na área de educação financeira. Criado em 2020, o programa apoia a inserção do tema no ensino fundamental, com materiais e formação voltados a professores e redes de ensino.De acordo com a diretora, a iniciativa já alcança mais de 150 mil profissionais da educação e está presente em mais de 30 mil escolas em todo o país. A próxima etapa prevê a expansão para o ensino médio.O Aprender Valor também integra a estratégia do governo federal para educação financeira na educação básica, ao ser a base da plataforma do programa Na Ponta do Lápis, coordenado pelo Ministério da Educação. PremiaçãoDurante o encontro, foi realizada ainda a cerimônia de premiação do Aprender Valor 2026, que reconhece boas práticas de implementação do programa nas escolas.A programação incluiu painéis dedicados aos desafios contemporâneos da educação financeira, especialmente entre jovens. Em uma das apresentações, especialistas destacaram a necessidade de adaptação da linguagem e das abordagens diante das transformações tecnológicas e do impacto da inteligência artificial.A agenda do evento também abordou a relação entre finanças pessoais, bem-estar e saúde mental, reforçando a complexidade dos desafios envolvidos na formação financeira da população em um cenário de acelerada produção de conhecimento e mudanças no mundo do trabalho.Agenda estratégicaA participação do Banco Central no encontro reforça a educação financeira como eixo estratégico da agenda de cidadania financeira da instituição. A atuação busca ampliar o acesso da população a informações e ferramentas que favoreçam decisões mais conscientes, contribuindo para maior inclusão e estabilidade no relacionamento com o sistema financeiro.",
-            "newsletter_summary": "Durante encontro em São Paulo, diretora do Banco Central destacou o papel fundamental da educação financeira para a autonomia dos brasileiros. O evento reuniu especialistas e abordou desafios, como o impacto da tecnologia e inteligência artificial na formação financeira das novas gerações.",
-            "url": "https://www.bcb.gov.br/detalhenoticia/21160/noticia",
-            "link": "https://www.bcb.gov.br/detalhenoticia/21160/noticia",
-            "source": "Banco Central do Brasil Notícias",
-            "published_at": "2026-06-12T20:41:09+00:00",
-            "ranking_score": 0.3918,
-            "setor": "indústria"
-          },
-          {
-            "title": "13ª edição da Semana ENEF acontece entre 18 e 24 de maio",
-            "summary": "Já tradicional, a Semana Nacional de Educação Financeira (Semana ENEF) será realizada, mais uma vez, no mês de maio. A 13ª edição do evento acontece entre os próximos dias 18 e 24 e terá como tema central “Educação Financeira: construindo um futuro com longevidade e prosperidade\".Organizada pelo Fórum Brasileiro de Educação Financeira (FBEF), a Semana ENEF representa um esforço coletivo pela educação financeira, securitária, previdenciária e fiscal. A iniciativa conta com a participação de instituições públicas e privadas, com o objetivo de compartilhar conhecimentos, estimular atitudes e comportamentos e construir uma base sólida para a tomada de decisões financeiras a longo prazo por parte de todos os brasileiros. O propósito é ampliar o acesso ao conhecimento, incentivar hábitos financeiros mais responsáveis e contribuir para decisões mais informadas e sustentáveis por parte dos brasileiros. Ações A semana contará com uma série de iniciativas — presenciais, on-line e mistas. Organizada pela Superintendência de Seguros Privados (Susep), a abertura, com participação dos membros do Fórum Brasileiro de Educação Financeira, acontece entre 14h30 e 17h do dia 18 de maio, no Bloco K, da Esplanada dos Ministérios, em Brasília, em formato misto (presencial e com transmissão on-line).​Outra iniciativa de destaque será o evento “Finanças, cidadania e bem-estar: os desafios das mulheres no Brasil\", promovido pelo BC, no Edifício-Sede da Instituição, em Brasília, das 14h30 às 18h, no dia 22 de maio. O evento será presencial e terá vagas limitadas. Para garantir a sua, . O evento no BC pretende promover a discussão sobre os desafios enfrentados por mulheres para o alcance de sua cidadania e seu bem-estar financeiros. Serão debatidos estudos e pesquisas do BC e do Sebrae sobre o tema, que trarão evidências sobre gênero, raça e acesso ao crédito no Brasil, além de resultados de pesquisa qualitativa sobre educação financeira voltada às mulheres.“Quando falamos em prosperidade, tema da Semana ENEF, as desigualdades da nossa sociedade impactam as oportunidades e os desafios enfrentados pelos diferentes grupos sociais que formam o Brasil. No evento do dia 22 de maio, queremos colocar o foco em gênero e discutir formas de, como sociedade, trabalhar para que mulheres, considerando análises interseccionais​, consigam exercer plenamente sua cidadania e alcançar seu bem-estar financeiro\", disse Izabela Correa, Diretora de Cidadania e Supervisão de Conduta do BC.Ainda durante a Semana ENEF, o BC deve lançar uma nova versão do Portal Cidadania Financeira, espaço da página institucional dedicado a conteúdos para educação financeira do cidadão. A nova versão terá linguagem simples, visual moderno e orientações ainda mais práticas para os visitantes.A agenda completa dos eventos da 13ª Semana ENEF está disponível aqui.​Sobre a Semana ENEFDesde 2014, a Semana ENEF tem se consolidado como um evento nacional de referência na promoção da educação financeira, securitária, previdenciária e fiscal. Reunindo diversas iniciativas gratuitas em todo o Brasil, em 2026 seu foco principal será discutir com os cidadãos as possibilidades de escolhas financeiras que impactarão o futuro e que podem trazer mais prosperidade neste tempo, tanto para prover sustento quanto para realizar sonhos. Durante a semana, poderão ser promovidas atividades de variados temas, como planejamento para a longevidade, longevidade com qualidade, prosperidade como construção, autonomia e tomada de decisão, inclusão e acesso ao conhecimento, e segurança financeira.O tema e os subtemas da Semana ENEF, contudo, são apenas uma referência para orientar o desenvolvimento de novas ações, o que não impede os participantes de abordarem outros assuntos de seu interesse — criatividade é um componente importante do sucesso dessa iniciativa. O essencial é observar, além da gratuidade das iniciativas, as diretrizes da Estratégia Nacional de Educação Financeira, tais como: prevalência do interesse público; atuação por meio de informação, formação e orientação; e proibição de oferta de produtos e serviços nas ações em questão.Sobre o Fórum Brasileiro de Educação Financeira (FBEF)Criado em 2020, o FBEF coordena a Estratégia Nacional de Educação Financeira (ENEF) e promove ações colaborativas para elevar o nível de letramento financeiro no Brasil. Sua presidência é rotativa, e, até maio de 2026, está sendo exercida pela Superintendência de Seguros Privados (Susep). A ENEF tem foco em iniciativas, projetos e programas realizados pelos integrantes do Fórum, tanto de forma individual quanto por meio de parcerias com instituições públicas, privadas ou do terceiro setor.Além da Susep, compõem o Fórum:o Banco Central do Brasil (BCB);a Comissão de Valores Mobiliários (CVM);a Secretaria do Tesouro Nacional (STN), do Ministério da Fazenda;o Ministério da Previdência Social (MPS);a Superintendência Nacional de Previdência Complementar (PREVIC);a Secretaria Nacional do Consumidor (Senacon), do Ministério da Justiça e Segurança Pública;o Ministério da Educação (MEC).​Saiba mais sobre a Semana ENEF aqui​.",
-            "newsletter_summary": "A Semana Nacional de Educação Financeira chega à 13ª edição com o tema 'construindo um futuro com longevidade e prosperidade'. O evento reunirá diversas ações gratuitas por todo o país, discutindo inclusão, cidadania financeira e os desafios enfrentados por diferentes grupos sociais.",
-            "url": "https://www.bcb.gov.br/detalhenoticia/21126/noticia",
-            "link": "https://www.bcb.gov.br/detalhenoticia/21126/noticia",
-            "source": "Banco Central do Brasil Notícias",
-            "published_at": "2026-05-15T19:16:27+00:00",
-            "ranking_score": 0.1835,
+            "title": "Axia (ex-Eletrobras) e consórcio da Alupar vencem relicitação de projetos de transmissão de energia",
+            "summary": "O consórcio Olympus, da Alupar, e a Axia Energia (ex-Eletrobras) foram os vencedores dos quatro projetos de transmissão de energia elétrica relicitados pelo governo em leilão nesta sexta-feira (3). Os projetos totalizam R$ 1,8 bilhão em investimentos totais para obras de reforço da rede elétrica em São Paulo, Mato Grosso e Mato Grosso do Sul. (07/03/2026 - 17h00)",
+            "newsletter_summary": "A Axia Energia e o consórcio Olympus, da Alupar, conquistaram quatro projetos de transmissão de energia em leilão do governo. Os investimentos chegam a R$ 1,8 bilhão e vão reforçar as redes em SP, MT e MS. Saiba mais sobre os vencedores.",
+            "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/axia-ex-eletrobras-e-consorcio-da-alupar-vencem-relicitacao-de-projetos-de-transmissao-de-energia.shtml",
+            "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/axia-ex-eletrobras-e-consorcio-da-alupar-vencem-relicitacao-de-projetos-de-transmissao-de-energia.shtml",
+            "source": "Folha Mercado",
+            "published_at": "2026-07-03T20:00:00+00:00",
+            "ranking_score": 0.6072,
             "setor": "indústria"
           }
         ],
@@ -245,76 +245,76 @@
       },
       "serviço": {
         "setor": "serviço",
-        "titulo": "Startups e inteligência artificial impulsionam a transformação digital nos serviços",
+        "titulo": "Serviços: Inovação e tecnologia ampliam competitividade para pequenos negócios",
         "quantidade_noticias": 5,
-        "conteudo": "O setor de serviços se destaca por avanços em inovação e transformação digital, com startups brasileiras de inteligência artificial registrando crescimento médio anual de receita de 149%, superando a média nacional. Programas de aceleração e capacitação, como os promovidos pelo Sebrae, fortalecem o ecossistema empreendedor, abrindo portas para escalabilidade, acesso a investimento e desenvolvimento de novas soluções.\n\nA incorporação de IA torna-se diferencial estratégico para empresas prestadoras de serviço, ampliando eficiência operacional e criando novas ofertas de produtos. Pequenos negócios encontram oportunidades em eventos, competições universitárias e iniciativas de mentoria e networking, mas precisam manter ritmo acelerado de atualização tecnológica para não ficarem atrás no ambiente de concorrência acirrada.",
+        "conteudo": "O setor de serviços destaca-se pela intensificação de iniciativas voltadas à inovação e adoção tecnológica. Programas como o Sebraetec estão democratizando o acesso de pequenos negócios a consultorias especializadas em transformação digital, produtividade e inteligência artificial, fortalecendo MEIs, microempresas e empresas de pequeno porte. O lançamento de uma nova empresa pela Microsoft para apoiar a adoção de IA reflete a tendência de integração dessas soluções ao cotidiano empresarial.\n\nCompetições de inovação e chamadas internacionais, como a BraFIP, conectam startups e empreendedores a investidores e mercados globais, promovendo um ambiente colaborativo e dinâmico. O engajamento crescente em iniciativas de inovação e o fortalecimento de parcerias estratégicas podem abrir novas oportunidades de negócios e ganhos de eficiência operacional, especialmente para empresas preparadas para a transformação digital.",
         "destaques": [
-          "Startups brasileiras de IA apresentam crescimento anual de receita de 149%.",
-          "Programas de aceleração e capacitação fortalecem o ecossistema empreendedor.",
-          "Eventos e iniciativas fomentam estratégias práticas para escalabilidade de negócios."
+          "Iniciativas ampliam acesso de pequenos negócios à inovação e consultorias especializadas",
+          "Microsoft cria empresa focada em apoiar a adoção de inteligência artificial nas empresas",
+          "Competições e chamadas internacionais promovem conexão entre empreendedores e investidores"
         ],
         "riscos": [
-          "Alta exigência de adaptação tecnológica pode excluir negócios menos preparados.",
-          "Concorrência acirrada pode pressionar margens e dificultar diferenciação."
+          "Desafios de adoção tecnológica por parte de pequenas empresas com baixa maturidade digital",
+          "Possível concentração de oportunidades em negócios mais preparados ou com maior acesso a recursos"
         ],
         "oportunidades": [
-          "Incorporação de IA e inovação digital para ampliar eficiência e diferenciação.",
-          "Participação em programas de aceleração e eventos para acesso a investimento e mentoria."
+          "Ampliação do acesso a soluções de inovação e transformação digital para pequenos negócios",
+          "Conexão com investidores e mercados internacionais por meio de programas e chamadas de inovação"
         ],
         "noticias": [
           {
-            "title": "Como a IA vai ajudar o Stark Bank a alcançar R$ 1 trilhão",
-            "summary": "Podcast MVP | Imagem: StartupsO podcast MVP desta semana recebeu Rafael Stark, fundador e CEO do Stark Bank, e Felipe Facchini, CEO da Stark Infra O post Como a IA vai ajudar o Stark Bank a alcançar R$ 1 trilhão apareceu primeiro em Startups.",
-            "newsletter_summary": "Descubra como a inteligência artificial está impulsionando o Stark Bank rumo à marca de R$ 1 trilhão, com insights exclusivos dos fundadores no podcast MVP. Uma conversa imperdível para quem acompanha inovação no setor financeiro.",
-            "url": "https://startups.com.br/podcast/podcast-mvp/como-a-ia-vai-ajudar-o-stark-bank-a-alcancar-r-1-trilhao/",
-            "link": "https://startups.com.br/podcast/podcast-mvp/como-a-ia-vai-ajudar-o-stark-bank-a-alcancar-r-1-trilhao/",
+            "title": "Sebraetec amplia acesso à inovação e fortalece pequenos negócios em Roraima",
+            "summary": "Com foco no aumento da competitividade dos pequenos negócios por meio da inovação, o Sebraetec oferece consultorias especializadas para microempreendedores individuais (MEI), microempresas (ME) e empresas de pequeno porte (EPP). A iniciativa conecta empresários a prestadores de serviços credenciados, que desenvolvem soluções personalizadas em áreas como transformação digital, produtividade, design, sustentabilidade, eficiência energética, inteligência artificial […]",
+            "newsletter_summary": "O Sebraetec está facilitando o acesso de pequenos negócios à inovação em Roraima, oferecendo consultorias especializadas em áreas como digitalização, produtividade e sustentabilidade. A iniciativa conecta empresas a soluções sob medida, fortalecendo a competitividade local.",
+            "url": "https://rr.agenciasebrae.com.br/cultura-empreendedora/sebraetec-amplia-acesso-a-inovacao-e-fortalece-pequenos-negocios-em-roraima/",
+            "link": "https://rr.agenciasebrae.com.br/cultura-empreendedora/sebraetec-amplia-acesso-a-inovacao-e-fortalece-pequenos-negocios-em-roraima/",
+            "source": "Agencia de Notícias Sebrae/RR",
+            "published_at": "2026-07-03T14:15:08+00:00",
+            "ranking_score": 0.7528,
+            "setor": "serviço"
+          },
+          {
+            "title": "Douglas Freitas assume como CRO da ZoomHolding",
+            "summary": "Douglas Freitas, novo CRO da ZoomHolding (Imagem: Divulgação)Executivo assume o cargo com a missão de integrar áreas comerciais e ampliar a geração de receita da ZoomHolding O post Douglas Freitas assume como CRO da ZoomHolding apareceu primeiro em Startups.",
+            "newsletter_summary": "Douglas Freitas é o novo Chief Revenue Officer da ZoomHolding, assumindo a missão de integrar o time comercial e impulsionar o crescimento da receita da empresa. Mudança promete movimentar a atuação estratégica da companhia.",
+            "url": "https://startups.com.br/danca-das-cadeiras/douglas-freitas-assume-como-cro-da-zoomholding/",
+            "link": "https://startups.com.br/danca-das-cadeiras/douglas-freitas-assume-como-cro-da-zoomholding/",
             "source": "Startups",
-            "published_at": "2026-07-01T19:53:05+00:00",
-            "ranking_score": 0.826,
+            "published_at": "2026-07-03T13:00:00+00:00",
+            "ranking_score": 0.7389,
+            "setor": "serviço"
+          },
+          {
+            "title": "Microsoft lança empresa para ajudar companhias a adotarem IA",
+            "summary": "A Microsoft anunciou nesta quinta-feira (2) que está criando uma nova empresa que ajudará empresas a selecionar tecnologias de inteligência artificial que funcionem para seus negócios e gerem retorno sobre seus investimentos. (07/02/2026 - 19h05)",
+            "newsletter_summary": "A Microsoft anunciou uma nova empresa dedicada a apoiar negócios na escolha e implementação de soluções de inteligência artificial. O objetivo é garantir que as empresas obtenham retorno real sobre seus investimentos em tecnologia.",
+            "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/07/microsoft-lanca-empresa-para-ajudar-companhias-a-adotarem-ia.shtml",
+            "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/07/microsoft-lanca-empresa-para-ajudar-companhias-a-adotarem-ia.shtml",
+            "source": "Folha Mercado",
+            "published_at": "2026-07-02T22:05:00+00:00",
+            "ranking_score": 0.7351,
             "setor": "serviço"
           },
           {
             "title": "Startup-SE realiza competição de inovação entre universitários em Palmas",
             "summary": "Nesta última segunda-feira, 29, foi finalizado o projeto Startup-SE, uma iniciativa que tem o objetivo de desenvolver competências empreendedoras, inovadoras e socioemocionais dos estudantes universitários. O evento, que ocorreu no Auditório do Sebrae, em Palmas, reuniu equipes que apresentaram soluções construídas ao longo da jornada de aprendizagem proposta pelo programa. Desenvolvido pela Universidade Federal do […]",
-            "newsletter_summary": "O Startup-SE encerrou uma competição que estimulou universitários de Palmas a desenvolverem soluções inovadoras e habilidades empreendedoras. Veja como o evento incentivou o protagonismo dos estudantes e revelou novas ideias para o mercado.",
+            "newsletter_summary": "O projeto Startup-SE encerrou sua competição em Palmas, reunindo universitários que apresentaram soluções inovadoras desenvolvidas ao longo do programa. O evento destacou o potencial empreendedor e criativo dos estudantes na busca por novas ideias.",
             "url": "https://to.agenciasebrae.com.br/inovacao-e-tecnologia/startup-se-realiza-competicao-de-inovacao-entre-universitarios-em-palmas/",
             "link": "https://to.agenciasebrae.com.br/inovacao-e-tecnologia/startup-se-realiza-competicao-de-inovacao-entre-universitarios-em-palmas/",
             "source": "Agencia de Notícias Sebrae/TO",
             "published_at": "2026-07-01T17:23:32+00:00",
-            "ranking_score": 0.7986,
+            "ranking_score": 0.7318,
             "setor": "serviço"
           },
           {
-            "title": "Sebrae Roraima abre inscrições para programa de aceleração de startups e projetos inovadores",
-            "summary": "Empreendedores de Roraima que desenvolvem soluções inovadoras já podem se inscrever no Roraima Startups – Programa de Aceleração de Startups do Sebrae/RR. A iniciativa está com inscrições abertas até 17 de julho e busca selecionar startups formalizadas e projetos inovadores ainda não constituídos como empresa para uma jornada de desenvolvimento voltada à validação, crescimento e […]",
-            "newsletter_summary": "Empreendedores de Roraima têm uma nova oportunidade: o Sebrae abriu inscrições para o programa de aceleração de startups e projetos inovadores. Se você busca validação e crescimento para sua ideia, confira os detalhes e prazo para participação.",
-            "url": "https://rr.agenciasebrae.com.br/inovacao-e-tecnologia/sebrae-roraima-abre-inscricoes-para-programa-de-aceleracao-de-startups-e-projetos-inovadores/",
-            "link": "https://rr.agenciasebrae.com.br/inovacao-e-tecnologia/sebrae-roraima-abre-inscricoes-para-programa-de-aceleracao-de-startups-e-projetos-inovadores/",
-            "source": "Agencia de Notícias Sebrae/RR",
-            "published_at": "2026-06-29T11:00:17+00:00",
-            "ranking_score": 0.7685,
-            "setor": "serviço"
-          },
-          {
-            "title": "Startups de IA no Brasil crescem 149% ao ano, diz AWS",
-            "summary": "Dados de nova pesquisa encomendada pela AWS (Amazon Web Services) à consultoria Strand Partners apontam que as \"nativas de IA\" brasileiras -startups com menos de cinco anos que construíram o produto em torno da tecnologia- registraram crescimento médio anual de receita de 149%. O índice fica próximo da média global do mesmo grupo, de 156%, e mais que dobra o desempenho das startups brasileiras em geral, de 64%. (07/01/2026 - 10h00)",
-            "newsletter_summary": "Startups brasileiras construídas em torno da IA estão crescendo a um ritmo impressionante: 149% ao ano, segundo pesquisa da AWS. O avanço supera o desempenho de outras startups nacionais e se aproxima da média global. Saiba mais sobre essa tendência.",
-            "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/07/empresas-brasileiras-lideram-uso-de-ia-na-america-latina-diz-aws.shtml",
-            "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/07/empresas-brasileiras-lideram-uso-de-ia-na-america-latina-diz-aws.shtml",
-            "source": "Folha Mercado",
-            "published_at": "2026-07-01T13:00:00+00:00",
-            "ranking_score": 0.7603,
-            "setor": "serviço"
-          },
-          {
-            "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
-            "summary": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&A on what it takes to build and scale successful companies. Register now to save up to $330.",
-            "newsletter_summary": "TechCrunch Disrupt 2026 traz de volta o Builders Stage, reunindo milhares de fundadores e investidores para discutir estratégias práticas de crescimento. Uma oportunidade para quem busca insights sobre como escalar startups com sucesso.",
-            "url": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
-            "link": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
-            "source": "TechCrunch",
-            "published_at": "2026-07-01T14:00:00+00:00",
-            "ranking_score": 0.7549,
+            "title": "Chamada internacional impulsiona negócios inovadores e conecta empreendedores a investidores e mercados globais",
+            "summary": "Transformar uma boa ideia em um negócio inovador e competitivo pode estar mais perto da realidade de empreendedores, startups, pesquisadores e instituições de ciência e tecnologia. Estão abertas as inscrições para a Chamada de Ideias da Brazilian Innovation and Funding Platform (BraFIP), iniciativa que conta com apoio de organizações internacionais e premiará as 15 melhores […]",
+            "newsletter_summary": "Estão abertas as inscrições para a Chamada de Ideias da BraFIP, que vai premiar 15 projetos inovadores. A iniciativa conecta startups e empreendedores a investidores e mercados internacionais, ampliando oportunidades de crescimento global.",
+            "url": "https://pb.agenciasebrae.com.br/inovacao-e-tecnologia/chamada-internacional-impulsiona-negocios-inovadores-e-conecta-empreendedores-a-investidores-e-mercados-globais/",
+            "link": "https://pb.agenciasebrae.com.br/inovacao-e-tecnologia/chamada-internacional-impulsiona-negocios-inovadores-e-conecta-empreendedores-a-investidores-e-mercados-globais/",
+            "source": "Agencia de Notícias Sebrae/PB",
+            "published_at": "2026-07-03T17:40:49+00:00",
+            "ranking_score": 0.7291,
             "setor": "serviço"
           }
         ],
@@ -322,77 +322,77 @@
       }
     },
     "principais_tendencias": [
-      "Fortalecimento dos pequenos negócios por meio de inovação, capacitação e acesso ampliado a crédito e tecnologia",
-      "Transformação digital acelerada, com destaque para inteligência artificial, Open Finance e modernização de meios de pagamento",
-      "Valorização de produtos regionais e sustentabilidade como diferenciais competitivos nos mercados nacional e internacional"
+      "Avanço na digitalização de processos e acesso ao crédito para pequenas empresas",
+      "Integração de tecnologias inovadoras e sustentabilidade nos modelos de negócio",
+      "Modernização regulatória fortalece operações internacionais e nichos setoriais"
     ],
     "oportunidades": [
-      "Adoção de soluções digitais e IA para ganho de eficiência e abertura de novos mercados",
-      "Participação em programas de aceleração, capacitação e eventos para pequenos negócios e startups",
-      "Organização coletiva e promoção de produtos de origem impulsionando turismo, exportação e geração de valor local"
+      "Adoção de tecnologias e capacitações para elevar produtividade e eficiência dos pequenos negócios",
+      "Expansão de mercados específicos, como o setor pet e biofábricas de proteínas, impulsiona novos negócios",
+      "Programas de inovação e acesso a consultorias especializadas ampliam competitividade e conexão global"
     ],
     "riscos": [
-      "Dificuldades de adaptação operacional e tecnológica, especialmente para pequenos e médios negócios",
-      "Volatilidade nos custos de insumos estratégicos e desafios logísticos",
-      "Concorrência acirrada e pressões regulatórias exigindo atualização constante e investimentos em compliance"
+      "Volatilidade de preços em commodities agrícolas e industriais pode impactar receitas e custos",
+      "Desafios na adaptação a novas normas regulatórias e tecnológicas para pequenos negócios",
+      "Concentração de oportunidades em empresas com maior maturidade digital e acesso a recursos"
     ],
-    "conclusao": "",
+    "conclusao": "O ambiente econômico brasileiro segue em transformação, impulsionado por mudanças regulatórias, avanços tecnológicos e expansão de segmentos estratégicos. Pequenos negócios devem se adaptar rapidamente às novas tendências e buscar oportunidades de capacitação, inovação e acesso ao crédito, garantindo competitividade diante dos riscos e incertezas do mercado. O engajamento em iniciativas de inovação e a atenção às demandas setoriais são essenciais para o crescimento sustentável e a geração de valor.",
     "originais_por_setor": {
       "agronegócio": [
         {
-          "title": "Plano Safra da Agricultura Familiar 2026/2027 é lançado no Nordeste em Fortaleza",
-          "summary": "Evento reuniu anúncio de crédito fundiário, entrega de máquinas e apresentação de estudo sobre o Agroamigo O post Plano Safra da Agricultura Familiar 2026/2027 é lançado no Nordeste em Fortaleza apareceu primeiro em Canal Rural.",
-          "link": "https://www.canalrural.com.br/agricultura/plano-safra-da-agricultura-familiar-2026-2027-e-lancado-no-nordeste-em-fortaleza/",
+          "title": "Milho sobe com oferta restrita, mas colheita da safrinha mantém pressão sobre preços",
+          "summary": "",
+          "link": "https://www.canalrural.com.br/agricultura/milho/milho-sobe-com-oferta-restrita-mas-colheita-da-safrinha-mantem-pressao-sobre-precos/",
           "source": "Canal Rural",
-          "published_at": "2026-07-01T23:18:42+00:00",
-          "ranking_score": 0.8702831722913141,
+          "published_at": "2026-07-06T11:45:50+00:00",
+          "ranking_score": 0.8095180297189164,
           "setor": "agronegócio",
-          "confianca_setor": 0.49786813408448405,
+          "confianca_setor": 0.41201111534779705,
           "peso_fonte": 0.9
         },
         {
-          "title": "Empreendedores criam associação da Rota do Café do Cerrado Mineiro",
-          "summary": "A Região do Cerrado Mineiro passou a contar com a Associação dos Empreendedores da Rota do Café do Cerrado Mineiro (ACAFÉTUR). A nova entidade foi constituída para fomentar o desenvolvimento sustentável do turismo, promover a integração entre os empreendedores e estimular ações conjuntas de divulgação, capacitação e inovação na Rota. A iniciativa teve o suporte […]",
-          "link": "https://mg.agenciasebrae.com.br/cultura-empreendedora/empreendedores-criam-associacao-da-rota-do-cafe-do-cerrado-mineiro/",
-          "source": "Agencia de Notícias Sebrae/MG",
-          "published_at": "2026-07-01T20:31:20+00:00",
-          "ranking_score": 0.8015759699897806,
+          "title": "Sebrae-SP participa de evento voltado à pecuária bovina em Lavrinhas",
+          "summary": "No dia 7 de julho, às 9h30, o Sebrae-SP estará presente no município de Lavrinhas para a segunda edição do evento de pecuária “Carne do Vale”. A ação “A vez do mercado: índices, cotação e carne de qualidade”, realizada pelo Sindicato Rural de Cruzeiro e Lavrinhas, conta com a parceria da Associação dos Produtores de […]",
+          "link": "https://sp.agenciasebrae.com.br/cultura-empreendedora/sebrae-sp-participa-de-evento-voltado-a-pecuaria-bovina-em-lavrinhas/",
+          "source": "Agencia de Notícias Sebrae/SP",
+          "published_at": "2026-07-03T19:19:41+00:00",
+          "ranking_score": 0.7900388869874504,
           "setor": "agronegócio",
-          "confianca_setor": 0.364431174908202,
+          "confianca_setor": 0.3925252425516713,
           "peso_fonte": 0.98
         },
         {
-          "title": "Indicações Geográficas de Goiás brilham em Gramado",
-          "summary": "A participação goiana no Connection Terroirs do Brasil 2026, realizado de 10 a 13 de junho em Gramado, Rio Grande do Sul, foi apoiada pelo Sebrae Goiás, que busca fortalecer a inserção comercial dos pequenos produtores e do turismo de experiência. O tradicional evento reúne anualmente lideranças institucionais, compradores, chefs, imprensa e representantes de IGs […]",
-          "link": "https://go.agenciasebrae.com.br/cultura-empreendedora/indicacoes-geograficas-de-goias-brilham-em-gramado/",
-          "source": "Agencia de Notícias Sebrae/GO",
-          "published_at": "2026-06-30T13:24:27+00:00",
-          "ranking_score": 0.7887965454846535,
+          "title": "Sebrae-SP, Sindicato Rural de Jales e Prefeitura de Turmalina realizam o 1º Dia de Campo de Turmalina",
+          "summary": "Pela primeira vez, produtores rurais de Turmalina e municípios vizinhos tiveram um espaço voltado à discussão dos principais desafios do campo na região. Agricultura familiar, citricultura, acesso a políticas públicas e prevenção de incêndios rurais pautaram o 1º Dia de Campo de Produtores Rurais, realizado nesta quinta-feira (2), no Turmalina Camping Clube. Promovido pelo Sebrae-SP, […]",
+          "link": "https://sp.agenciasebrae.com.br/cultura-empreendedora/sebrae-sp-sindicato-rural-de-jales-e-prefeitura-de-turmalina-realizam-o-1o-dia-de-campo-de-turmalina/",
+          "source": "Agencia de Notícias Sebrae/SP",
+          "published_at": "2026-07-03T18:07:36+00:00",
+          "ranking_score": 0.7791808766602114,
           "setor": "agronegócio",
-          "confianca_setor": 0.3753650401600816,
+          "confianca_setor": 0.38011752899390744,
           "peso_fonte": 0.98
         },
         {
-          "title": "Dia de Campo fortalece cadeia produtiva do Abacaxi de Porto Grande",
-          "summary": "O Serviço de Apoio às Micro e Pequenas Empresas no Amapá (Sebrae) em parceria com a Prefeitura de Porto Grande, Empresa Brasileira de Pesquisa Agropecuária (Embrapa), Instituto de Desenvolvimento Rural do Amapá (Rurap) e Associação dos Produtores do Abacaxi de Porto Grande (ASPAG PG), realizou neste sábado (27), na Colônia Agrícola do Matapi, em Porto […]",
-          "link": "https://ap.agenciasebrae.com.br/cultura-empreendedora/dia-de-campo-fortalece-cadeia-produtiva-do-abacaxi-de-porto-grande/",
-          "source": "Agencia de Notícias Sebrae/AP",
-          "published_at": "2026-06-30T19:47:19+00:00",
-          "ranking_score": 0.7834578612573833,
+          "title": "Tecnologia no campo transforma a rotina de produtores rurais e impulsiona o agronegócio no Maranhão",
+          "summary": "OUÇA ESTA MATÉRIA 🎧 Realizada pelo Sebrae, 6ª edição do Inova Agro aproxima pequenos produtores da inovação por meio de capacitações, demonstrações de tecnologias e troca de experiências.A inovação deixou de ser um conceito distante para se tornar ferramenta de transformação na rotina de quem vive da produção rural. Foi com esse propósito que cerca […]",
+          "link": "https://ma.agenciasebrae.com.br/cultura-empreendedora/tecnologia-no-campo-transforma-a-rotina-de-produtores-rurais-e-impulsiona-o-agronegocio-no-maranhao/",
+          "source": "Agencia de Notícias Sebrae/MA",
+          "published_at": "2026-07-03T18:38:54+00:00",
+          "ranking_score": 0.7713858373298081,
           "setor": "agronegócio",
-          "confianca_setor": 0.3632697929456964,
+          "confianca_setor": 0.37001964991131325,
           "peso_fonte": 0.98
         },
         {
-          "title": "Sebrae promove a Arena do Empreendedor na Picos Pro Race",
-          "summary": "Entre os dias 03 e 05 de julho acontecerá a Picos Pro Race, um dos maiores eventos esportivos do Norte e Nordeste. O Sebrae é parceiro da iniciativa e durante os três dias do evento, na cidade de Picos, promoverá a Arena do Empreendedor, no estacionamento do Piauí Shopping, espaço que reunirá 21 pequenos negócios […]",
-          "link": "https://pi.agenciasebrae.com.br/cultura-empreendedora/sebrae-promove-a-arena-do-empreendedor-na-picos-pro-race/",
-          "source": "Agencia de Notícias Sebrae/PI",
-          "published_at": "2026-07-01T12:19:04+00:00",
-          "ranking_score": 0.7798328971317622,
+          "title": "Mercado do boi gordo recua em junho com ajuste da demanda e menor ritmo dos frigoríficos",
+          "summary": "",
+          "link": "https://www.canalrural.com.br/pecuaria/mercado-do-boi-gordo-recua-em-junho-com-ajuste-da-demanda-e-menor-ritmo-dos-frigorificos/",
+          "source": "Canal Rural",
+          "published_at": "2026-07-05T22:01:00+00:00",
+          "ranking_score": 0.7640193948529338,
           "setor": "agronegócio",
-          "confianca_setor": 0.34457037531319196,
-          "peso_fonte": 0.98
+          "confianca_setor": 0.3675114389515147,
+          "peso_fonte": 0.9
         }
       ],
       "comércio": [
@@ -402,124 +402,146 @@
           "link": "https://www.bcb.gov.br/detalhenoticia/21191/noticia",
           "source": "Banco Central do Brasil Notícias",
           "published_at": "2026-07-01T12:45:15+00:00",
-          "ranking_score": 0.8046379702865858,
+          "ranking_score": 0.7378888195600423,
           "setor": "comércio",
           "confianca_setor": 0.4383814004045377,
           "peso_fonte": 0.88
         },
         {
-          "title": "Indicado de Haddad ganha peso em disputa por diretoria-chave do BC",
-          "summary": "O diretor do Banco Central Paulo Picchetti, 64, ganhou peso na disputa para ser efetivado na diretoria de Política Econômica da autarquia. O posto é considerado chave no BC porque subsidia o Copom (Comitê de Política Monetária), instância que define o futuro da taxa básica de juros (Selic), com estudos, dados e análises de conjuntura. (07/01/2026 - 04h00)",
-          "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/indicado-de-haddad-ganha-peso-em-disputa-por-diretoria-chave-do-bc.shtml",
-          "source": "Folha Mercado",
-          "published_at": "2026-07-01T07:00:00+00:00",
-          "ranking_score": 0.7410397543075766,
+          "title": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda",
+          "summary": "Índices futuros dos EUA avançam com ações de tecnologia em alta The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda appeared first on InfoMoney.",
+          "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-06072026/",
+          "source": "InfoMoney",
+          "published_at": "2026-07-06T11:38:33+00:00",
+          "ranking_score": 0.7030707946395076,
           "setor": "comércio",
-          "confianca_setor": 0.3899946960408432,
-          "peso_fonte": 0.84
+          "confianca_setor": 0.31208762999332984,
+          "peso_fonte": 0.85
         },
         {
-          "title": "Pix por aproximação ganha mais flexibilidade e deixa de ter teto fixo de R$500",
-          "summary": "​O Banco Central (BC) alterou as regras do Pix por aproximação e retirou o teto fixo de R$500 que vigorava para esse tipo de pagamento. Pela Instrução Normativa BCB 746, publicada em 17 de junho, as transações por aproximação e aquelas iniciadas por meio da Jornada Sem Redirecionamento (JSR), no Open Finance, passam a seguir a lógica dos demais pagamentos via Pix: o usuário poderá solicitar ao seu banco o aumento ou a redução do limite diário e do limite por transação, de acordo com a ferramenta de gestão de limites que deve ser disponibilizada por todos os bancos em seus aplicativos. Na prática, a mudança torna o Pix por aproximação ainda mais parecido com a experiência já conhecida por quem usa chave ou QR Code. Com a retirada do limite específico, os usuários poderão fazer transações de valor mais elevado, respeitados os limites definidos pelo usuário, por meio do Pix por aproximação, que é uma experiência com menos fricção do que as demais formas de iniciação. A norma entra em vigor em 1º de outubro de 2026, prazo dado às instituições financeiras e de pagamento para que realizem as adequações operacionais necessárias.\"Ao permitir que o usuário ajuste o limite do Pix por aproximação dentro dos canais da sua instituição, a nova regra torna a experiência mais aderente às necessidades do dia a dia, sem perder de vista os mecanismos de segurança já incorporados ao ecossistema do Pix\", destaca Breno Lobo, Chefe Adjunto do Departamento de Competição e de Estrutura do Mercado Financeiro (Decem) do BC.Open FinanceA atualização também alcança pagamentos iniciados sem redirecionamento no Open Finance, como transações feitas em carteiras digitais compatíveis. O objetivo é unificar as diretrizes e reduzir diferenças regulatórias entre jornadas que, do ponto de vista do usuário, têm a mesma proposta: tornar o pagamento mais simples, rápido e fluido tanto no comércio físico quanto no ambiente digital, permitindo que transações de valor mais elevado também possam ser feitas por meio das carteiras digitais compatíveis. O Pix por aproximação foi concebido justamente para simplificar a jornada de pagamento e ampliar a conveniência no uso do sistema.",
-          "link": "https://www.bcb.gov.br/detalhenoticia/21169/noticia",
+          "title": "Ribeirão das Neves avança no mercado pet com crescimento de 23% em novos negócios, em 2025",
+          "summary": "O mercado pet segue em expansão no Brasil, e Ribeirão das Neves acompanha esse crescimento. O município ocupa a 9ª posição no ranking de abertura de pequenos negócios do segmento em Minas Gerais. Em 2025, foram abertas 90 empresas no setor, um crescimento de 23,29% em relação ao ano anterior. São 386 pequenos negócios ativos […]",
+          "link": "https://mg.agenciasebrae.com.br/cultura-empreendedora/ribeirao-das-neves-avanca-no-mercado-pet-com-crescimento-de-23-em-novos-negocios-em-2025/",
+          "source": "Agencia de Notícias Sebrae/MG",
+          "published_at": "2026-07-02T12:34:30+00:00",
+          "ranking_score": 0.6917921497108879,
+          "setor": "comércio",
+          "confianca_setor": 0.2973541981277232,
+          "peso_fonte": 0.98
+        },
+        {
+          "title": "As férias estão chegando e, com elas, novas possibilidades para os pequenos negócios",
+          "summary": "As férias do meio de ano representam uma oportunidade para diversos setores da economia. De acordo com o Sebrae, o período costuma aumentar a circulação de pessoas e estimular o consumo de produtos e serviços ligados ao lazer, turismo, entretenimento e alimentação, gerando reflexos positivos para os pequenos negócios. Com mudanças na rotina das famílias […]",
+          "link": "https://ce.agenciasebrae.com.br/cultura-empreendedora/as-ferias-estao-chegando-e-com-elas-novas-possibilidades-para-os-pequenos-negocios/",
+          "source": "Agencia de Notícias Sebrae/CE",
+          "published_at": "2026-07-03T22:02:15+00:00",
+          "ranking_score": 0.6822329527551829,
+          "setor": "comércio",
+          "confianca_setor": 0.2567451440349458,
+          "peso_fonte": 0.98
+        },
+        {
+          "title": "Ecossistema de duplicatas escriturais: títulos de crédito passarão a ser negociados em formato digital",
+          "summary": "O Banco Central (BC) lançou nesta terça-feira (30/6) o ecossistema de duplicatas escriturais, marco relevante para a modernização do mercado de crédito no país. O início da negociação desses ativos em formato digital, representa um novo estágio de maturidade institucional e operacional para o sistema financeiro nacional. As duplicatas escriturais consistem na versão eletrônica de títulos de crédito representativos de recebíveis mercantis amplamente utilizados nas relações comerciais, especialmente no financiamento de capital de giro. Ao substituir o formato físico por registros eletrônicos padronizados e rastreáveis, o novo modelo busca conferir maior transparência, eficiência e segurança às operações, contribuindo para o desenvolvimento de um ambiente mais confiável para credores e tomadores de crédito. Saiba mais sobre as duplicatas escriturais aqui​.​ O evento de lançamento aconteceu no Auditório do Edifício-Sede do Banco Central e contou com discurso do Diretor de Regulação do BC, Gilneu Vivan, do Deputado Federal Júlio Lopes, autor da lei da duplicata escritural, além de autoridades do Ministério da Fazenda, do setor produtivo e do sistema financeiro. \"O lançamento deste ecossistema representa mais do que a introdução de uma nova infraestrutura: trata-se de um passo concreto na direção de um sistema financeiro mais moderno, seguro e eficiente, capaz de melhor servir às necessidades da economia real. As duplicatas escriturais ilustram, de forma clara, como a combinação entre tecnologia, inovação regulatória e cooperação institucional pode gerar ganhos tangíveis para empresas, instituições financeiras e a sociedade como um todo\", destacou Gilneu Vivan.Segundo o Diretor de Regulação do BC, a implementação do ecossistema de duplicatas escriturais demandou mais tempo do que originalmente previsto. Além da pandemia, a entrada em operação do ecossistema de registro de recebíveis de cartões apontou a necessidade de aperfeiçoamentos operacionais, tecnológicos e de governança no projeto. “A incorporação de tais aprendizados ao desenho das duplicatas escriturais demandou tempo, mas permitiu assegurar um sistema mais robusto, interoperável e confiável desde o início de sua implementação.” Confiança Foram discutidos na ocasião os principais benefícios esperados com a implementação do ecossistema. Entre eles, destacam-se a redução de assimetrias de informação e o fortalecimento da segurança operacional e jurídica nas operações. A digitalização e a centralização dos registros tendem a mitigar riscos como a duplicidade de cessões e a dificuldade de verificação de titularidade, problemas historicamente associados ao mercado de duplicatas. Também foram tratados no encontro os ganhos concretos a serem proporcionados pelo novo sistema para pequenas e médias empresas, que frequentemente enfrentam maiores dificuldades de acesso ao crédito. Com o registro eletrônico dos recebíveis, essas empresas passam a dispor de ativos mais transparentes e verificáveis, o que eleva a confiança por parte de instituições financeiras e amplia suas possibilidades de financiamento. A melhoria na qualidade da informação permite avaliação de risco mais precisa, criando condições para a oferta de crédito em termos mais favoráveis. A maior segurança jurídica e a redução de potenciais fraudes aumentam a disposição do mercado em financiar empresas de menor porte. A padronização e a rastreabilidade das duplicatas reduzem incertezas tradicionais, favorecendo a concorrência entre financiadores e contribuindo para a diminuição do custo do crédito. Processos mais simples e digitais também tendem a acelerar o acesso a recursos, aspecto fundamental para a gestão de caixa e o capital de giro das pequenas empresas. Outro efeito diz respeito ao custo do crédito de forma geral. A medida reforça o compromisso do BC, ao promover maior previsibilidade, menor risco operacional e legal, empoderando as empresas nas negociações desses ativos, resultando em um mercado de crédito mais eficiente, competitivo e inclusivo, alinhado às melhores práticas internacionais. Debate Também participaram da abertura do evento de lançamento o deputado federal Julio Lopes, o presidente da Confederação Nacional da Indústria (CNI), Ricardo Alvarez Alban, e o secretário de Reformas Econômicas do Ministério da Fazenda, Regis Dudena. O encontro promoveu, ainda, o debate Duplicata Escritural: impactos para o crédito e para a economia real, com moderação do Secretário-Executivo do BC, Rogério Lucca. A mesa contou com o diretor-executivo de Inovação, Produtos e Serviços da Febraban, Ivo Mósca; o CEO da Associação Brasileira de Bancos (ABBC), Leandro Vilain; o coordenador do Comitê Gestor da Estrutura de Governança da Convenção de Duplicatas Escriturais da Associação das Provedoras de Infraestrutura do Mercado Financeiro (APIIMF), Fernando Fontes; e o diretor adjunto de Desenvolvimento Industrial da CNI, Mario Sérgio Telles.",
+          "link": "https://www.bcb.gov.br/detalhenoticia/21194/noticia",
           "source": "Banco Central do Brasil Notícias",
-          "published_at": "2026-06-19T19:01:50+00:00",
-          "ranking_score": 0.7319787220201343,
+          "published_at": "2026-07-03T13:54:54+00:00",
+          "ranking_score": 0.6734330021573036,
           "setor": "comércio",
-          "confianca_setor": 0.5906710899168268,
+          "confianca_setor": 0.31631753445854155,
           "peso_fonte": 0.88
-        },
-        {
-          "title": "Período de férias movimenta economia de Roraima e cria oportunidades para pequenos negócios",
-          "summary": "As férias do meio de ano representam uma oportunidade para diversos setores da economia de Roraima. De acordo com o Sebrae Roraima, o período costuma aumentar a circulação de pessoas e estimular o consumo de produtos e serviços ligados ao lazer, turismo, entretenimento e alimentação, gerando reflexos positivos para os pequenos negócios. Com mudanças na […]",
-          "link": "https://rr.agenciasebrae.com.br/cultura-empreendedora/periodo-de-ferias-movimenta-economia-de-roraima-e-cria-oportunidades-para-pequenos-negocios/",
-          "source": "Agencia de Notícias Sebrae/RR",
-          "published_at": "2026-07-01T13:20:22+00:00",
-          "ranking_score": 0.705782061608166,
-          "setor": "comércio",
-          "confianca_setor": 0.25202634769842475,
-          "peso_fonte": 0.98
-        },
-        {
-          "title": "Nova turma do Empretec transforma empreendedores em Bauru",
-          "summary": "A primeira edição do Empretec 2026 em Bauru formou 22 novos empreendedores capacitados com a metodologia desenvolvida pela ONU e reconhecida por promover o desenvolvimento de características essenciais para o sucesso nos negócios. O seminário foi realizado entre os dias 22 e 26 de junho no escritório regional do Sebrae-SP em Bauru. A capacitação contou com a parceria do Instituto Credicitrus, reforçando o compromisso com o […]",
-          "link": "https://sp.agenciasebrae.com.br/cultura-empreendedora/nova-turma-do-empretec-transforma-empreendedores-em-bauru/",
-          "source": "Agencia de Notícias Sebrae/SP",
-          "published_at": "2026-06-30T20:21:50+00:00",
-          "ranking_score": 0.7006980818152189,
-          "setor": "comércio",
-          "confianca_setor": 0.2603290093448829,
-          "peso_fonte": 0.98
         }
       ],
       "indústria": [
+        {
+          "title": "Opep+ aprova novo aumento na produção de petróleo após retomada de exportações via Hormuz",
+          "summary": "A OPEP+ concordou com um novo aumento nas metas de produção a partir de agosto, informou o grupo em comunicado neste domingo (5). A decisão amplia a oferta global em um momento em que os preços do petróleo estão caindo devido à reabertura gradual do estreito de Hormuz para exportações de petróleo. (07/05/2026 - 09h52)",
+          "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/opep-aprova-novo-aumento-na-producao-de-petroleo-apos-retomada-de-exportacoes-via-hormuz.shtml",
+          "source": "Folha Mercado",
+          "published_at": "2026-07-05T12:52:00+00:00",
+          "ranking_score": 0.672867026758818,
+          "setor": "indústria",
+          "confianca_setor": 0.3006332624485187,
+          "peso_fonte": 0.84
+        },
+        {
+          "title": "Imposto sobre exportação de petróleo pode cair a 5% ou 6% com redução gradual de subvenções",
+          "summary": "O Imposto de Exportação sobre o petróleo pode cair a 5% ou 6% em meio ao processo de retirada gradual das subvenções aos combustíveis, segundo um integrante da equipe econômica ouvido pela Folha. Hoje, a alíquota do tributo está em 12%. (07/03/2026 - 10h00)",
+          "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/imposto-sobre-exportacao-de-petroleo-pode-cair-a-5-ou-6-com-reducao-gradual-de-subvencoes.shtml",
+          "source": "Folha Mercado",
+          "published_at": "2026-07-03T13:00:00+00:00",
+          "ranking_score": 0.6663152835711097,
+          "setor": "indústria",
+          "confianca_setor": 0.33368582900704,
+          "peso_fonte": 0.84
+        },
         {
           "title": "Biofábrica maranhense aposta na proteína de insetos e conquista mercado nacional com produção sustentável",
           "summary": "OUÇA ESTA MATÉRIA 🎧 Uma oportunidade pode surgir dos lugares mais inesperados. No caso do empreendedor Armando Pacheco, ela veio da televisão. Há cerca de quatro anos, ao assistir a uma reportagem sobre a produção de insetos em diferentes países, ele teve contato com um setor ainda pouco conhecido no Brasil, mas que já despertava […]",
           "link": "https://ma.agenciasebrae.com.br/cultura-empreendedora/biofabrica-maranhense-aposta-na-proteina-de-insetos-e-conquista-mercado-nacional-com-producao-sustentavel/",
           "source": "Agencia de Notícias Sebrae/MA",
           "published_at": "2026-07-01T18:38:13+00:00",
-          "ranking_score": 0.7216350317804432,
+          "ranking_score": 0.6548864667363983,
           "setor": "indústria",
           "confianca_setor": 0.26709540458226805,
           "peso_fonte": 0.98
         },
         {
-          "title": "Presidente da Petrobras diz ser cedo para falar sobre redução no preço da gasolina",
-          "summary": "A presidente da Petrobras, Magda Chambriard, afirmou nesta quarta-feira (1º) que ainda é prematuro falar sobre corte no preço da gasolina, apesar da queda das cotações internacionais do petróleo com a perspectiva de fim da guerra no Irã. (07/01/2026 - 14h31)",
-          "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/presidente-da-petrobras-diz-ser-cedo-para-falar-sobre-reducao-no-preco-da-gasolina.shtml",
+          "title": "Recuperação histórica da ExxonMobil consolida CEO como líder da indústria de petróleo global",
+          "summary": "A ExxonMobil consolidou uma das recuperações mais expressivas da indústria de petróleo nos últimos anos. Na assembleia anual realizada em maio, a empresa celebrou a aprovação da mudança do domicílio legal de Nova Jersey para o Texas, apesar das críticas de acionistas que afirmam que a medida reduz seus direitos. (07/04/2026 - 04h00)",
+          "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/recuperacao-historica-da-exxonmobil-consolida-ceo-como-lider-da-industria-de-petroleo-global.shtml",
           "source": "Folha Mercado",
-          "published_at": "2026-07-01T17:31:00+00:00",
-          "ranking_score": 0.6503907524343778,
+          "published_at": "2026-07-04T07:00:00+00:00",
+          "ranking_score": 0.64538997057948,
           "setor": "indústria",
-          "confianca_setor": 0.26874020989058905,
+          "confianca_setor": 0.292303890455313,
           "peso_fonte": 0.84
         },
         {
-          "title": "Mais eficiência nos pagamentos com o uso do Open Finance",
-          "summary": "Mais uma novidade para os usuários do Open Finance. A partir de hoje, o cliente poderá optar pelo compartilhamento dos dados de saldo e limite ao conectar sua conta no Pix por Aproximação em carteiras digitais ou ao autorizar movimentações automáticas dessa conta via Open Finance. Assim, quando for fazer um pagamento utilizando uma carteira digital que ofereça essa funcionalidade, o cliente poderá, por exemplo, visualizar quanto ainda tem de saldo em conta antes da transação. A opção está sendo chamada de \"jornada otimizada\" porque evita que o cliente tenha que passar por todo o processo de compartilhamento de dados para autorizar o acesso dessas informações e depois passar por processo semelhante para autorizar a vinculação da conta para pagamentos. Com essa funcionalidade, espera-se aumentar a efetividade dos pagamentos realizados via Open Finance, uma vez que um dos principais motivos de falha é saldo insuficiente. Segundo o chefe de subunidade no Departamento de Regulação do Sistema Financeiro (Denor) Matheus Rauber, bancos e empresas podem criar novos produtos com essa funcionalidade, tanto vinculados a pagamentos com débito em conta, como relacionados a checkout mais fluido, com características de menor abandono de pagamento e de conclusão mais rápida da compra. ​\"Qualquer que seja a solução ofertada, deve estar claro para o cliente a finalidade de uso dessas informações. Como em qualquer compartilhamento de dados, é importante que o cliente sempre verifique de que forma essa informação será utilizada\", disse Matheus Rauber, Chefe de subunidade no Departamento de Regulação do Sistema Financeiro (Denor) do BC.Rauber destaca que o compartilhamento do saldo e limite é opcional e as instituições devem permitir que a vinculação da conta ou a autorização de movimentação automática prossiga normalmente mesmo quando o cliente não selecionar essa opção. “O Banco Central estabeleceu que o cliente precisa ativamente selecionar a opção. Ela não pode vir pré-preenchida”, esclarece. Além disso, como já é regra no Open Finance, o cancelamento é possível a qualquer tempo. O cliente poderá cancelar somente o compartilhamento de saldo e limite, mantendo a vinculação de conta ativa. Se o cliente cancelar a vinculação, o compartilhamento de saldo e limite também é cancelado automaticamente. É importante destacar que esses consentimentos do cliente poderão ser revogados a qualquer momento. A possibilidade de visualização de saldos e limites disponíveis serve para melhorar a experiência do pagamento. Assim, se o cliente revogar o consentimento de pagamento, revoga automaticamente a visualização de dados. Por outro lado, se o cliente quiser continuar a fazer pagamentos, mas não quiser mais visualizar estes dados durante sua efetivação pode revogá-lo sem problema. Otimização Essa jornada otimizada poderá ser oferecida somente em duas modalidades de pagamento do Open Finance: - quando o cliente vincula sua conta no banco B a uma instituição iniciadora (banco A); essa funcionalidade inclui o Pix por aproximação por meio da carteira digital; - quando o cliente autoriza transferências automáticas via Open Finance de uma conta sua no banco B para sua conta no banco A (Transferências Inteligentes). Quem vai ofertar o serviço A oferta do serviço é opcional. Mas as instituições detentoras das contas do cliente serão obrigadas a cumprir eventual ordem de pagamento ou transferência. Segurança A segurança é um dos pilares regulatórios do Open Finance. O ecossistema se baseia em aspectos como consentimento explícito; autenticação forte – com senha e biometria, que são as mesmas usadas pelo cliente para utilizar os serviços financeiros do seu banco; compartilhamento bilateral via APIs padronizadas; e a participação de apenas instituições autorizadas pelo BC. “O consentimento explícito significa que, para o compartilhamento acontecer, é preciso o cliente dar uma autorização específica e autenticada, ele controla de qual banco quer compartilhar, por quanto tempo e outras condições”, lembrou o chefe de subunidade. Papel do BC O Banco Central define os princípios, objetivos e principais regras do Open Finance, estimulando a concorrência e a criação de novos produtos e serviços financeiros no âmbito do ecossistema, além de estabelecer regras de consentimento e supervisionar os participantes do sistema. Saiba mais sobre o Open Finance aqui.",
-          "link": "https://www.bcb.gov.br/detalhenoticia/21170/noticia",
-          "source": "Banco Central do Brasil Notícias",
-          "published_at": "2026-06-22T11:30:42+00:00",
-          "ranking_score": 0.5545809551199535,
+          "title": "Axia (ex-Eletrobras) e consórcio da Alupar vencem relicitação de projetos de transmissão de energia",
+          "summary": "O consórcio Olympus, da Alupar, e a Axia Energia (ex-Eletrobras) foram os vencedores dos quatro projetos de transmissão de energia elétrica relicitados pelo governo em leilão nesta sexta-feira (3). Os projetos totalizam R$ 1,8 bilhão em investimentos totais para obras de reforço da rede elétrica em São Paulo, Mato Grosso e Mato Grosso do Sul. (07/03/2026 - 17h00)",
+          "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/axia-ex-eletrobras-e-consorcio-da-alupar-vencem-relicitacao-de-projetos-de-transmissao-de-energia.shtml",
+          "source": "Folha Mercado",
+          "published_at": "2026-07-03T20:00:00+00:00",
+          "ranking_score": 0.6071628080879033,
           "setor": "indústria",
-          "confianca_setor": 0.3156326861674972,
-          "peso_fonte": 0.88
-        },
-        {
-          "title": "Educação financeira é central para ampliar autonomia da população, diz diretora do BC",
-          "summary": "A educação financeira também é elemento central para promover a autonomia da população brasileira. A avaliação foi apresentada pela Diretora de Cidadania e Supervisão de Conduta do Banco Central, Izabela Correa, durante a abertura do 3º Encontro de Educação Financeira, realizado nesta sexta-feira (12), em São Paulo.Clique para ver como foi encontro.Promovido pela Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais (Anbima), o evento reuniu representantes de diversas instituições, como B3, Comissão de Valores Mobiliários (CVM), Federação Brasileira de Bancos (Febraban), Fundo Garantidor de Créditos (FGC), Planejar e Sebrae. O tema desta edição foi “Aprender para viver mais e melhor”.Na avaliação da diretora, a educação financeira tem papel estruturante na ampliação de oportunidades e na promoção da inclusão. \"Em um país que busca ampliar oportunidades e promover inclusão, a educação financeira não é um tema periférico, mas um elemento central para que possamos avançar na cidadania e na autonomia dos brasileiros\", disse Izabela Correa, Diretora de Cidadania e Supervisão de Conduta do BC.Segundo ela, o Banco Central tem ampliado a atuação nessa agenda por meio de diferentes iniciativas voltadas à educação financeira.\"Humor e linguagem aproximam debate dos adolescentesA programação do evento incluiu painéis que combinaram dados e análise para discutir os desafios contemporâneos da educação financeira — especialmente entre adolescentes. Parte da nossa comunicação sobre educação financeira é para os especialistas, aí usamos a linguagem dos especialistas. Parte da nossa comunicação é para a população geral, aí usamos linguagens diversas. Inclusive o humor. E o humor não é usado simplesmente porque a gente gosta do humor. O humor é uma linguagem inclusiva, conversa com um público bastante amplo”, afirmou Izabela.Em uma das mesas do evento, Rita Almeida, do Lab Humanidades, e Renato Meireles, do Instituto Locomotiva, abordaram transformações no comportamento das novas gerações, em temas como tecnologia, algoritmos e inteligência artificial.Para Meireles, o desafio passa também pela forma de comunicação. “Nós somos os adultos da sala. E, quando falamos de educação financeira, a responsabilidade é nossa — mas talvez não com a mesma régua e o mesmo vocabulário que usamos no passado”, afirmou.Rita destacou que os adolescentes associam educação financeira a objetivos concretos, como independência e apoio à família, ao mesmo tempo em que demonstram insegurança em relação ao futuro. “Quase metade deles tem receio de que os pais percam o emprego por causa da inteligência artificial”, observou.O debate também avançou sobre a relação entre trabalho, aposentadoria e saúde mental. Segundo o psiquiatra Pedro Shiozawa, da Great People Mental Health, a velocidade de produção de conhecimento redefine desafios para a sociedade. “O volume de informação cresce de forma exponencial, o que aumenta a complexidade das decisões individuais”, disse.O cenário, segundo os participantes, reforça a importância de fortalecer a educação financeira como ferramenta para lidar com um ambiente de mudanças rápidas e maior incerteza.Aprender ValorEntre as iniciativas, Izabela destacou o programa Aprender Valor, principal ação do Banco Central na área de educação financeira. Criado em 2020, o programa apoia a inserção do tema no ensino fundamental, com materiais e formação voltados a professores e redes de ensino.De acordo com a diretora, a iniciativa já alcança mais de 150 mil profissionais da educação e está presente em mais de 30 mil escolas em todo o país. A próxima etapa prevê a expansão para o ensino médio.O Aprender Valor também integra a estratégia do governo federal para educação financeira na educação básica, ao ser a base da plataforma do programa Na Ponta do Lápis, coordenado pelo Ministério da Educação. PremiaçãoDurante o encontro, foi realizada ainda a cerimônia de premiação do Aprender Valor 2026, que reconhece boas práticas de implementação do programa nas escolas.A programação incluiu painéis dedicados aos desafios contemporâneos da educação financeira, especialmente entre jovens. Em uma das apresentações, especialistas destacaram a necessidade de adaptação da linguagem e das abordagens diante das transformações tecnológicas e do impacto da inteligência artificial.A agenda do evento também abordou a relação entre finanças pessoais, bem-estar e saúde mental, reforçando a complexidade dos desafios envolvidos na formação financeira da população em um cenário de acelerada produção de conhecimento e mudanças no mundo do trabalho.Agenda estratégicaA participação do Banco Central no encontro reforça a educação financeira como eixo estratégico da agenda de cidadania financeira da instituição. A atuação busca ampliar o acesso da população a informações e ferramentas que favoreçam decisões mais conscientes, contribuindo para maior inclusão e estabilidade no relacionamento com o sistema financeiro.",
-          "link": "https://www.bcb.gov.br/detalhenoticia/21160/noticia",
-          "source": "Banco Central do Brasil Notícias",
-          "published_at": "2026-06-12T20:41:09+00:00",
-          "ranking_score": 0.39179014765516806,
-          "setor": "indústria",
-          "confianca_setor": 0.312587779347862,
-          "peso_fonte": 0.88
-        },
-        {
-          "title": "13ª edição da Semana ENEF acontece entre 18 e 24 de maio",
-          "summary": "Já tradicional, a Semana Nacional de Educação Financeira (Semana ENEF) será realizada, mais uma vez, no mês de maio. A 13ª edição do evento acontece entre os próximos dias 18 e 24 e terá como tema central “Educação Financeira: construindo um futuro com longevidade e prosperidade\".Organizada pelo Fórum Brasileiro de Educação Financeira (FBEF), a Semana ENEF representa um esforço coletivo pela educação financeira, securitária, previdenciária e fiscal. A iniciativa conta com a participação de instituições públicas e privadas, com o objetivo de compartilhar conhecimentos, estimular atitudes e comportamentos e construir uma base sólida para a tomada de decisões financeiras a longo prazo por parte de todos os brasileiros. O propósito é ampliar o acesso ao conhecimento, incentivar hábitos financeiros mais responsáveis e contribuir para decisões mais informadas e sustentáveis por parte dos brasileiros. Ações A semana contará com uma série de iniciativas — presenciais, on-line e mistas. Organizada pela Superintendência de Seguros Privados (Susep), a abertura, com participação dos membros do Fórum Brasileiro de Educação Financeira, acontece entre 14h30 e 17h do dia 18 de maio, no Bloco K, da Esplanada dos Ministérios, em Brasília, em formato misto (presencial e com transmissão on-line).​Outra iniciativa de destaque será o evento “Finanças, cidadania e bem-estar: os desafios das mulheres no Brasil\", promovido pelo BC, no Edifício-Sede da Instituição, em Brasília, das 14h30 às 18h, no dia 22 de maio. O evento será presencial e terá vagas limitadas. Para garantir a sua, . O evento no BC pretende promover a discussão sobre os desafios enfrentados por mulheres para o alcance de sua cidadania e seu bem-estar financeiros. Serão debatidos estudos e pesquisas do BC e do Sebrae sobre o tema, que trarão evidências sobre gênero, raça e acesso ao crédito no Brasil, além de resultados de pesquisa qualitativa sobre educação financeira voltada às mulheres.“Quando falamos em prosperidade, tema da Semana ENEF, as desigualdades da nossa sociedade impactam as oportunidades e os desafios enfrentados pelos diferentes grupos sociais que formam o Brasil. No evento do dia 22 de maio, queremos colocar o foco em gênero e discutir formas de, como sociedade, trabalhar para que mulheres, considerando análises interseccionais​, consigam exercer plenamente sua cidadania e alcançar seu bem-estar financeiro\", disse Izabela Correa, Diretora de Cidadania e Supervisão de Conduta do BC.Ainda durante a Semana ENEF, o BC deve lançar uma nova versão do Portal Cidadania Financeira, espaço da página institucional dedicado a conteúdos para educação financeira do cidadão. A nova versão terá linguagem simples, visual moderno e orientações ainda mais práticas para os visitantes.A agenda completa dos eventos da 13ª Semana ENEF está disponível aqui.​Sobre a Semana ENEFDesde 2014, a Semana ENEF tem se consolidado como um evento nacional de referência na promoção da educação financeira, securitária, previdenciária e fiscal. Reunindo diversas iniciativas gratuitas em todo o Brasil, em 2026 seu foco principal será discutir com os cidadãos as possibilidades de escolhas financeiras que impactarão o futuro e que podem trazer mais prosperidade neste tempo, tanto para prover sustento quanto para realizar sonhos. Durante a semana, poderão ser promovidas atividades de variados temas, como planejamento para a longevidade, longevidade com qualidade, prosperidade como construção, autonomia e tomada de decisão, inclusão e acesso ao conhecimento, e segurança financeira.O tema e os subtemas da Semana ENEF, contudo, são apenas uma referência para orientar o desenvolvimento de novas ações, o que não impede os participantes de abordarem outros assuntos de seu interesse — criatividade é um componente importante do sucesso dessa iniciativa. O essencial é observar, além da gratuidade das iniciativas, as diretrizes da Estratégia Nacional de Educação Financeira, tais como: prevalência do interesse público; atuação por meio de informação, formação e orientação; e proibição de oferta de produtos e serviços nas ações em questão.Sobre o Fórum Brasileiro de Educação Financeira (FBEF)Criado em 2020, o FBEF coordena a Estratégia Nacional de Educação Financeira (ENEF) e promove ações colaborativas para elevar o nível de letramento financeiro no Brasil. Sua presidência é rotativa, e, até maio de 2026, está sendo exercida pela Superintendência de Seguros Privados (Susep). A ENEF tem foco em iniciativas, projetos e programas realizados pelos integrantes do Fórum, tanto de forma individual quanto por meio de parcerias com instituições públicas, privadas ou do terceiro setor.Além da Susep, compõem o Fórum:o Banco Central do Brasil (BCB);a Comissão de Valores Mobiliários (CVM);a Secretaria do Tesouro Nacional (STN), do Ministério da Fazenda;o Ministério da Previdência Social (MPS);a Superintendência Nacional de Previdência Complementar (PREVIC);a Secretaria Nacional do Consumidor (Senacon), do Ministério da Justiça e Segurança Pública;o Ministério da Educação (MEC).​Saiba mais sobre a Semana ENEF aqui​.",
-          "link": "https://www.bcb.gov.br/detalhenoticia/21126/noticia",
-          "source": "Banco Central do Brasil Notícias",
-          "published_at": "2026-05-15T19:16:27+00:00",
-          "ranking_score": 0.18352273194196836,
-          "setor": "indústria",
-          "confianca_setor": 0.26874100201328327,
-          "peso_fonte": 0.88
+          "confianca_setor": 0.2544429122300272,
+          "peso_fonte": 0.84
         }
       ],
       "serviço": [
         {
-          "title": "Como a IA vai ajudar o Stark Bank a alcançar R$ 1 trilhão",
-          "summary": "Podcast MVP | Imagem: StartupsO podcast MVP desta semana recebeu Rafael Stark, fundador e CEO do Stark Bank, e Felipe Facchini, CEO da Stark Infra O post Como a IA vai ajudar o Stark Bank a alcançar R$ 1 trilhão apareceu primeiro em Startups.",
-          "link": "https://startups.com.br/podcast/podcast-mvp/como-a-ia-vai-ajudar-o-stark-bank-a-alcancar-r-1-trilhao/",
-          "source": "Startups",
-          "published_at": "2026-07-01T19:53:05+00:00",
-          "ranking_score": 0.8260182283657372,
+          "title": "Sebraetec amplia acesso à inovação e fortalece pequenos negócios em Roraima",
+          "summary": "Com foco no aumento da competitividade dos pequenos negócios por meio da inovação, o Sebraetec oferece consultorias especializadas para microempreendedores individuais (MEI), microempresas (ME) e empresas de pequeno porte (EPP). A iniciativa conecta empresários a prestadores de serviços credenciados, que desenvolvem soluções personalizadas em áreas como transformação digital, produtividade, design, sustentabilidade, eficiência energética, inteligência artificial […]",
+          "link": "https://rr.agenciasebrae.com.br/cultura-empreendedora/sebraetec-amplia-acesso-a-inovacao-e-fortalece-pequenos-negocios-em-roraima/",
+          "source": "Agencia de Notícias Sebrae/RR",
+          "published_at": "2026-07-03T14:15:08+00:00",
+          "ranking_score": 0.7527525518728174,
           "setor": "serviço",
-          "confianca_setor": 0.5095009942873961,
+          "confianca_setor": 0.3507344203354721,
+          "peso_fonte": 0.98
+        },
+        {
+          "title": "Douglas Freitas assume como CRO da ZoomHolding",
+          "summary": "Douglas Freitas, novo CRO da ZoomHolding (Imagem: Divulgação)Executivo assume o cargo com a missão de integrar áreas comerciais e ampliar a geração de receita da ZoomHolding O post Douglas Freitas assume como CRO da ZoomHolding apareceu primeiro em Startups.",
+          "link": "https://startups.com.br/danca-das-cadeiras/douglas-freitas-assume-como-cro-da-zoomholding/",
+          "source": "Startups",
+          "published_at": "2026-07-03T13:00:00+00:00",
+          "ranking_score": 0.7388542727199234,
+          "setor": "serviço",
+          "confianca_setor": 0.44887220760289664,
           "peso_fonte": 0.8
+        },
+        {
+          "title": "Microsoft lança empresa para ajudar companhias a adotarem IA",
+          "summary": "A Microsoft anunciou nesta quinta-feira (2) que está criando uma nova empresa que ajudará empresas a selecionar tecnologias de inteligência artificial que funcionem para seus negócios e gerem retorno sobre seus investimentos. (07/02/2026 - 19h05)",
+          "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/07/microsoft-lanca-empresa-para-ajudar-companhias-a-adotarem-ia.shtml",
+          "source": "Folha Mercado",
+          "published_at": "2026-07-02T22:05:00+00:00",
+          "ranking_score": 0.7350869299652969,
+          "setor": "serviço",
+          "confianca_setor": 0.43164397727073217,
+          "peso_fonte": 0.84
         },
         {
           "title": "Startup-SE realiza competição de inovação entre universitários em Palmas",
@@ -527,46 +549,24 @@
           "link": "https://to.agenciasebrae.com.br/inovacao-e-tecnologia/startup-se-realiza-competicao-de-inovacao-entre-universitarios-em-palmas/",
           "source": "Agencia de Notícias Sebrae/TO",
           "published_at": "2026-07-01T17:23:32+00:00",
-          "ranking_score": 0.7985641073488422,
+          "ranking_score": 0.7318154183817037,
           "setor": "serviço",
           "confianca_setor": 0.36339411802902494,
           "peso_fonte": 0.98
         },
         {
-          "title": "Sebrae Roraima abre inscrições para programa de aceleração de startups e projetos inovadores",
-          "summary": "Empreendedores de Roraima que desenvolvem soluções inovadoras já podem se inscrever no Roraima Startups – Programa de Aceleração de Startups do Sebrae/RR. A iniciativa está com inscrições abertas até 17 de julho e busca selecionar startups formalizadas e projetos inovadores ainda não constituídos como empresa para uma jornada de desenvolvimento voltada à validação, crescimento e […]",
-          "link": "https://rr.agenciasebrae.com.br/inovacao-e-tecnologia/sebrae-roraima-abre-inscricoes-para-programa-de-aceleracao-de-startups-e-projetos-inovadores/",
-          "source": "Agencia de Notícias Sebrae/RR",
-          "published_at": "2026-06-29T11:00:17+00:00",
-          "ranking_score": 0.7685265503258074,
+          "title": "Chamada internacional impulsiona negócios inovadores e conecta empreendedores a investidores e mercados globais",
+          "summary": "Transformar uma boa ideia em um negócio inovador e competitivo pode estar mais perto da realidade de empreendedores, startups, pesquisadores e instituições de ciência e tecnologia. Estão abertas as inscrições para a Chamada de Ideias da Brazilian Innovation and Funding Platform (BraFIP), iniciativa que conta com apoio de organizações internacionais e premiará as 15 melhores […]",
+          "link": "https://pb.agenciasebrae.com.br/inovacao-e-tecnologia/chamada-internacional-impulsiona-negocios-inovadores-e-conecta-empreendedores-a-investidores-e-mercados-globais/",
+          "source": "Agencia de Notícias Sebrae/PB",
+          "published_at": "2026-07-03T17:40:49+00:00",
+          "ranking_score": 0.7290931459925887,
           "setor": "serviço",
-          "confianca_setor": 0.37297508396067586,
+          "confianca_setor": 0.31849912031204247,
           "peso_fonte": 0.98
-        },
-        {
-          "title": "Startups de IA no Brasil crescem 149% ao ano, diz AWS",
-          "summary": "Dados de nova pesquisa encomendada pela AWS (Amazon Web Services) à consultoria Strand Partners apontam que as \"nativas de IA\" brasileiras -startups com menos de cinco anos que construíram o produto em torno da tecnologia- registraram crescimento médio anual de receita de 149%. O índice fica próximo da média global do mesmo grupo, de 156%, e mais que dobra o desempenho das startups brasileiras em geral, de 64%. (07/01/2026 - 10h00)",
-          "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/07/empresas-brasileiras-lideram-uso-de-ia-na-america-latina-diz-aws.shtml",
-          "source": "Folha Mercado",
-          "published_at": "2026-07-01T13:00:00+00:00",
-          "ranking_score": 0.7603479493632975,
-          "setor": "serviço",
-          "confianca_setor": 0.4087368583976077,
-          "peso_fonte": 0.84
-        },
-        {
-          "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
-          "summary": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&A on what it takes to build and scale successful companies. Register now to save up to $330.",
-          "link": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
-          "source": "TechCrunch",
-          "published_at": "2026-07-01T14:00:00+00:00",
-          "ranking_score": 0.7548665210088901,
-          "setor": "serviço",
-          "confianca_setor": 0.4264839981585982,
-          "peso_fonte": 0.8
         }
       ]
     },
-    "modelo_resposta_bruta": "{\n\"introducao\": \"Nesta edição, destacamos avanços estratégicos em setores-chave da economia brasileira, com ênfase em inovação, modernização regulatória e fortalecimento dos pequenos negócios. O cenário revela oportunidades relevantes impulsionadas por políticas públicas, transformação digital e crescimento de novos nichos, ao mesmo tempo em que impõe desafios de adaptação diante de mudanças regulatórias e tecnológicas aceleradas.\",\n\"setores\": {\n\"agronegócio\": {\n\"titulo\": \"Agronegócio acelera inovação e integração regional com foco no pequeno produtor\",\n\"analise\": \"O agronegócio brasileiro evidencia um ciclo virtuoso de fortalecimento das cadeias produtivas regionais, com destaque para o lançamento do Plano Safra da Agricultura Familiar 2026/2027 no Nordeste. A iniciativa amplia o acesso ao crédito, incentiva a mecanização e fomenta programas de apoio rural, beneficiando diretamente pequenos produtores e cooperativas. Paralelamente, a formação de associações, eventos técnicos e a valorização de produtos de origem, como café, abacaxi e produtos com indicação geográfica, impulsionam a agregação de valor e o turismo rural em diversas regiões.\\n\\nEsses movimentos promovem o desenvolvimento sustentável, maior visibilidade a produtos regionais e ampliação de mercados, inclusive para o turismo de experiência. Pequenos negócios do campo e do entorno vêm se beneficiando de capacitação, acesso a financiamento e novas formas de comercialização, fortalecendo cadeias locais e diversificando receitas. O ambiente setorial mostra-se favorável à inovação e à organização coletiva, fatores essenciais para elevar competitividade e mitigar custos no curto prazo.\",\n\"destaques\": [\n\"Início do novo Plano Safra da Agricultura Familiar com foco em crédito e mecanização no Nordeste\",\n\"Crescimento de associações e eventos que estimulam integração e inovação em cadeias como café, abacaxi e produtos de origem\",\n\"Valorização de produtos regionais e incentivo ao turismo de experiência, ampliando oportunidades para pequenos negócios\"\n],\n\"riscos\": [\n\"Possível dificuldade na implementação efetiva das políticas e acesso ao crédito para todos os produtores\",\n\"Desafios logísticos e de mercado para inserção comercial duradoura de produtos regionais\"\n],\n\"oportunidades\": [\n\"Maior acesso a financiamento e máquinas pode elevar produtividade e renda de pequenos produtores\",\n\"Organização coletiva e promoção de produtos de origem abrem portas para novos mercados e turismo rural\"\n]\n},\n\"comércio\": {\n\"titulo\": \"Ambiente regulatório favorece integração internacional e digitalização do comércio\",\n\"analise\": \"O comércio brasileiro passa por mudanças regulatórias relevantes, com destaque para a ampliação do acesso a contas em moeda estrangeira para empresas com atuação internacional, medida que tende a aumentar eficiência operacional e reduzir custos para exportadores e negócios com participação estrangeira. A flexibilização do Pix por aproximação, eliminando o teto fixo para transações, deve ainda tornar os pagamentos eletrônicos mais acessíveis a consumidores e lojistas, potencializando vendas de maior valor em ambientes físicos e digitais.\\n\\nO período de férias em regiões como Roraima estimula setores ligados ao lazer, turismo e alimentação, criando oportunidades para pequenos negócios. Programas de capacitação empreendedora, como o Empretec, fortalecem a competitividade de novos empresários, incentivando inovação e melhores práticas de gestão. O setor caminha para maior integração internacional, modernização dos meios de pagamento e valorização do empreendedorismo local.\",\n\"destaques\": [\n\"Modernização do câmbio amplia possibilidades para empresas com operações internacionais\",\n\"Pix por aproximação ganha flexibilidade, facilitando transações de maior valor\",\n\"Período de férias e capacitação impulsionam pequenos negócios em segmentos de lazer e turismo\"\n],\n\"riscos\": [\n\"Necessidade de adaptação tecnológica e operacional até a entrada em vigor das novas regras cambiais e de pagamentos\",\n\"Manutenção de controles rigorosos para prevenção à lavagem de dinheiro pode gerar custos e desafios para empresas menores\"\n],\n\"oportunidades\": [\n\"Empresas exportadoras e com capital estrangeiro podem otimizar custos e gestão financeira com as novas regras cambiais\",\n\"Lojistas e pequenos negócios podem capturar maior volume de vendas ao facilitar pagamentos eletrônicos de maior valor, especialmente em períodos sazonais de alta demanda\"\n]\n},\n\"indústria\": {\n\"titulo\": \"Inovação sustentável e digitalização financeira marcam a agenda industrial\",\n\"analise\": \"A indústria brasileira avança em inovação com a entrada de novos players em nichos sustentáveis, como a produção de proteína de insetos por biofábricas, ampliando mercados e reforçando o potencial para pequenas e médias empresas que apostam em alternativas ambientalmente responsáveis. O Open Finance ganha força ao promover mais eficiência e segurança nos pagamentos, facilitando a criação de novos produtos e melhorando a gestão financeira nas cadeias industriais.\\n\\nNo entanto, incertezas relacionadas a custos de insumos estratégicos, como combustíveis, exigem atenção dos gestores à volatilidade de preços e à busca por ganhos de produtividade. A educação financeira cresce como pilar para ampliação da autonomia e inclusão, sendo estimulada por eventos nacionais e programas estruturantes, em um ambiente que demanda adaptação rápida a transformações tecnológicas e comportamentais.\",\n\"destaques\": [\n\"Entrada de novos players em nichos sustentáveis, como a produção de proteína de insetos\",\n\"Avanços no Open Finance trazem mais agilidade e segurança aos processos de pagamento e gestão financeira\",\n\"Iniciativas de educação financeira ganham força e ampliam a inclusão e a autonomia no ambiente de negócios\"\n],\n\"riscos\": [\n\"Incertezas nos preços de insumos estratégicos como combustíveis podem elevar custos industriais\",\n\"Desafios de adaptação a rápidas mudanças tecnológicas e comportamentais podem impactar a competitividade\"\n],\n\"oportunidades\": [\n\"Exploração de mercados sustentáveis e adoção de inovações produtivas para ampliar competitividade\",\n\"Uso de soluções financeiras digitais para otimizar fluxos de caixa e reduzir falhas em transações empresariais\"\n]\n},\n\"serviço\": {\n\"titulo\": \"Startups e inteligência artificial impulsionam a transformação digital nos serviços\",\n\"analise\": \"O setor de serviços se destaca por avanços em inovação e transformação digital, com startups brasileiras de inteligência artificial registrando crescimento médio anual de receita de 149%, superando a média nacional. Programas de aceleração e capacitação, como os promovidos pelo Sebrae, fortalecem o ecossistema empreendedor, abrindo portas para escalabilidade, acesso a investimento e desenvolvimento de novas soluções.\\n\\nA incorporação de IA torna-se diferencial estratégico para empresas prestadoras de serviço, ampliando eficiência operacional e criando novas ofertas de produtos. Pequenos negócios encontram oportunidades em eventos, competições universitárias e iniciativas de mentoria e networking, mas precisam manter ritmo acelerado de atualização tecnológica para não ficarem atrás no ambiente de concorrência acirrada.\",\n\"destaques\": [\n\"Startups brasileiras de IA apresentam crescimento anual de receita de 149%.\",\n\"Programas de aceleração e capacitação fortalecem o ecossistema empreendedor.\",\n\"Eventos e iniciativas fomentam estratégias práticas para escalabilidade de negócios.\"\n],\n\"riscos\": [\n\"Alta exigência de adaptação tecnológica pode excluir negócios menos preparados.\",\n\"Concorrência acirrada pode pressionar margens e dificultar diferenciação.\"\n],\n\"oportunidades\": [\n\"Incorporação de IA e inovação digital para ampliar eficiência e diferenciação.\",\n\"Participação em programas de aceleração e eventos para acesso a investimento e mentoria.\"\n]\n}\n},\n\"principais_tendencias\": [\n\"Fortalecimento dos pequenos negócios por meio de inovação, capacitação e acesso ampliado a crédito e tecnologia\",\n\"Transformação digital acelerada, com destaque para inteligência artificial, Open Finance e modernização de meios de pagamento\",\n\"Valorização de produtos regionais e sustentabilidade como diferenciais competitivos nos mercados nacional e internacional\"\n],\n\"oportunidades\": [\n\"Adoção de soluções digitais e IA para ganho de eficiência e abertura de novos mercados\",\n\"Participação em programas de aceleração, capacitação e eventos para pequenos negócios e startups\",\n\"Organização coletiva e promoção de produtos de origem impulsionando turismo, exportação e geração de valor local\"\n],\n\"riscos\": [\n\"Dificuldades de adaptação operacional e tecnológica, especialmente para pequenos e médios negócios\",\n\"Volatilidade nos custos de insumos estratégicos e desafios logísticos\",\n\"Concorrência acirrada e pressões regulatórias exigindo atualização constante e investimentos em compliance\"\n],\n\"conclusao\": \"O ambiente econômico brasileiro apresenta perspectivas positivas para empresas e pequenos negócios que investem em inovação, qualificação e integração a cadeias produtivas modernas. A transformação digital, o apoio institucional e a valorização das potencialidades regionais criam um ciclo virtuoso de oportunidades, mas exigem atenção redobrada dos gestores para mitigar riscos e garantir competitividade sustentável em um cenário dinâmico e desafiador.\"\n}"
+    "modelo_resposta_bruta": "{\n\"introducao\": \"A edição desta semana traz um panorama estratégico dos principais setores da economia brasileira, destacando avanços regulatórios, tecnológicos e de mercado que impactam diretamente pequenos negócios e tomadores de decisão. As notícias e análises detalham movimentos relevantes no agronegócio, comércio, indústria e serviços, apontando tendências, riscos e oportunidades que exigem atenção especial dos empresários e gestores públicos.\",\n\n\"setores\": {\n    \"agronegócio\": {\n        \"titulo\": \"Agronegócio: Volatilidade de preços e inovação fortalecem pequenos produtores\",\n        \"analise\": \"O setor agropecuário vive momentos de volatilidade, especialmente nos mercados de milho e carne bovina. A oferta restrita de milho impulsiona os preços, mas a colheita da safrinha exerce pressão baixista, exigindo uma gestão ativa dos produtores diante das oscilações. O mercado do boi gordo apresentou recuo em junho devido ao menor ritmo dos frigoríficos e ajuste da demanda, impactando pecuaristas e cooperativas na gestão de receitas e custos.\\n\\nEventos e capacitações promovidos pelo Sebrae em diferentes regiões reforçam a aproximação dos pequenos produtores com tecnologias e práticas inovadoras. Essas iniciativas ampliam o acesso à agricultura familiar, políticas públicas e prevenção de riscos como incêndios rurais, fortalecendo a competitividade e sustentabilidade no campo. A adoção de novas soluções e parcerias institucionais mostra-se fundamental para a tomada de decisão e ajustes operacionais, especialmente diante da expectativa de continuidade da volatilidade nos próximos dias.\",\n        \"destaques\": [\n            \"Oferta restrita de milho impulsiona preços, mas a colheita da safrinha pode limitar ganhos.\",\n            \"Mercado do boi gordo recua, refletindo menor demanda e ritmo dos frigoríficos.\",\n            \"Eventos e capacitações ampliam acesso de pequenos produtores a tecnologias e políticas públicas.\"\n        ],\n        \"riscos\": [\n            \"Volatilidade nos preços do milho devido à entrada da safra e oscilações de oferta.\",\n            \"Redução na demanda por carne bovina e ritmo dos frigoríficos pode impactar receitas dos pecuaristas.\"\n        ],\n        \"oportunidades\": [\n            \"Adoção de tecnologias e capacitações pode elevar produtividade e eficiência dos pequenos produtores.\",\n            \"Discussão de políticas públicas e prevenção de riscos favorecem gestão e sustentabilidade no campo.\"\n        ]\n    },\n\n    \"comércio\": {\n        \"titulo\": \"Comércio: Modernização regulatória e nichos em expansão impulsionam pequenos negócios\",\n        \"analise\": \"O setor de comércio passa por transformações relevantes, com destaque para a modernização cambial promovida pelo Banco Central. A ampliação do acesso a contas em moeda estrangeira favorece empresas exportadoras, reduzindo custos operacionais e facilitando a gestão de fluxos financeiros. Paralelamente, o lançamento do ecossistema de duplicatas escriturais digitalizadas amplia o acesso ao crédito para pequenas e médias empresas, trazendo mais segurança, transparência e eficiência às operações mercantis.\\n\\nO mercado pet se destaca pelo crescimento expressivo, como observado em Ribeirão das Neves, impulsionando a abertura de pequenos negócios e refletindo oportunidades em segmentos específicos. O período de férias representa potencial de aumento no consumo de produtos e serviços ligados ao lazer, turismo e alimentação, abrindo novas possibilidades para empresas que souberem adaptar seus processos e aproveitar tendências sazonais.\",\n        \"destaques\": [\n            \"Banco Central amplia acesso a contas em moeda estrangeira, favorecendo empresas exportadoras e com relação internacional.\",\n            \"Duplicatas escriturais digitalizadas facilitam o acesso ao crédito para pequenas e médias empresas, trazendo mais segurança e eficiência.\",\n            \"O mercado pet e o período de férias impulsionam a abertura e o crescimento de pequenos negócios em setores específicos.\"\n        ],\n        \"riscos\": [\n            \"Necessidade de adaptação operacional e tecnológica para atender às novas regras cambiais e de duplicatas escriturais.\",\n            \"Pequenos negócios podem enfrentar desafios de acesso a sistemas digitais e compliance regulatório, afetando competitividade.\"\n        ],\n        \"oportunidades\": [\n            \"Abertura de contas em moeda estrangeira e digitalização de duplicatas podem reduzir custos e ampliar acesso ao crédito para empresas com operações internacionais.\",\n            \"Períodos de alta circulação, como férias, e nichos em expansão, como o mercado pet, oferecem potencial de crescimento para pequenos negócios.\"\n        ]\n    },\n\n    \"indústria\": {\n        \"titulo\": \"Indústria: Queda de custos e inovação sustentável fortalecem o setor\",\n        \"analise\": \"O setor industrial acompanha avanços na produção global de petróleo, com a OPEP+ aprovando aumento nas metas a partir de agosto e perspectiva de redução gradual do imposto sobre exportação no Brasil. Esses fatores indicam potencial de queda nos preços e maior disponibilidade de matéria-prima, beneficiando o parque industrial nacional. Investimentos em projetos de transmissão elétrica, especialmente em São Paulo, Mato Grosso e Mato Grosso do Sul, reforçam a infraestrutura energética, contribuindo para a segurança e estabilidade do fornecimento às indústrias.\\n\\nA expansão de biofábricas focadas em proteínas de insetos representa alternativa sustentável e diversificação produtiva, especialmente para pequenos empreendedores. No entanto, persistem desafios regulatórios, volatilidade nos preços do petróleo e disputas societárias em grandes empresas do setor, exigindo atenção dos gestores quanto à adaptação frente às mudanças fiscais e demandas de mercado.\",\n        \"destaques\": [\n            \"Ampliação da produção global de petróleo com potencial impacto sobre custos industriais\",\n            \"Investimentos de R$ 1,8 bilhão em reforço da transmissão elétrica em regiões industriais\",\n            \"Evolução de modelos de negócios sustentáveis, como biofábricas de proteína de insetos\"\n        ],\n        \"riscos\": [\n            \"Volatilidade nos preços do petróleo devido à dinâmica global de oferta e demanda\",\n            \"Possíveis incertezas regulatórias e disputas societárias em grandes empresas do setor\"\n        ],\n        \"oportunidades\": [\n            \"Redução dos custos energéticos e de insumos para a indústria nacional\",\n            \"Novos nichos de mercado e inovação em cadeias produtivas sustentáveis\"\n        ]\n    },\n\n    \"serviço\": {\n        \"titulo\": \"Serviços: Inovação e tecnologia ampliam competitividade para pequenos negócios\",\n        \"analise\": \"O setor de serviços destaca-se pela intensificação de iniciativas voltadas à inovação e adoção tecnológica. Programas como o Sebraetec estão democratizando o acesso de pequenos negócios a consultorias especializadas em transformação digital, produtividade e inteligência artificial, fortalecendo MEIs, microempresas e empresas de pequeno porte. O lançamento de uma nova empresa pela Microsoft para apoiar a adoção de IA reflete a tendência de integração dessas soluções ao cotidiano empresarial.\\n\\nCompetições de inovação e chamadas internacionais, como a BraFIP, conectam startups e empreendedores a investidores e mercados globais, promovendo um ambiente colaborativo e dinâmico. O engajamento crescente em iniciativas de inovação e o fortalecimento de parcerias estratégicas podem abrir novas oportunidades de negócios e ganhos de eficiência operacional, especialmente para empresas preparadas para a transformação digital.\",\n        \"destaques\": [\n            \"Iniciativas ampliam acesso de pequenos negócios à inovação e consultorias especializadas\",\n            \"Microsoft cria empresa focada em apoiar a adoção de inteligência artificial nas empresas\",\n            \"Competições e chamadas internacionais promovem conexão entre empreendedores e investidores\"\n        ],\n        \"riscos\": [\n            \"Desafios de adoção tecnológica por parte de pequenas empresas com baixa maturidade digital\",\n            \"Possível concentração de oportunidades em negócios mais preparados ou com maior acesso a recursos\"\n        ],\n        \"oportunidades\": [\n            \"Ampliação do acesso a soluções de inovação e transformação digital para pequenos negócios\",\n            \"Conexão com investidores e mercados internacionais por meio de programas e chamadas de inovação\"\n        ]\n    }\n},\n\n\"principais_tendencias\": [\n    \"Avanço na digitalização de processos e acesso ao crédito para pequenas empresas\",\n    \"Integração de tecnologias inovadoras e sustentabilidade nos modelos de negócio\",\n    \"Modernização regulatória fortalece operações internacionais e nichos setoriais\"\n],\n\n\"oportunidades\": [\n    \"Adoção de tecnologias e capacitações para elevar produtividade e eficiência dos pequenos negócios\",\n    \"Expansão de mercados específicos, como o setor pet e biofábricas de proteínas, impulsiona novos negócios\",\n    \"Programas de inovação e acesso a consultorias especializadas ampliam competitividade e conexão global\"\n],\n\n\"riscos\": [\n    \"Volatilidade de preços em commodities agrícolas e industriais pode impactar receitas e custos\",\n    \"Desafios na adaptação a novas normas regulatórias e tecnológicas para pequenos negócios\",\n    \"Concentração de oportunidades em empresas com maior maturidade digital e acesso a recursos\"\n],\n\n\"conclusao\": \"O ambiente econômico brasileiro segue em transformação, impulsionado por mudanças regulatórias, avanços tecnológicos e expansão de segmentos estratégicos. Pequenos negócios devem se adaptar rapidamente às novas tendências e buscar oportunidades de capacitação, inovação e acesso ao crédito, garantindo competitividade diante dos riscos e incertezas do mercado. O engajamento em iniciativas de inovação e a atenção às demandas setoriais são essenciais para o crescimento sustentável e a geração de valor.\"\n}"
   }
 }
