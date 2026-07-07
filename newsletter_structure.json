@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "data_geracao": "2026-07-06T09:02:11.629627",
+    "data_geracao": "2026-07-07T13:33:29.288799",
     "total_noticias": 20,
     "setores_cobertos": [
       "agronegócio",
@@ -10,80 +10,80 @@
     ]
   },
   "conteudo": {
-    "introducao": "A edição desta semana traz um panorama estratégico dos principais setores da economia brasileira, destacando avanços regulatórios, tecnológicos e de mercado que impactam diretamente pequenos negócios e tomadores de decisão. As notícias e análises detalham movimentos relevantes no agronegócio, comércio, indústria e serviços, apontando tendências, riscos e oportunidades que exigem atenção especial dos empresários e gestores públicos.",
+    "introducao": "",
     "setores": {
       "agronegócio": {
         "setor": "agronegócio",
-        "titulo": "Agronegócio: Volatilidade de preços e inovação fortalecem pequenos produtores",
+        "titulo": "Cenário climático desafia produção, mas exportações de café avançam",
         "quantidade_noticias": 5,
-        "conteudo": "O setor agropecuário vive momentos de volatilidade, especialmente nos mercados de milho e carne bovina. A oferta restrita de milho impulsiona os preços, mas a colheita da safrinha exerce pressão baixista, exigindo uma gestão ativa dos produtores diante das oscilações. O mercado do boi gordo apresentou recuo em junho devido ao menor ritmo dos frigoríficos e ajuste da demanda, impactando pecuaristas e cooperativas na gestão de receitas e custos.\n\nEventos e capacitações promovidos pelo Sebrae em diferentes regiões reforçam a aproximação dos pequenos produtores com tecnologias e práticas inovadoras. Essas iniciativas ampliam o acesso à agricultura familiar, políticas públicas e prevenção de riscos como incêndios rurais, fortalecendo a competitividade e sustentabilidade no campo. A adoção de novas soluções e parcerias institucionais mostra-se fundamental para a tomada de decisão e ajustes operacionais, especialmente diante da expectativa de continuidade da volatilidade nos próximos dias.",
+        "conteudo": "O setor agropecuário brasileiro enfrenta um momento de contraste entre desempenho das exportações e adversidades climáticas. O destaque positivo é o crescimento expressivo das exportações de café em junho, com aumento de 26,3% no volume exportado e superação da marca de US$ 1 bilhão em receitas, o que reforça a competitividade do Brasil no segmento internacional. Em contrapartida, produtores de trigo e milho lidam com desafios severos: o trigo sofre com geadas e frio, reduzindo a safra em 20% e mantendo os preços firmes devido à oferta limitada. No milho, perdas de até 45% estão sendo registradas no Mato Grosso por conta de doença fúngica ainda em investigação, aumentando a preocupação sobre a produtividade e o abastecimento.\n\nEsses movimentos impactam diretamente produtores rurais, cooperativas e fornecedores, exigindo maior atenção à gestão de riscos climáticos e fitossanitários, além de possível pressão sobre os custos de produção. Para as próximas semanas, o setor deverá monitorar de perto os efeitos do clima adverso e o desenvolvimento de doenças nas lavouras, enquanto a demanda internacional por café e farelo de soja segue aquecida, sustentando oportunidades para exportadores brasileiros.",
         "destaques": [
-          "Oferta restrita de milho impulsiona preços, mas a colheita da safrinha pode limitar ganhos.",
-          "Mercado do boi gordo recua, refletindo menor demanda e ritmo dos frigoríficos.",
-          "Eventos e capacitações ampliam acesso de pequenos produtores a tecnologias e políticas públicas."
+          "Exportações de café crescem 26,3% em junho, superando US$ 1 bilhão em receita",
+          "Safra de trigo reduzida em 20% mantém preços firmes no mercado interno",
+          "Produtores de milho em Mato Grosso enfrentam perdas significativas devido a doença fúngica"
         ],
         "riscos": [
-          "Volatilidade nos preços do milho devido à entrada da safra e oscilações de oferta.",
-          "Redução na demanda por carne bovina e ritmo dos frigoríficos pode impactar receitas dos pecuaristas."
+          "Persistência de geadas e doenças pode comprometer ainda mais produtividade e abastecimento de grãos",
+          "Elevação dos custos de produção diante de perdas e necessidade de medidas fitossanitárias"
         ],
         "oportunidades": [
-          "Adoção de tecnologias e capacitações pode elevar produtividade e eficiência dos pequenos produtores.",
-          "Discussão de políticas públicas e prevenção de riscos favorecem gestão e sustentabilidade no campo."
+          "Crescimento das exportações de café reforça potencial de ganhos para produtores e exportadores",
+          "Demanda internacional por farelo de soja permanece sólida, sinalizando mercado favorável para o segmento"
         ],
         "noticias": [
           {
-            "title": "Milho sobe com oferta restrita, mas colheita da safrinha mantém pressão sobre preços",
-            "summary": "",
-            "newsletter_summary": "Com a oferta limitada, o milho registra alta, porém a colheita da safrinha mantém o mercado pressionado. Descubra como esse cenário pode impactar os preços e estratégias para produtores e investidores.",
-            "url": "https://www.canalrural.com.br/agricultura/milho/milho-sobe-com-oferta-restrita-mas-colheita-da-safrinha-mantem-pressao-sobre-precos/",
-            "link": "https://www.canalrural.com.br/agricultura/milho/milho-sobe-com-oferta-restrita-mas-colheita-da-safrinha-mantem-pressao-sobre-precos/",
+            "title": "Exportações de café do Brasil crescem 26,3% em junho de 2026",
+            "summary": "Café brasileiro alcança 2,9 milhões de sacas em junho, superando US$ 1 bilhão em receita cambial O post Exportações de café do Brasil crescem 26,3% em junho de 2026 apareceu primeiro em Canal Rural.",
+            "newsletter_summary": "O café brasileiro registrou alta expressiva nas exportações em junho, atingindo 2,9 milhões de sacas e ultrapassando US$ 1 bilhão em receita. O dado reforça o bom momento do setor e movimenta o mercado internacional.",
+            "url": "https://www.canalrural.com.br/videos/exportacoes-de-cafe-do-brasil-crescem-263-em-junho-de-2026/",
+            "link": "https://www.canalrural.com.br/videos/exportacoes-de-cafe-do-brasil-crescem-263-em-junho-de-2026/",
             "source": "Canal Rural",
-            "published_at": "2026-07-06T11:45:50+00:00",
-            "ranking_score": 0.8095,
+            "published_at": "2026-07-07T16:06:34+00:00",
+            "ranking_score": 0.8554,
             "setor": "agronegócio"
           },
           {
-            "title": "Sebrae-SP participa de evento voltado à pecuária bovina em Lavrinhas",
-            "summary": "No dia 7 de julho, às 9h30, o Sebrae-SP estará presente no município de Lavrinhas para a segunda edição do evento de pecuária “Carne do Vale”. A ação “A vez do mercado: índices, cotação e carne de qualidade”, realizada pelo Sindicato Rural de Cruzeiro e Lavrinhas, conta com a parceria da Associação dos Produtores de […]",
-            "newsletter_summary": "O Sebrae-SP marca presença em Lavrinhas na segunda edição do “Carne do Vale”, trazendo debates sobre índices, cotação e qualidade da carne. Veja como o evento pode ajudar pecuaristas a se atualizar sobre o mercado.",
-            "url": "https://sp.agenciasebrae.com.br/cultura-empreendedora/sebrae-sp-participa-de-evento-voltado-a-pecuaria-bovina-em-lavrinhas/",
-            "link": "https://sp.agenciasebrae.com.br/cultura-empreendedora/sebrae-sp-participa-de-evento-voltado-a-pecuaria-bovina-em-lavrinhas/",
-            "source": "Agencia de Notícias Sebrae/SP",
-            "published_at": "2026-07-03T19:19:41+00:00",
-            "ranking_score": 0.79,
-            "setor": "agronegócio"
-          },
-          {
-            "title": "Sebrae-SP, Sindicato Rural de Jales e Prefeitura de Turmalina realizam o 1º Dia de Campo de Turmalina",
-            "summary": "Pela primeira vez, produtores rurais de Turmalina e municípios vizinhos tiveram um espaço voltado à discussão dos principais desafios do campo na região. Agricultura familiar, citricultura, acesso a políticas públicas e prevenção de incêndios rurais pautaram o 1º Dia de Campo de Produtores Rurais, realizado nesta quinta-feira (2), no Turmalina Camping Clube. Promovido pelo Sebrae-SP, […]",
-            "newsletter_summary": "Produtores rurais de Turmalina e região têm agora um espaço para discutir desafios como agricultura familiar e prevenção de incêndios. Saiba como o 1º Dia de Campo fortalece o diálogo e incentiva soluções locais.",
-            "url": "https://sp.agenciasebrae.com.br/cultura-empreendedora/sebrae-sp-sindicato-rural-de-jales-e-prefeitura-de-turmalina-realizam-o-1o-dia-de-campo-de-turmalina/",
-            "link": "https://sp.agenciasebrae.com.br/cultura-empreendedora/sebrae-sp-sindicato-rural-de-jales-e-prefeitura-de-turmalina-realizam-o-1o-dia-de-campo-de-turmalina/",
-            "source": "Agencia de Notícias Sebrae/SP",
-            "published_at": "2026-07-03T18:07:36+00:00",
-            "ranking_score": 0.7792,
-            "setor": "agronegócio"
-          },
-          {
-            "title": "Tecnologia no campo transforma a rotina de produtores rurais e impulsiona o agronegócio no Maranhão",
-            "summary": "OUÇA ESTA MATÉRIA 🎧 Realizada pelo Sebrae, 6ª edição do Inova Agro aproxima pequenos produtores da inovação por meio de capacitações, demonstrações de tecnologias e troca de experiências.A inovação deixou de ser um conceito distante para se tornar ferramenta de transformação na rotina de quem vive da produção rural. Foi com esse propósito que cerca […]",
-            "newsletter_summary": "A inovação está cada vez mais presente no agronegócio maranhense. Conheça a 6ª edição do Inova Agro, que aproxima pequenos produtores de capacitações e tecnologias, potencializando resultados no campo.",
-            "url": "https://ma.agenciasebrae.com.br/cultura-empreendedora/tecnologia-no-campo-transforma-a-rotina-de-produtores-rurais-e-impulsiona-o-agronegocio-no-maranhao/",
-            "link": "https://ma.agenciasebrae.com.br/cultura-empreendedora/tecnologia-no-campo-transforma-a-rotina-de-produtores-rurais-e-impulsiona-o-agronegocio-no-maranhao/",
-            "source": "Agencia de Notícias Sebrae/MA",
-            "published_at": "2026-07-03T18:38:54+00:00",
-            "ranking_score": 0.7714,
-            "setor": "agronegócio"
-          },
-          {
-            "title": "Mercado do boi gordo recua em junho com ajuste da demanda e menor ritmo dos frigoríficos",
-            "summary": "",
-            "newsletter_summary": "O mercado do boi gordo apresentou recuo em junho, influenciado pela demanda ajustada e ritmo reduzido dos frigoríficos. Entenda os fatores por trás desse movimento e o que esperar nos próximos meses.",
-            "url": "https://www.canalrural.com.br/pecuaria/mercado-do-boi-gordo-recua-em-junho-com-ajuste-da-demanda-e-menor-ritmo-dos-frigorificos/",
-            "link": "https://www.canalrural.com.br/pecuaria/mercado-do-boi-gordo-recua-em-junho-com-ajuste-da-demanda-e-menor-ritmo-dos-frigorificos/",
+            "title": "Nova onda de frio e geadas impactam safra de trigo no Brasil",
+            "summary": "Geadas e clima frio afetam o plantio de trigo e café no Brasil, com previsão de chuvas e desafios para os produtores rurais O post Nova onda de frio e geadas impactam safra de trigo no Brasil apareceu primeiro em Canal Rural.",
+            "newsletter_summary": "As recentes geadas e o frio intenso desafiam o plantio de trigo e café no Brasil, com previsão de chuvas e impactos diretos para produtores rurais. O cenário acende alerta para os próximos resultados das safras.",
+            "url": "https://www.canalrural.com.br/videos/nova-onda-de-frio-e-geadas-impactam-safra-de-trigo-no-brasil/",
+            "link": "https://www.canalrural.com.br/videos/nova-onda-de-frio-e-geadas-impactam-safra-de-trigo-no-brasil/",
             "source": "Canal Rural",
-            "published_at": "2026-07-05T22:01:00+00:00",
-            "ranking_score": 0.764,
+            "published_at": "2026-07-07T15:15:24+00:00",
+            "ranking_score": 0.8464,
+            "setor": "agronegócio"
+          },
+          {
+            "title": "Trigo deve manter preços firmes com safra reduzida em 20%, diz StoneX",
+            "summary": "Produção de trigo no Brasil deve cair 20% em 2023, mas preços permanecem estáveis devido a fatores climáticos e de qualidade O post Trigo deve manter preços firmes com safra reduzida em 20%, diz StoneX apareceu primeiro em Canal Rural.",
+            "newsletter_summary": "Mesmo com a previsão de queda de 20% na produção de trigo em 2023, o mercado deve manter preços estáveis devido a fatores de clima e qualidade. Uma notícia que traz atenção ao equilíbrio entre oferta e demanda.",
+            "url": "https://www.canalrural.com.br/videos/trigo-deve-manter-precos-firmes-com-safra-reduzida-em-20-diz-stonex/",
+            "link": "https://www.canalrural.com.br/videos/trigo-deve-manter-precos-firmes-com-safra-reduzida-em-20-diz-stonex/",
+            "source": "Canal Rural",
+            "published_at": "2026-07-07T15:15:35+00:00",
+            "ranking_score": 0.8347,
+            "setor": "agronegócio"
+          },
+          {
+            "title": "Doença fúngica preocupa produtores de milho em Mato Grosso",
+            "summary": "Produtores enfrentam perdas de até 45% na colheita devido a doença fúngica ainda em investigação em Mato Grosso O post Doença fúngica preocupa produtores de milho em Mato Grosso apareceu primeiro em Canal Rural.",
+            "newsletter_summary": "Uma doença fúngica ainda sob investigação gera preocupação entre produtores de milho em Mato Grosso, com perdas na colheita chegando a 45%. O tema acende sinal de alerta para o setor.",
+            "url": "https://www.canalrural.com.br/videos/doenca-fungica-preocupa-produtores-de-milho-em-mato-grosso/",
+            "link": "https://www.canalrural.com.br/videos/doenca-fungica-preocupa-produtores-de-milho-em-mato-grosso/",
+            "source": "Canal Rural",
+            "published_at": "2026-07-07T15:15:11+00:00",
+            "ranking_score": 0.8315,
+            "setor": "agronegócio"
+          },
+          {
+            "title": "USDA informa venda de 105 mil toneladas de farelo de soja à Colômbia",
+            "summary": "Carga foi negociada por exportadores dos Estados Unidos para entrega no ano comercial 2025/26. O post USDA informa venda de 105 mil toneladas de farelo de soja à Colômbia apareceu primeiro em Canal Rural.",
+            "newsletter_summary": "Exportadores dos EUA fecharam acordo para enviar 105 mil toneladas de farelo de soja à Colômbia no ciclo 2025/26. O anúncio movimenta o mercado internacional de derivados de soja.",
+            "url": "https://www.canalrural.com.br/economia/usda-informa-venda-de-105-mil-toneladas-de-farelo-de-soja-a-colombia/",
+            "link": "https://www.canalrural.com.br/economia/usda-informa-venda-de-105-mil-toneladas-de-farelo-de-soja-a-colombia/",
+            "source": "Canal Rural",
+            "published_at": "2026-07-07T16:02:06+00:00",
+            "ranking_score": 0.7887,
             "setor": "agronegócio"
           }
         ],
@@ -91,76 +91,76 @@
       },
       "comércio": {
         "setor": "comércio",
-        "titulo": "Comércio: Modernização regulatória e nichos em expansão impulsionam pequenos negócios",
+        "titulo": "Varejo aproveita festas sazonais e avança em modernização regulatória",
         "quantidade_noticias": 5,
-        "conteudo": "O setor de comércio passa por transformações relevantes, com destaque para a modernização cambial promovida pelo Banco Central. A ampliação do acesso a contas em moeda estrangeira favorece empresas exportadoras, reduzindo custos operacionais e facilitando a gestão de fluxos financeiros. Paralelamente, o lançamento do ecossistema de duplicatas escriturais digitalizadas amplia o acesso ao crédito para pequenas e médias empresas, trazendo mais segurança, transparência e eficiência às operações mercantis.\n\nO mercado pet se destaca pelo crescimento expressivo, como observado em Ribeirão das Neves, impulsionando a abertura de pequenos negócios e refletindo oportunidades em segmentos específicos. O período de férias representa potencial de aumento no consumo de produtos e serviços ligados ao lazer, turismo e alimentação, abrindo novas possibilidades para empresas que souberem adaptar seus processos e aproveitar tendências sazonais.",
+        "conteudo": "O setor de comércio e varejo apresenta oportunidades de crescimento impulsionadas por eventos culturais, como as Festas Julinas, que seguem movimentando diferentes segmentos mesmo após o tradicional período junino. Pequenos negócios têm capitalizado sobre essas datas, combinando criatividade e planejamento para ampliar vendas e fortalecer a conexão com a comunidade local. Esse cenário favorece estratégias de diversificação e personalização de produtos e serviços alinhados a tradições regionais. \n\nNo âmbito regulatório, destacam-se avanços relevantes: o Banco Central anunciou a ampliação do acesso a contas em moeda estrangeira para pessoas jurídicas envolvidas em operações internacionais, o que pode reduzir custos e aumentar a eficiência de empresas exportadoras e importadoras. Em paralelo, o BC avalia restrições ao acesso ao Pix para instituições com fragilidades em segurança cibernética, reforçando a necessidade de atenção à gestão de riscos operacionais. Movimentos nos mercados de câmbio e capitais, como a recente queda do dólar, refletem um ambiente de incerteza moderada, sem impactos diretos ao consumo no curto prazo.",
         "destaques": [
-          "Banco Central amplia acesso a contas em moeda estrangeira, favorecendo empresas exportadoras e com relação internacional.",
-          "Duplicatas escriturais digitalizadas facilitam o acesso ao crédito para pequenas e médias empresas, trazendo mais segurança e eficiência.",
-          "O mercado pet e o período de férias impulsionam a abertura e o crescimento de pequenos negócios em setores específicos."
+          "Oportunidades sazonais impulsionam vendas e fortalecem pequenos negócios durante Festas Julinas",
+          "Nova regulação do Banco Central amplia acesso a contas em moeda estrangeira para empresas com operações internacionais",
+          "Estudos para limitar o Pix em instituições vulneráveis reforçam a importância da segurança cibernética"
         ],
         "riscos": [
-          "Necessidade de adaptação operacional e tecnológica para atender às novas regras cambiais e de duplicatas escriturais.",
-          "Pequenos negócios podem enfrentar desafios de acesso a sistemas digitais e compliance regulatório, afetando competitividade."
+          "Possíveis restrições ao Pix podem afetar a fluidez dos pagamentos para pequenos negócios com baixa estrutura tecnológica",
+          "Oscilações recentes nos mercados financeiros aumentam a necessidade de cautela em decisões de compra e investimento"
         ],
         "oportunidades": [
-          "Abertura de contas em moeda estrangeira e digitalização de duplicatas podem reduzir custos e ampliar acesso ao crédito para empresas com operações internacionais.",
-          "Períodos de alta circulação, como férias, e nichos em expansão, como o mercado pet, oferecem potencial de crescimento para pequenos negócios."
+          "Explorar produtos e serviços alinhados a eventos culturais locais para ampliar vendas e engajamento",
+          "Empresas que atuam no comércio exterior poderão se beneficiar da modernização cambial, reduzindo custos e otimizando operações"
         ],
         "noticias": [
           {
+            "title": "Com criatividade e planejamento, pequenos negócios transformam as Festas Julinas em oportunidade de crescimento",
+            "summary": "Mesmo com o fim de junho, o clima de festa não para. As tradicionais Festas Juninas dão lugar às chamadas Festas Julinas, preservando os costumes de uma das manifestações culturais mais tradicionais do Brasil. Além de preservarem tradições e fortalecerem a identidade cultural, as celebrações movimentam diversos segmentos da economia, gerando oportunidades para pequenos negócios […]",
+            "newsletter_summary": "As Festas Julinas mantêm viva a tradição e movimentam diversos setores do comércio. Com criatividade e planejamento, pequenos negócios aproveitam o período para impulsionar vendas e fortalecer sua presença no mercado. Descubra como essas celebrações podem se tornar um diferencial competitivo.",
+            "url": "https://ms.agenciasebrae.com.br/cultura-empreendedora/com-criatividade-e-planejamento-pequenos-negocios-transformam-as-festas-julinas-em-oportunidade-de-crescimento/",
+            "link": "https://ms.agenciasebrae.com.br/cultura-empreendedora/com-criatividade-e-planejamento-pequenos-negocios-transformam-as-festas-julinas-em-oportunidade-de-crescimento/",
+            "source": "Agencia de Notícias Sebrae/MS",
+            "published_at": "2026-07-07T12:45:46+00:00",
+            "ranking_score": 0.6964,
+            "setor": "comércio"
+          },
+          {
+            "title": "BC estuda limitar acesso ao Pix por instituições mais vulneráveis a ataques cibernéticos",
+            "summary": "O Banco Central estuda aplicar restrições de acesso ao Pix a instituições que apresentarem fragilidade em requisitos de segurança cibernética. O órgão busca, com a adoção de medidas preventivas, reforçar a segurança do sistema financeiro após ataques hackers que provocaram desvios milionários de recursos desde o ano passado. (07/06/2026 - 18h39)",
+            "newsletter_summary": "O Banco Central avalia restringir o acesso ao Pix para instituições que não atendam os requisitos de segurança cibernética. A medida visa proteger o sistema financeiro após recentes ataques que causaram prejuízos significativos. Saiba como essa possível mudança pode impactar o setor.",
+            "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/bc-estuda-limitar-acesso-ao-pix-a-instituicoes-mais-vulneraveis-a-ataques-ciberneticos.shtml",
+            "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/bc-estuda-limitar-acesso-ao-pix-a-instituicoes-mais-vulneraveis-a-ataques-ciberneticos.shtml",
+            "source": "Folha Mercado",
+            "published_at": "2026-07-06T21:39:00+00:00",
+            "ranking_score": 0.6894,
+            "setor": "comércio"
+          },
+          {
+            "title": "Dólar e Bolsa fecham em queda com investidores à espera de novos dados econômicos",
+            "summary": "O dólar fechou em queda de 0,69% nesta segunda-feira (6), cotado a R$ 5,132, na volta do final de semana prolongado nos Estados Unidos. (07/06/2026 - 09h40)",
+            "newsletter_summary": "Após o feriado nos EUA, o dólar registrou queda de 0,69% e a Bolsa também recuou. O movimento reflete a cautela dos investidores diante da expectativa por novos indicadores econômicos. Entenda o que está por trás dessas oscilações e o que esperar nos próximos dias.",
+            "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/dolar-abre-em-leve-alta-nesta-segunda-com-investidores-a-espera-de-novos-dados-economicos.shtml",
+            "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/dolar-abre-em-leve-alta-nesta-segunda-com-investidores-a-espera-de-novos-dados-economicos.shtml",
+            "source": "Folha Mercado",
+            "published_at": "2026-07-06T12:40:00+00:00",
+            "ranking_score": 0.6867,
+            "setor": "comércio"
+          },
+          {
             "title": "BC amplia acesso a contas em moeda estrangeira e moderniza a regulação cambial no país",
             "summary": "​O Banco Central (BC) anunciou, em 18 de junho, um novo passo no processo de modernização do mercado de câmbio brasileiro. A Resolução BCB 575 ampliou as possibilidades de abertura e movimentação de contas de depósito em moeda estrangeira no país, permitindo que novos perfis de pessoas jurídicas passem a utilizar esse instrumento em operações ligadas ao comércio exterior, ao crédito externo e ao investimento estrangeiro. A medida tem como objetivo aumentar a eficiência das operações internacionais, reduzir custos para empresas que atuam além das fronteiras e adequar a regulação à crescente integração da economia brasileira ao ambiente internacional.\"Estamos aprimorando a regulação cambial para refletir melhor a inserção internacional da economia brasileira, com mais eficiência operacional e menor custo para as empresas, sem abrir mão da segurança, dos controles prudenciais e das regras que preservam o funcionamento do mercado de câmbio\", destaca Ricardo Franco Moura, Chefe do Departamento de Regulação Prudencial e Cambial (Dereg) do BC.A regulamentação atual já permite a utilização dessas contas por determinados agentes econômicos, como instituições financeiras, embaixadas, seguradoras e empresas de setores específicos. A medida amplia esse rol, incluindo novas categorias de titulares.Com a nova regra, poderão ser titulares dessas contas pessoas jurídicas exportadoras de bens, empresas residentes de direito privado com dívidas contratadas no exterior, sociedades sediadas no país com participação direta de não residentes em seu capital social e pessoas jurídicas não residentes credoras de crédito externo ou com participação direta em empresas brasileiras. Na prática, a norma abre espaço para que empresas com relação recorrente com o exterior administrem melhor seus fluxos financeiros, com menor necessidade de conversões operacionais e mais previsibilidade na gestão de recursos. Ao mesmo tempo, o aperfeiçoamento regulatório veio acompanhado de salvaguardas. A norma mantém as atuais restrições ao uso de moeda estrangeira para pagamentos no território nacional e não interfere na formação da taxa de câmbio. Também foram preservadas as exigências de prevenção à lavagem de dinheiro e ao financiamento do terrorismo, em linha com padrões internacionais. Além disso, as novas contas estarão sujeitas a condições específicas, como a vedação a saques e depósitos em espécie e a necessidade de comprovação da origem dos recursos. A norma entra em vigor em 1º de outubro de 2026, prazo definido para que as instituições autorizadas adaptem seus sistemas e processos.",
-            "newsletter_summary": "O Banco Central anunciou novas regras para contas em moeda estrangeira, ampliando o acesso para empresas com operações internacionais. A medida promete mais eficiência e menor custo para negócios que atuam fora do Brasil, mantendo salvaguardas e restrições. A novidade entra em vigor em outubro de 2026.",
+            "newsletter_summary": "O Banco Central anunciou medidas que ampliam o acesso a contas em moeda estrangeira para empresas com operações internacionais. A nova regra promete mais eficiência, redução de custos e adaptação à integração global, mantendo salvaguardas para segurança e prevenção de ilícitos. Veja como a mudança pode beneficiar o comércio exterior.",
             "url": "https://www.bcb.gov.br/detalhenoticia/21191/noticia",
             "link": "https://www.bcb.gov.br/detalhenoticia/21191/noticia",
             "source": "Banco Central do Brasil Notícias",
             "published_at": "2026-07-01T12:45:15+00:00",
-            "ranking_score": 0.7379,
+            "ranking_score": 0.6836,
             "setor": "comércio"
           },
           {
-            "title": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda",
-            "summary": "Índices futuros dos EUA avançam com ações de tecnologia em alta The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda appeared first on InfoMoney.",
-            "newsletter_summary": "Acompanhe as movimentações do mercado financeiro nesta segunda, com destaque para o avanço dos índices futuros dos EUA impulsionados por ações de tecnologia. Entenda como Bolsa, Dólar e Juros estão reagindo e o que pode influenciar seus investimentos hoje.",
-            "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-06072026/",
-            "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-06072026/",
+            "title": "Por que as bolsas de NY caem nesta terça, mesmo após lucro recorde da Samsung?",
+            "summary": "Em paralelo à prévia de resultados divulgada pela Samsung, a DeepSeek anunciou o desenvolvimento de seu próprio chip de IA, segundo três fontes a par do assunto informaram à Reuters The post Por que as bolsas de NY caem nesta terça, mesmo após lucro recorde da Samsung? appeared first on InfoMoney.",
+            "newsletter_summary": "Mesmo após a Samsung divulgar lucro recorde e novidades em chips de IA, as bolsas de Nova York registraram queda. O cenário mostra que fatores além dos resultados financeiros podem influenciar o mercado. Descubra os motivos por trás do recuo das ações nos EUA.",
+            "url": "https://www.infomoney.com.br/mercados/bolsas-de-ny-abertura-fechamento-07072026/",
+            "link": "https://www.infomoney.com.br/mercados/bolsas-de-ny-abertura-fechamento-07072026/",
             "source": "InfoMoney",
-            "published_at": "2026-07-06T11:38:33+00:00",
-            "ranking_score": 0.7031,
-            "setor": "comércio"
-          },
-          {
-            "title": "Ribeirão das Neves avança no mercado pet com crescimento de 23% em novos negócios, em 2025",
-            "summary": "O mercado pet segue em expansão no Brasil, e Ribeirão das Neves acompanha esse crescimento. O município ocupa a 9ª posição no ranking de abertura de pequenos negócios do segmento em Minas Gerais. Em 2025, foram abertas 90 empresas no setor, um crescimento de 23,29% em relação ao ano anterior. São 386 pequenos negócios ativos […]",
-            "newsletter_summary": "Ribeirão das Neves se destaca no mercado pet mineiro, ocupando a 9ª posição em abertura de negócios no segmento. Em 2025, o município registrou um aumento de 23% na criação de empresas do setor, refletindo a expansão nacional e novas oportunidades para pequenos empreendedores.",
-            "url": "https://mg.agenciasebrae.com.br/cultura-empreendedora/ribeirao-das-neves-avanca-no-mercado-pet-com-crescimento-de-23-em-novos-negocios-em-2025/",
-            "link": "https://mg.agenciasebrae.com.br/cultura-empreendedora/ribeirao-das-neves-avanca-no-mercado-pet-com-crescimento-de-23-em-novos-negocios-em-2025/",
-            "source": "Agencia de Notícias Sebrae/MG",
-            "published_at": "2026-07-02T12:34:30+00:00",
-            "ranking_score": 0.6918,
-            "setor": "comércio"
-          },
-          {
-            "title": "As férias estão chegando e, com elas, novas possibilidades para os pequenos negócios",
-            "summary": "As férias do meio de ano representam uma oportunidade para diversos setores da economia. De acordo com o Sebrae, o período costuma aumentar a circulação de pessoas e estimular o consumo de produtos e serviços ligados ao lazer, turismo, entretenimento e alimentação, gerando reflexos positivos para os pequenos negócios. Com mudanças na rotina das famílias […]",
-            "newsletter_summary": "O período de férias do meio do ano traz oportunidades para pequenos negócios, especialmente nos setores de lazer, turismo e alimentação. O aumento na circulação de pessoas estimula o consumo e pode gerar impactos positivos para empresas que souberem aproveitar o momento.",
-            "url": "https://ce.agenciasebrae.com.br/cultura-empreendedora/as-ferias-estao-chegando-e-com-elas-novas-possibilidades-para-os-pequenos-negocios/",
-            "link": "https://ce.agenciasebrae.com.br/cultura-empreendedora/as-ferias-estao-chegando-e-com-elas-novas-possibilidades-para-os-pequenos-negocios/",
-            "source": "Agencia de Notícias Sebrae/CE",
-            "published_at": "2026-07-03T22:02:15+00:00",
-            "ranking_score": 0.6822,
-            "setor": "comércio"
-          },
-          {
-            "title": "Ecossistema de duplicatas escriturais: títulos de crédito passarão a ser negociados em formato digital",
-            "summary": "O Banco Central (BC) lançou nesta terça-feira (30/6) o ecossistema de duplicatas escriturais, marco relevante para a modernização do mercado de crédito no país. O início da negociação desses ativos em formato digital, representa um novo estágio de maturidade institucional e operacional para o sistema financeiro nacional. As duplicatas escriturais consistem na versão eletrônica de títulos de crédito representativos de recebíveis mercantis amplamente utilizados nas relações comerciais, especialmente no financiamento de capital de giro. Ao substituir o formato físico por registros eletrônicos padronizados e rastreáveis, o novo modelo busca conferir maior transparência, eficiência e segurança às operações, contribuindo para o desenvolvimento de um ambiente mais confiável para credores e tomadores de crédito. Saiba mais sobre as duplicatas escriturais aqui​.​ O evento de lançamento aconteceu no Auditório do Edifício-Sede do Banco Central e contou com discurso do Diretor de Regulação do BC, Gilneu Vivan, do Deputado Federal Júlio Lopes, autor da lei da duplicata escritural, além de autoridades do Ministério da Fazenda, do setor produtivo e do sistema financeiro. \"O lançamento deste ecossistema representa mais do que a introdução de uma nova infraestrutura: trata-se de um passo concreto na direção de um sistema financeiro mais moderno, seguro e eficiente, capaz de melhor servir às necessidades da economia real. As duplicatas escriturais ilustram, de forma clara, como a combinação entre tecnologia, inovação regulatória e cooperação institucional pode gerar ganhos tangíveis para empresas, instituições financeiras e a sociedade como um todo\", destacou Gilneu Vivan.Segundo o Diretor de Regulação do BC, a implementação do ecossistema de duplicatas escriturais demandou mais tempo do que originalmente previsto. Além da pandemia, a entrada em operação do ecossistema de registro de recebíveis de cartões apontou a necessidade de aperfeiçoamentos operacionais, tecnológicos e de governança no projeto. “A incorporação de tais aprendizados ao desenho das duplicatas escriturais demandou tempo, mas permitiu assegurar um sistema mais robusto, interoperável e confiável desde o início de sua implementação.” Confiança Foram discutidos na ocasião os principais benefícios esperados com a implementação do ecossistema. Entre eles, destacam-se a redução de assimetrias de informação e o fortalecimento da segurança operacional e jurídica nas operações. A digitalização e a centralização dos registros tendem a mitigar riscos como a duplicidade de cessões e a dificuldade de verificação de titularidade, problemas historicamente associados ao mercado de duplicatas. Também foram tratados no encontro os ganhos concretos a serem proporcionados pelo novo sistema para pequenas e médias empresas, que frequentemente enfrentam maiores dificuldades de acesso ao crédito. Com o registro eletrônico dos recebíveis, essas empresas passam a dispor de ativos mais transparentes e verificáveis, o que eleva a confiança por parte de instituições financeiras e amplia suas possibilidades de financiamento. A melhoria na qualidade da informação permite avaliação de risco mais precisa, criando condições para a oferta de crédito em termos mais favoráveis. A maior segurança jurídica e a redução de potenciais fraudes aumentam a disposição do mercado em financiar empresas de menor porte. A padronização e a rastreabilidade das duplicatas reduzem incertezas tradicionais, favorecendo a concorrência entre financiadores e contribuindo para a diminuição do custo do crédito. Processos mais simples e digitais também tendem a acelerar o acesso a recursos, aspecto fundamental para a gestão de caixa e o capital de giro das pequenas empresas. Outro efeito diz respeito ao custo do crédito de forma geral. A medida reforça o compromisso do BC, ao promover maior previsibilidade, menor risco operacional e legal, empoderando as empresas nas negociações desses ativos, resultando em um mercado de crédito mais eficiente, competitivo e inclusivo, alinhado às melhores práticas internacionais. Debate Também participaram da abertura do evento de lançamento o deputado federal Julio Lopes, o presidente da Confederação Nacional da Indústria (CNI), Ricardo Alvarez Alban, e o secretário de Reformas Econômicas do Ministério da Fazenda, Regis Dudena. O encontro promoveu, ainda, o debate Duplicata Escritural: impactos para o crédito e para a economia real, com moderação do Secretário-Executivo do BC, Rogério Lucca. A mesa contou com o diretor-executivo de Inovação, Produtos e Serviços da Febraban, Ivo Mósca; o CEO da Associação Brasileira de Bancos (ABBC), Leandro Vilain; o coordenador do Comitê Gestor da Estrutura de Governança da Convenção de Duplicatas Escriturais da Associação das Provedoras de Infraestrutura do Mercado Financeiro (APIIMF), Fernando Fontes; e o diretor adjunto de Desenvolvimento Industrial da CNI, Mario Sérgio Telles.",
-            "newsletter_summary": "O Banco Central lançou o ecossistema de duplicatas escriturais, permitindo que títulos de crédito sejam negociados digitalmente. Esse avanço traz mais transparência, segurança e acesso ao crédito, especialmente para pequenas e médias empresas, e promete transformar o mercado de recebíveis no Brasil.",
-            "url": "https://www.bcb.gov.br/detalhenoticia/21194/noticia",
-            "link": "https://www.bcb.gov.br/detalhenoticia/21194/noticia",
-            "source": "Banco Central do Brasil Notícias",
-            "published_at": "2026-07-03T13:54:54+00:00",
-            "ranking_score": 0.6734,
+            "published_at": "2026-07-07T15:54:42+00:00",
+            "ranking_score": 0.669,
             "setor": "comércio"
           }
         ],
@@ -168,76 +168,66 @@
       },
       "indústria": {
         "setor": "indústria",
-        "titulo": "Indústria: Queda de custos e inovação sustentável fortalecem o setor",
+        "titulo": "Análise - Indústria",
         "quantidade_noticias": 5,
-        "conteudo": "O setor industrial acompanha avanços na produção global de petróleo, com a OPEP+ aprovando aumento nas metas a partir de agosto e perspectiva de redução gradual do imposto sobre exportação no Brasil. Esses fatores indicam potencial de queda nos preços e maior disponibilidade de matéria-prima, beneficiando o parque industrial nacional. Investimentos em projetos de transmissão elétrica, especialmente em São Paulo, Mato Grosso e Mato Grosso do Sul, reforçam a infraestrutura energética, contribuindo para a segurança e estabilidade do fornecimento às indústrias.\n\nA expansão de biofábricas focadas em proteínas de insetos representa alternativa sustentável e diversificação produtiva, especialmente para pequenos empreendedores. No entanto, persistem desafios regulatórios, volatilidade nos preços do petróleo e disputas societárias em grandes empresas do setor, exigindo atenção dos gestores quanto à adaptação frente às mudanças fiscais e demandas de mercado.",
-        "destaques": [
-          "Ampliação da produção global de petróleo com potencial impacto sobre custos industriais",
-          "Investimentos de R$ 1,8 bilhão em reforço da transmissão elétrica em regiões industriais",
-          "Evolução de modelos de negócios sustentáveis, como biofábricas de proteína de insetos"
-        ],
-        "riscos": [
-          "Volatilidade nos preços do petróleo devido à dinâmica global de oferta e demanda",
-          "Possíveis incertezas regulatórias e disputas societárias em grandes empresas do setor"
-        ],
-        "oportunidades": [
-          "Redução dos custos energéticos e de insumos para a indústria nacional",
-          "Novos nichos de mercado e inovação em cadeias produtivas sustentáveis"
-        ],
+        "conteudo": "{\n    \"titulo\": \"Indústria apresenta crescimento moderado com avanços em segmentos estratégicos\",\n    \"analise\": \"O setor industrial brasileiro registrou variação negativa de -0,2% em maio de 2026 frente ao mês anterior, marcando o primeiro resultado negativo do ano. Entretanto, no acumulado de janeiro a maio, a produção avançou 1,4%, evidenciando um ritmo moderado de crescimento. O desempenho foi impulsionado por segmentos como produtos farmoquímicos e farmacêuticos, veículos automotores e produtos químicos, enquanto áreas como máquinas e equipamentos, produtos alimentícios e têxteis sofreram retração. A produção de bens intermediários e de consumo duráveis apresentou crescimento, ao passo que bens de capital e bens de consumo semi e não duráveis recuaram, refletindo desafios em investimentos e demanda interna.\n\nNo cenário internacional, a decisão da OPEP+ de ampliar a produção de petróleo e a estabilização dos preços próximos ao período pré-guerra colaboram para um ambiente de custos mais previsível para a indústria, especialmente nos setores dependentes de insumos energéticos. Movimentos relevantes incluem a transferência de parte da produção de caminhonetes da Toyota do México para uma nova fábrica nos EUA, indicando possíveis mudanças na dinâmica regional das cadeias de suprimentos automotivas. Em termos de inovação, destaca-se a biofábrica maranhense que aposta na proteína de insetos, conquistando mercado nacional com produção sustentável, demonstrando a emergência de novos nichos produtivos e alternativas inovadoras à cadeia alimentar tradicional.\n\n\"destaques\": [\n        \"Crescimento acumulado de 1,4% na produção industrial até maio, apesar de variação negativa em maio.\",\n        \"Segmentos de veículos automotores, farmoquímicos e farmacêuticos impulsionam resultados positivos.\",\n        \"Aumento da produção de petróleo pela OPEP+ e queda nos preços beneficiam custos industriais.\"\n    ],\n    \"riscos\": [\n        \"Queda expressiva na produção de bens de capital e máquinas, indicando desafios para investimentos e modernização.\",\n        \"Retração em setores tradicionais como alimentício, têxtil e vestuário pode impactar pequenos negócios e empregos.\"\n    ],\n    \"oportunidades\": [\n        \"Expansão de nichos inovadores como produção sustentável de proteína de insetos, abrindo novos mercados.\",\n        \"Ambiente internacional de custos energéticos mais estáveis favorece planejamento e competitividade industrial.\"\n    ]\n}",
+        "destaques": [],
+        "riscos": [],
+        "oportunidades": [],
         "noticias": [
+          {
+            "title": "Toyota levará parte da produção de caminhonetes do México para nova fábrica de US$ 3,6 bi nos EUA",
+            "summary": "A Toyota anunciou nesta segunda-feira (6) que construirá uma nova fábrica automotiva de US$ 3,6 bilhões (R$ 18,4 bi) no Texas e transferirá parte da produção de caminhonetes do México para os Estados Unidos. (07/06/2026 - 18h50)",
+            "newsletter_summary": "A Toyota investirá US$ 3,6 bilhões em uma nova fábrica no Texas e parte da produção de caminhonetes será transferida do México para os EUA. O movimento reforça a aposta da montadora na indústria americana e pode impactar as cadeias produtivas da região.",
+            "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/toyota-levara-parte-da-producao-de-caminhonetes-do-mexico-para-nova-fabrica-de-us-36-bi-nos-eua.shtml",
+            "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/toyota-levara-parte-da-producao-de-caminhonetes-do-mexico-para-nova-fabrica-de-us-36-bi-nos-eua.shtml",
+            "source": "Folha Mercado",
+            "published_at": "2026-07-06T21:50:00+00:00",
+            "ranking_score": 0.6709,
+            "setor": "indústria"
+          },
+          {
+            "title": "Petróleo fecha com leve queda próximo a preço pré-guerra",
+            "summary": "O preço do petróleo fechou esta segunda-feira (6) perto da estabilidade, com o Brent, referência global, registrando leve queda de 0,15%, a US$ 72,01. O dia foi marcado por oscilações: o barril chegou a cair 1,51%, a US$ 71,03, e subir 0,24%, a US$ 72,29 durante a sessão. (07/05/2026 - 19h53)",
+            "newsletter_summary": "O preço do petróleo Brent encerrou o dia com leve queda de 0,15%, a US$ 72,01, após oscilar entre baixas e altas durante a sessão. A cotação se aproxima dos níveis anteriores à guerra, sinalizando relativa estabilidade no mercado.",
+            "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/petroleo-abre-em-leve-queda-e-se-aproxima-de-preco-pre-guerra.shtml",
+            "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/petroleo-abre-em-leve-queda-e-se-aproxima-de-preco-pre-guerra.shtml",
+            "source": "Folha Mercado",
+            "published_at": "2026-07-05T22:53:00+00:00",
+            "ranking_score": 0.6544,
+            "setor": "indústria"
+          },
           {
             "title": "Opep+ aprova novo aumento na produção de petróleo após retomada de exportações via Hormuz",
             "summary": "A OPEP+ concordou com um novo aumento nas metas de produção a partir de agosto, informou o grupo em comunicado neste domingo (5). A decisão amplia a oferta global em um momento em que os preços do petróleo estão caindo devido à reabertura gradual do estreito de Hormuz para exportações de petróleo. (07/05/2026 - 09h52)",
-            "newsletter_summary": "A OPEP+ decidiu ampliar a produção de petróleo a partir de agosto, aproveitando a reabertura do estreito de Hormuz. A medida promete aumentar a oferta global em um cenário de queda nos preços do barril. Veja os impactos para o setor.",
+            "newsletter_summary": "A Opep+ decidiu elevar as metas de produção de petróleo a partir de agosto, acompanhando a reabertura do estreito de Hormuz para exportações. A medida aumenta a oferta global em meio à queda dos preços internacionais.",
             "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/opep-aprova-novo-aumento-na-producao-de-petroleo-apos-retomada-de-exportacoes-via-hormuz.shtml",
             "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/opep-aprova-novo-aumento-na-producao-de-petroleo-apos-retomada-de-exportacoes-via-hormuz.shtml",
             "source": "Folha Mercado",
             "published_at": "2026-07-05T12:52:00+00:00",
-            "ranking_score": 0.6729,
-            "setor": "indústria"
-          },
-          {
-            "title": "Imposto sobre exportação de petróleo pode cair a 5% ou 6% com redução gradual de subvenções",
-            "summary": "O Imposto de Exportação sobre o petróleo pode cair a 5% ou 6% em meio ao processo de retirada gradual das subvenções aos combustíveis, segundo um integrante da equipe econômica ouvido pela Folha. Hoje, a alíquota do tributo está em 12%. (07/03/2026 - 10h00)",
-            "newsletter_summary": "O imposto sobre exportação de petróleo pode ser reduzido para 5% ou 6% devido à retirada progressiva das subvenções aos combustíveis. Atualmente, a alíquota está em 12%. Entenda como essa mudança pode influenciar o mercado.",
-            "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/imposto-sobre-exportacao-de-petroleo-pode-cair-a-5-ou-6-com-reducao-gradual-de-subvencoes.shtml",
-            "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/imposto-sobre-exportacao-de-petroleo-pode-cair-a-5-ou-6-com-reducao-gradual-de-subvencoes.shtml",
-            "source": "Folha Mercado",
-            "published_at": "2026-07-03T13:00:00+00:00",
-            "ranking_score": 0.6663,
+            "ranking_score": 0.6378,
             "setor": "indústria"
           },
           {
             "title": "Biofábrica maranhense aposta na proteína de insetos e conquista mercado nacional com produção sustentável",
             "summary": "OUÇA ESTA MATÉRIA 🎧 Uma oportunidade pode surgir dos lugares mais inesperados. No caso do empreendedor Armando Pacheco, ela veio da televisão. Há cerca de quatro anos, ao assistir a uma reportagem sobre a produção de insetos em diferentes países, ele teve contato com um setor ainda pouco conhecido no Brasil, mas que já despertava […]",
-            "newsletter_summary": "Uma biofábrica maranhense está inovando ao produzir proteína de insetos e já conquista espaço no mercado nacional. O negócio sustentável nasceu de uma inspiração inesperada e mostra potencial em um segmento pouco explorado no Brasil.",
+            "newsletter_summary": "Inspirado por uma reportagem, o empreendedor Armando Pacheco apostou na produção de proteína de insetos e viu sua biofábrica maranhense ganhar destaque no mercado brasileiro. O negócio alia inovação e sustentabilidade em um setor ainda pouco explorado no país.",
             "url": "https://ma.agenciasebrae.com.br/cultura-empreendedora/biofabrica-maranhense-aposta-na-proteina-de-insetos-e-conquista-mercado-nacional-com-producao-sustentavel/",
             "link": "https://ma.agenciasebrae.com.br/cultura-empreendedora/biofabrica-maranhense-aposta-na-proteina-de-insetos-e-conquista-mercado-nacional-com-producao-sustentavel/",
             "source": "Agencia de Notícias Sebrae/MA",
             "published_at": "2026-07-01T18:38:13+00:00",
-            "ranking_score": 0.6549,
+            "ranking_score": 0.6246,
             "setor": "indústria"
           },
           {
-            "title": "Recuperação histórica da ExxonMobil consolida CEO como líder da indústria de petróleo global",
-            "summary": "A ExxonMobil consolidou uma das recuperações mais expressivas da indústria de petróleo nos últimos anos. Na assembleia anual realizada em maio, a empresa celebrou a aprovação da mudança do domicílio legal de Nova Jersey para o Texas, apesar das críticas de acionistas que afirmam que a medida reduz seus direitos. (07/04/2026 - 04h00)",
-            "newsletter_summary": "A ExxonMobil celebra uma recuperação marcante, fortalecendo a posição de seu CEO como referência global no setor. Mudanças no domicílio legal e debates com acionistas marcaram a assembleia anual. Descubra os próximos passos da gigante.",
-            "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/recuperacao-historica-da-exxonmobil-consolida-ceo-como-lider-da-industria-de-petroleo-global.shtml",
-            "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/recuperacao-historica-da-exxonmobil-consolida-ceo-como-lider-da-industria-de-petroleo-global.shtml",
-            "source": "Folha Mercado",
-            "published_at": "2026-07-04T07:00:00+00:00",
-            "ranking_score": 0.6454,
-            "setor": "indústria"
-          },
-          {
-            "title": "Axia (ex-Eletrobras) e consórcio da Alupar vencem relicitação de projetos de transmissão de energia",
-            "summary": "O consórcio Olympus, da Alupar, e a Axia Energia (ex-Eletrobras) foram os vencedores dos quatro projetos de transmissão de energia elétrica relicitados pelo governo em leilão nesta sexta-feira (3). Os projetos totalizam R$ 1,8 bilhão em investimentos totais para obras de reforço da rede elétrica em São Paulo, Mato Grosso e Mato Grosso do Sul. (07/03/2026 - 17h00)",
-            "newsletter_summary": "A Axia Energia e o consórcio Olympus, da Alupar, conquistaram quatro projetos de transmissão de energia em leilão do governo. Os investimentos chegam a R$ 1,8 bilhão e vão reforçar as redes em SP, MT e MS. Saiba mais sobre os vencedores.",
-            "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/axia-ex-eletrobras-e-consorcio-da-alupar-vencem-relicitacao-de-projetos-de-transmissao-de-energia.shtml",
-            "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/axia-ex-eletrobras-e-consorcio-da-alupar-vencem-relicitacao-de-projetos-de-transmissao-de-energia.shtml",
-            "source": "Folha Mercado",
-            "published_at": "2026-07-03T20:00:00+00:00",
-            "ranking_score": 0.6072,
+            "title": "Produção industrial varia -0,2% em maio",
+            "summary": "Em maio de 2026, a produção industrial variou –0,2% frente a abril, primeiro resultado negativo do ano. Em relação a maio de 2025, a indústria variou 0,2%, após avançar 2,7% em abril. O acumulado no ano avançou 1,4%, enquanto nos últimos 12 meses, variou 0,4%. Período Taxa Maio de 2026/abril de 2026 -0,20% Maio de 2026/maio de 2025 0,20% Acumulado no ano 1,40% Acumulado em 12 meses 0,40% Média móvel trimestral 0,30% Na passagem de abril para maio, três das grandes categorias econômicas e 8 dos 25 ramos industriais tiveram queda na produção. Entre as atividades, nessa mesma comparação, as influências negativas mais intensas vieram de coque, produtos derivados do petróleo e biocombustíveis (-6,1%) e indústrias extrativas (-2,6%). Outras contribuições negativas relevantes foram produtos alimentícios (-1,3%), produtos têxteis (-4,0%), impressão e reprodução de gravações (-8,1%) e equipamentos de informática, produtos eletrônicos e ópticos (-2,0%). Já entre as 16 atividades com avanço na produção, produtos farmoquímicos e farmacêuticos (13,1%), veículos automotores, reboques e carrocerias (4,1%) e produtos químicos (3,1%) exerceram as principais influências. Vale destacar também os impactos positivos dos setores de metalurgia (2,3%), confecção de artigos do vestuário e acessórios (4,7%), outros equipamentos de transporte (4,7%), máquinas, aparelhos e materiais elétricos (2,6%) e máquinas e equipamentos (1,2%). Entre as grandes categorias econômicas, ainda na comparação com abril, bens de consumo semi e não duráveis (-1,3%) tiveram o maior recuo e intensificaram o resultado negativo de abril (-0,3%). Bens intermediários (-0,4%) e bens de capital (-0,2%) também registraram taxas negativas. Enquanto bens de consumo duráveis (3,6%) foram o único resultado positivo, eliminando o recuo de 3,1% de abril, quando interrompeu três meses consecutivos de expansão. Indicadores da Produção Industrial por Grandes Categorias EconômicasBrasil - Maio de 2026 Grandes Categorias Econômicas Variação (%) Maio 2026 / Abril 2026* Maio 2026 / Maio 2025 Acumulada Janeiro-Maio/2026 Acumulada em 12 Meses Bens de Capital -0,2 -6,7 -6,2 -4,8 Bens Intermediários -0,4 1,4 2,1 1,4 Bens de Consumo -0,5 -0,7 1,4 -0,8 Duráveis 3,6 1,5 0,6 -1,0 Semiduráveis e não Duráveis -1,3 -1,1 1,5 -0,8 Indústria Geral -0,2 0,2 1,4 0,4 Fonte: IBGE, Diretoria de Pesquisas, Coordenação de Estatísticas Conjunturais em Empresas*Série com ajuste sazonal Média móvel trimestral varia 0,3% no trimestre encerrado em maio Ainda na comparação com abril, a média móvel trimestral variou 0,3% no trimestre encerrado em maio. Entre as grandes categorias econômicas, bens de consumo duráveis (0,8%) e bens intermediários (0,6%) assinalaram os avanços mais elevados. Bens de capital (0,1%) também mostrou taxa positiva neste mês, após crescer 1,0% em abril e 2,0% em março de 2026. Já bens de consumo semi e não duráveis (-0,4%) apontou o único recuo e interrompeu a trajetória ascendente iniciada em julho de 2025. Frente a maio de 2025, produção industrial varia 0,2% Na comparação com igual mês do ano anterior, a indústria variou 0,2% em maio de 2026, com resultados positivos em duas das quatro grandes categorias econômicas, 8 dos 25 ramos, 27 dos 80 grupos e 39,0% dos 789 produtos pesquisados. As atividades que exerceram as principais influências positivas foram coque, produtos derivados do petróleo e biocombustíveis (5,7%), indústrias extrativas (3,1%), veículos automotores, reboques e carrocerias (7,3%) e produtos farmoquímicos e farmacêuticos (13,2%) impulsionadas, principalmente, pela maior produção dos itens óleo diesel, álcool etílico, querosenes de aviação e naftas, na primeira; óleos brutos de petróleo e gás natural, na segunda; automóveis, autopeças e veículos para o transporte de mercadorias, na terceira; e medicamentos, na quarta. Ainda na comparação com maio de 2025, entre as 17 atividades que recuaram, produtos alimentícios (-3,7%) e máquinas e equipamentos (-9,5%) exerceram as maiores influências, pressionadas, em grande medida, pela menor produção dos itens açúcar VHP, cristal e refinado, filés e outras carnes de peixes frescos, refrigerados ou congelados, carnes de bovinos frescas ou refrigeradas, pães, arroz, complementos alimentares, suplementos vitamínicos e minerais, carnes e miudezas de aves congeladas, rações e produtos embutidos ou de salamaria e outras preparações de carnes de aves, na primeira; e aparelhos de ar-condicionado de paredes, de janelas ou transportáveis (inclusive os do tipo “split system”), máquinas para colheita, bombas centrífugas, semeadores, plantadeiras ou adubadores, aparelhos elevadores ou transportadores para mercadorias, ventiladores e coifas (exaustores) para uso industrial, válvulas de expansão de segurança redutoras de pressão, silos metálicos para cereais, tratores agrícolas, máquinas ou aparelhos para o setor agrícola e compressores usados em aparelhos de refrigeração, na segunda. Destaque também para os impactos negativos dos setores de equipamentos de informática, produtos eletrônicos e ópticos (-8,7%), produtos de metal (-4,0%), celulose, papel e produtos de papel (-2,7%), artefatos de couro, artigos para viagem e calçados (-7,1%), produtos têxteis (-5,6%), confecção de artigos do vestuário e acessórios (-4,3%) e bebidas (-2,6%). Bens de consumo duráveis e intermediários crescem, enquanto semi e não duráveis e de capital recuam Ainda no confronto com igual mês do ano anterior, bens de consumo duráveis (1,5%) e bens intermediários (1,4%) assinalaram os resultados positivos entre as grandes categorias econômicas. Já bens de consumo semi e não duráveis (-1,1%) e de bens de capital (-6,7%) tiveram taxas negativas. Bens de consumo duráveis voltou a crescer (1,5%) após recuar 3,1% em abril. O setor foi impulsionado pela maior fabricação de automóveis (13,9%). Vale destacar também os avanços na produção de motocicletas (7,0%) e de eletrodomésticos da “linha branca” (5,2%) e da “linha marrom” (1,1%). Os principais impactos negativos foram assinalados pelos grupamentos de outros eletrodomésticos (-17,7%) e de móveis (-4,2%). A produção de bens intermediários, ao crescer 1,4% em relação a maio do ano anterior, marcou a quinta taxa positiva consecutiva neste tipo de comparação. O resultado é explicado, principalmente, pelos avanços nos produtos associados às atividades de coque, produtos derivados do petróleo e biocombustíveis (8,5%), indústrias extrativas (3,1%), veículos automotores, reboques e carrocerias (5,1%), metalurgia (1,8%), produtos de borracha e de material plástico (1,5%) e produtos químicos (0,6%), enquanto as pressões negativas foram registradas por produtos alimentícios (-5,7%), celulose, papel e produtos de papel (-3,8%), produtos de metal (-2,7%), produtos têxteis (-5,1%), máquinas e equipamentos (-2,7%) e produtos de minerais não metálicos (-0,7%). Vale citar também os resultados negativos assinalados pelos grupamentos de insumos típicos para construção civil (-3,4%), que apontou a décima segunda taxa negativa consecutiva; e de embalagens (-1,9%), que intensificou o recuo de 0,5% registrado em abril de 2026. Bens de consumo semi e não duráveis recuou 1,1% em maio, em relação a maio de 2025, e interrompeu dois meses consecutivos de taxas positivas: abril (3,3%) e março (4,8%) de 2026. O desempenho negativo foi explicado, em grande parte, pelos recuos nos grupamentos de alimentos e bebidas elaborados para consumo doméstico (-2,4%) e de semiduráveis (-5,6%), pressionados, em grande medida, pela menor produção dos itens vinhos, carnes de bovinos frescas ou refrigeradas, açúcar refinado, pães, refrigerantes, arroz, complementos alimentares, suplementos vitamínicos e minerais, carnes e miudezas de aves congeladas e produtos embutidos ou de salamaria e outras preparações de carnes de aves, no primeiro; e de sandálias e chinelos de material sintético, calçados femininos de material sintético e de couro, vestuário infantil e seus acessórios (de malha ou não), calças compridas (de malha ou não), calçados esportivos de material sintético, vestidos (de malha ou não), bermudas, jardineiras, shorts e semelhantes (de malha ou não), conjuntos de uso feminino (de malha ou não), artigos do vestuário para uso adulto, tênis masculino, calçados masculinos de couro e artefatos de alumínio para uso doméstico, no segundo. Vale destacar também o resultado negativo registrado pelo grupamento de alimentos e bebidas básicos para consumo doméstico (-37,8%), influenciado pelos recuos na produção de filés e outras carnes de peixes frescos, refrigerados ou congelados e peixes congelados. Por outro lado, os grupamentos de carburantes (1,2%) e de não duráveis (4,1%) apontaram as taxas positivas em maio de 2026, impulsionados, principalmente, pela maior produção de álcool etílico, no primeiro; e de medicamentos, cigarros, desinfetantes e sabões ou detergentes em pó, no segundo. Bens de capital recuou 6,7% em maio frente a igual mês do ano anterior e intensificou a queda de 4,9% de abril. O segmento foi influenciado, principalmente, pelos recuos nos grupamentos de bens de capital agrícolas (-23,1%) e de uso misto (-19,9%). Os demais resultados negativos foram registrados pelos grupamentos de bens de capital para fins industriais (-4,0%) e para energia elétrica (-1,5%). Já equipamentos de transporte (1,7%) e para construção (11,3%) assinalaram os impactos positivos. Acumulado no ano cresce 1,4% No acumulado no ano, frente a igual período do ano anterior, a indústria avançou 1,4%, com resultados positivos em três das quatro grandes categorias econômicas, 8 dos 25 ramos, 28 dos 80 grupos e 42,1% dos 789 produtos pesquisados. Entre as atividades, as principais influências positivas foram indústrias extrativas (7,9%) e coque, produtos derivados do petróleo e biocombustíveis (5,1%), impulsionadas, em grande medida, pela maior produção dos itens óleos brutos de petróleo, minérios de ferro pelotizados ou sinterizados e gás natural, na primeira; e álcool etílico, óleo diesel, querosenes de aviação, naftas e óleos combustíveis, na segunda. Vale destacar também as contribuições positivas assinaladas pelos setores de produtos farmoquímicos e farmacêuticos (11,5%), de veículos automotores, reboques e carrocerias (3,2%) e de produtos alimentícios (1,3%). Já entre as 17 atividades em queda, a de máquinas e equipamentos (-8,8%) exerceu o maior impacto negativo, pressionada, em grande medida, pela menor produção dos itens aparelhos de ar-condicionado de paredes, de janelas ou transportáveis (inclusive os do tipo “split system”), máquinas ou aparelhos para o setor agrícola, bombas centrífugas, máquinas para colheita, válvulas de expansão de segurança redutoras de pressão, ventiladores e coifas (exaustores) para uso industrial, tratores agrícolas, silos metálicos para cereais, centros de usinagem para trabalhar metais, compressores usados em aparelhos de refrigeração e máquinas para limpeza e seleção de grãos. Outras influências negativas importantes foram assinaladas pelos ramos de produtos químicos (-2,2%), produtos de metal (-4,1%), celulose, papel e produtos de papel (-3,0%), confecção de artigos do vestuário e acessórios (-5,8%), artefatos de couro, artigos para viagem e calçados (-6,5%) e equipamentos de informática, produtos eletrônicos e ópticos (-3,3%). Entre as grandes categorias econômicas, o perfil dos resultados para os cinco primeiros meses de 2026 mostrou maior dinamismo para bens intermediários (2,1%) e bens de consumo semi e não duráveis (1,5%), impulsionados, principalmente, pela expansão na produção de óleos brutos de petróleo, óleo diesel, minérios de ferro pelotizados ou sinterizados, gás natural e querosenes de aviação, no primeiro; e de álcool etílico, medicamentos e carnes e miudezas de aves congeladas, no segundo. Bens de consumo duráveis (0,6%) também apontou resultado positivo. Já bens de capital (-6,2%) assinalou a única taxa negativa, pressionado, em grande medida, pela menor fabricação de bens de capital de uso misto (-15,7%), agrícolas (-16,9%) e para fins industriais (-4,5%). Saiba mais sobre a Pesquisa Industrial Mensal (PIM) Produção Física (PF) Brasil: O que é a PIM-PF? Tabelas e Séries Históricas Publicações",
+            "newsletter_summary": "A produção industrial brasileira teve queda de 0,2% em maio frente a abril, interrompendo a sequência positiva do ano. O resultado mostra recuos em diversos setores, mas também aponta avanços em áreas como farmacêuticos e veículos automotores.",
+            "url": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/47446-producao-industrial-varia-0-2-em-maio2.html",
+            "link": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/47446-producao-industrial-varia-0-2-em-maio2.html",
+            "source": "Agencia de Notícias IBGE",
+            "published_at": "2026-07-02T18:00:28+00:00",
+            "ranking_score": 0.547,
             "setor": "indústria"
           }
         ],
@@ -245,234 +235,233 @@
       },
       "serviço": {
         "setor": "serviço",
-        "titulo": "Serviços: Inovação e tecnologia ampliam competitividade para pequenos negócios",
+        "titulo": "Inteligência Artificial impulsiona inovação e reconhecimento no setor de serviços",
         "quantidade_noticias": 5,
-        "conteudo": "O setor de serviços destaca-se pela intensificação de iniciativas voltadas à inovação e adoção tecnológica. Programas como o Sebraetec estão democratizando o acesso de pequenos negócios a consultorias especializadas em transformação digital, produtividade e inteligência artificial, fortalecendo MEIs, microempresas e empresas de pequeno porte. O lançamento de uma nova empresa pela Microsoft para apoiar a adoção de IA reflete a tendência de integração dessas soluções ao cotidiano empresarial.\n\nCompetições de inovação e chamadas internacionais, como a BraFIP, conectam startups e empreendedores a investidores e mercados globais, promovendo um ambiente colaborativo e dinâmico. O engajamento crescente em iniciativas de inovação e o fortalecimento de parcerias estratégicas podem abrir novas oportunidades de negócios e ganhos de eficiência operacional, especialmente para empresas preparadas para a transformação digital.",
+        "conteudo": "O setor de serviços está passando por uma forte onda de inovação, impulsionada principalmente pelo avanço da Inteligência Artificial (IA). Startups de destaque, como a Norm, evidenciam esse movimento ao atrair grandes investimentos e alcançar valorizações expressivas, indicando confiança do mercado nas soluções baseadas em IA. No Brasil, a presença de empresas goianas entre as 100 melhores do Prêmio Sebrae Startups 2026 reforça o protagonismo nacional na adoção de tecnologias inovadoras e no fortalecimento do ecossistema empreendedor regional.\n\nEventos e iniciativas, como o Varejo+ Experience e o Café com Negócios & Conexões, demonstram que empresários e gestores estão sendo preparados para as tendências do mercado, com foco em IA, inovação e eficiência operacional. Essas transformações aumentam a competitividade das empresas, mas também trazem questionamentos sobre privacidade e impactos no emprego, ressaltando a necessidade de adaptação estratégica no curto prazo.",
         "destaques": [
-          "Iniciativas ampliam acesso de pequenos negócios à inovação e consultorias especializadas",
-          "Microsoft cria empresa focada em apoiar a adoção de inteligência artificial nas empresas",
-          "Competições e chamadas internacionais promovem conexão entre empreendedores e investidores"
+          "Investimento significativo em startups de IA, com casos de unicórnio no segmento jurídico",
+          "Reconhecimento de startups brasileiras em premiações nacionais, fortalecendo o ecossistema de inovação",
+          "Capacitação de empresários e gestores sobre tendências de IA e inovação no setor de serviços"
         ],
         "riscos": [
-          "Desafios de adoção tecnológica por parte de pequenas empresas com baixa maturidade digital",
-          "Possível concentração de oportunidades em negócios mais preparados ou com maior acesso a recursos"
+          "Incertezas sobre privacidade e impacto da IA no mercado de trabalho",
+          "Necessidade de adaptação rápida para não perder competitividade"
         ],
         "oportunidades": [
-          "Ampliação do acesso a soluções de inovação e transformação digital para pequenos negócios",
-          "Conexão com investidores e mercados internacionais por meio de programas e chamadas de inovação"
+          "Adoção de IA para tornar processos mais eficientes e personalizados",
+          "Fortalecimento de redes de inovação e acesso a capacitação para pequenas empresas"
         ],
         "noticias": [
           {
-            "title": "Sebraetec amplia acesso à inovação e fortalece pequenos negócios em Roraima",
-            "summary": "Com foco no aumento da competitividade dos pequenos negócios por meio da inovação, o Sebraetec oferece consultorias especializadas para microempreendedores individuais (MEI), microempresas (ME) e empresas de pequeno porte (EPP). A iniciativa conecta empresários a prestadores de serviços credenciados, que desenvolvem soluções personalizadas em áreas como transformação digital, produtividade, design, sustentabilidade, eficiência energética, inteligência artificial […]",
-            "newsletter_summary": "O Sebraetec está facilitando o acesso de pequenos negócios à inovação em Roraima, oferecendo consultorias especializadas em áreas como digitalização, produtividade e sustentabilidade. A iniciativa conecta empresas a soluções sob medida, fortalecendo a competitividade local.",
-            "url": "https://rr.agenciasebrae.com.br/cultura-empreendedora/sebraetec-amplia-acesso-a-inovacao-e-fortalece-pequenos-negocios-em-roraima/",
-            "link": "https://rr.agenciasebrae.com.br/cultura-empreendedora/sebraetec-amplia-acesso-a-inovacao-e-fortalece-pequenos-negocios-em-roraima/",
-            "source": "Agencia de Notícias Sebrae/RR",
-            "published_at": "2026-07-03T14:15:08+00:00",
-            "ranking_score": 0.7528,
+            "title": "AI law startup Norm raises $120M, hits unicorn valuation",
+            "summary": "AI law startup Norm has raised a $120 million Series C round led by Khosla Ventures, valuing the startup at $1.2 billion.",
+            "newsletter_summary": "A Norm, startup de IA focada em serviços jurídicos, acaba de levantar US$ 120 milhões em uma rodada liderada pela Khosla Ventures, alcançando o status de unicórnio com valor de mercado de US$ 1,2 bilhão. Saiba como a empresa está revolucionando o setor.",
+            "url": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
+            "link": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
+            "source": "TechCrunch",
+            "published_at": "2026-07-07T14:35:42+00:00",
+            "ranking_score": 0.9013,
             "setor": "serviço"
           },
           {
-            "title": "Douglas Freitas assume como CRO da ZoomHolding",
-            "summary": "Douglas Freitas, novo CRO da ZoomHolding (Imagem: Divulgação)Executivo assume o cargo com a missão de integrar áreas comerciais e ampliar a geração de receita da ZoomHolding O post Douglas Freitas assume como CRO da ZoomHolding apareceu primeiro em Startups.",
-            "newsletter_summary": "Douglas Freitas é o novo Chief Revenue Officer da ZoomHolding, assumindo a missão de integrar o time comercial e impulsionar o crescimento da receita da empresa. Mudança promete movimentar a atuação estratégica da companhia.",
-            "url": "https://startups.com.br/danca-das-cadeiras/douglas-freitas-assume-como-cro-da-zoomholding/",
-            "link": "https://startups.com.br/danca-das-cadeiras/douglas-freitas-assume-como-cro-da-zoomholding/",
-            "source": "Startups",
-            "published_at": "2026-07-03T13:00:00+00:00",
-            "ranking_score": 0.7389,
+            "title": "Quatro empresas goianas estão no Top 100 do Prêmio Sebrae Startups 2026",
+            "summary": "O Sebrae Nacional divulgou a lista das mil startups do Prêmio Sebrae Startups 2026, com a classificação de 24 startups goianas. Dessas, quatro foram classificadas pelo júri especializado entre as Top 100 na segunda fase de seleção e seguem para a disputa da próxima etapa, das Top 30, de finalistas por categoria, que serão divulgadas […]",
+            "newsletter_summary": "Quatro startups de Goiás conquistaram lugar entre as 100 melhores do Prêmio Sebrae Startups 2026 e avançam para a etapa que definirá as Top 30 finalistas por categoria. Descubra quem são os destaques do ecossistema inovador goiano.",
+            "url": "https://go.agenciasebrae.com.br/inovacao-e-tecnologia/quatro-empresas-goianas-estao-no-top-100-do-premio-sebrae-startups-2026/",
+            "link": "https://go.agenciasebrae.com.br/inovacao-e-tecnologia/quatro-empresas-goianas-estao-no-top-100-do-premio-sebrae-startups-2026/",
+            "source": "Agencia de Notícias Sebrae/GO",
+            "published_at": "2026-07-06T22:58:51+00:00",
+            "ranking_score": 0.7685,
             "setor": "serviço"
           },
           {
-            "title": "Microsoft lança empresa para ajudar companhias a adotarem IA",
-            "summary": "A Microsoft anunciou nesta quinta-feira (2) que está criando uma nova empresa que ajudará empresas a selecionar tecnologias de inteligência artificial que funcionem para seus negócios e gerem retorno sobre seus investimentos. (07/02/2026 - 19h05)",
-            "newsletter_summary": "A Microsoft anunciou uma nova empresa dedicada a apoiar negócios na escolha e implementação de soluções de inteligência artificial. O objetivo é garantir que as empresas obtenham retorno real sobre seus investimentos em tecnologia.",
-            "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/07/microsoft-lanca-empresa-para-ajudar-companhias-a-adotarem-ia.shtml",
-            "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/07/microsoft-lanca-empresa-para-ajudar-companhias-a-adotarem-ia.shtml",
-            "source": "Folha Mercado",
-            "published_at": "2026-07-02T22:05:00+00:00",
-            "ranking_score": 0.7351,
+            "title": "British Space Startup Launches Longevity Lab Into Orbit",
+            "summary": "The lab will beam back data to train AI models to predict how proteins behind age-related diseases like Alzheimer’s and certain cancers behave.",
+            "newsletter_summary": "Uma startup britânica lançou ao espaço um laboratório dedicado a pesquisas sobre longevidade. Os dados enviados vão ajudar no treinamento de IA para prever como proteínas relacionadas a doenças como Alzheimer e certos tipos de câncer se comportam.",
+            "url": "https://www.wired.com/story/british-space-startup-launches-longevity-lab-into-orbit/",
+            "link": "https://www.wired.com/story/british-space-startup-launches-longevity-lab-into-orbit/",
+            "source": "Wired",
+            "published_at": "2026-07-07T09:57:12+00:00",
+            "ranking_score": 0.7657,
             "setor": "serviço"
           },
           {
-            "title": "Startup-SE realiza competição de inovação entre universitários em Palmas",
-            "summary": "Nesta última segunda-feira, 29, foi finalizado o projeto Startup-SE, uma iniciativa que tem o objetivo de desenvolver competências empreendedoras, inovadoras e socioemocionais dos estudantes universitários. O evento, que ocorreu no Auditório do Sebrae, em Palmas, reuniu equipes que apresentaram soluções construídas ao longo da jornada de aprendizagem proposta pelo programa. Desenvolvido pela Universidade Federal do […]",
-            "newsletter_summary": "O projeto Startup-SE encerrou sua competição em Palmas, reunindo universitários que apresentaram soluções inovadoras desenvolvidas ao longo do programa. O evento destacou o potencial empreendedor e criativo dos estudantes na busca por novas ideias.",
-            "url": "https://to.agenciasebrae.com.br/inovacao-e-tecnologia/startup-se-realiza-competicao-de-inovacao-entre-universitarios-em-palmas/",
-            "link": "https://to.agenciasebrae.com.br/inovacao-e-tecnologia/startup-se-realiza-competicao-de-inovacao-entre-universitarios-em-palmas/",
-            "source": "Agencia de Notícias Sebrae/TO",
-            "published_at": "2026-07-01T17:23:32+00:00",
-            "ranking_score": 0.7318,
+            "title": "Varejo+ Experience leva inovação, inteligência artificial e tendências do mercado a Alfenas",
+            "summary": "Iniciativa prepara empreendedores para as novas demandas do mercado e para o futuro do varejo",
+            "newsletter_summary": "O Varejo+ Experience chegou a Alfenas trazendo inovação, inteligência artificial e tendências para preparar empreendedores para as novas exigências do mercado e os desafios do futuro do varejo. Veja como o evento pode inspirar sua empresa.",
+            "url": "https://mg.agenciasebrae.com.br/cultura-empreendedora/varejo-experience-leva-inovacao-inteligencia-artificial-e-tendencias-do-mercado-a-alfenas/",
+            "link": "https://mg.agenciasebrae.com.br/cultura-empreendedora/varejo-experience-leva-inovacao-inteligencia-artificial-e-tendencias-do-mercado-a-alfenas/",
+            "source": "Agencia de Notícias Sebrae/MG",
+            "published_at": "2026-07-06T19:27:31+00:00",
+            "ranking_score": 0.7649,
             "setor": "serviço"
           },
           {
-            "title": "Chamada internacional impulsiona negócios inovadores e conecta empreendedores a investidores e mercados globais",
-            "summary": "Transformar uma boa ideia em um negócio inovador e competitivo pode estar mais perto da realidade de empreendedores, startups, pesquisadores e instituições de ciência e tecnologia. Estão abertas as inscrições para a Chamada de Ideias da Brazilian Innovation and Funding Platform (BraFIP), iniciativa que conta com apoio de organizações internacionais e premiará as 15 melhores […]",
-            "newsletter_summary": "Estão abertas as inscrições para a Chamada de Ideias da BraFIP, que vai premiar 15 projetos inovadores. A iniciativa conecta startups e empreendedores a investidores e mercados internacionais, ampliando oportunidades de crescimento global.",
-            "url": "https://pb.agenciasebrae.com.br/inovacao-e-tecnologia/chamada-internacional-impulsiona-negocios-inovadores-e-conecta-empreendedores-a-investidores-e-mercados-globais/",
-            "link": "https://pb.agenciasebrae.com.br/inovacao-e-tecnologia/chamada-internacional-impulsiona-negocios-inovadores-e-conecta-empreendedores-a-investidores-e-mercados-globais/",
-            "source": "Agencia de Notícias Sebrae/PB",
-            "published_at": "2026-07-03T17:40:49+00:00",
-            "ranking_score": 0.7291,
+            "title": "Café com Negócios & Conexões chega à 30ª edição e mobiliza ecossistema de inovação com conteúdos sobre IA",
+            "summary": "Ao longo dos anos, a Inteligência Artificial (IA) deixou de ser curiosidade para se tornar ferramenta cotidiana. São inúmeras as plataformas e aplicativos que oferecem serviços personalizados e tornam processos mais eficientes tanto para empresas quanto para o dia a dia das pessoas ao redor do mundo. Ao mesmo tempo, surgem dúvidas sobre privacidade, emprego, […]",
+            "newsletter_summary": "Na 30ª edição, o Café com Negócios & Conexões destaca o papel da Inteligência Artificial como ferramenta essencial para empresas e o cotidiano. O evento também debate impactos em privacidade e empregos, conectando o ecossistema de inovação.",
+            "url": "https://df.agenciasebrae.com.br/inovacao-e-tecnologia/cafe-com-negocios-conexoes-chega-a-30a-edicao-e-mobiliza-ecossistema-de-inovacao-com-conteudos-sobre-ia/",
+            "link": "https://df.agenciasebrae.com.br/inovacao-e-tecnologia/cafe-com-negocios-conexoes-chega-a-30a-edicao-e-mobiliza-ecossistema-de-inovacao-com-conteudos-sobre-ia/",
+            "source": "Agencia de Notícias Sebrae/DF",
+            "published_at": "2026-07-07T13:10:12+00:00",
+            "ranking_score": 0.7511,
             "setor": "serviço"
           }
         ],
         "erro": null
       }
     },
-    "principais_tendencias": [
-      "Avanço na digitalização de processos e acesso ao crédito para pequenas empresas",
-      "Integração de tecnologias inovadoras e sustentabilidade nos modelos de negócio",
-      "Modernização regulatória fortalece operações internacionais e nichos setoriais"
-    ],
-    "oportunidades": [
-      "Adoção de tecnologias e capacitações para elevar produtividade e eficiência dos pequenos negócios",
-      "Expansão de mercados específicos, como o setor pet e biofábricas de proteínas, impulsiona novos negócios",
-      "Programas de inovação e acesso a consultorias especializadas ampliam competitividade e conexão global"
-    ],
-    "riscos": [
-      "Volatilidade de preços em commodities agrícolas e industriais pode impactar receitas e custos",
-      "Desafios na adaptação a novas normas regulatórias e tecnológicas para pequenos negócios",
-      "Concentração de oportunidades em empresas com maior maturidade digital e acesso a recursos"
-    ],
-    "conclusao": "O ambiente econômico brasileiro segue em transformação, impulsionado por mudanças regulatórias, avanços tecnológicos e expansão de segmentos estratégicos. Pequenos negócios devem se adaptar rapidamente às novas tendências e buscar oportunidades de capacitação, inovação e acesso ao crédito, garantindo competitividade diante dos riscos e incertezas do mercado. O engajamento em iniciativas de inovação e a atenção às demandas setoriais são essenciais para o crescimento sustentável e a geração de valor.",
+    "principais_tendencias": [],
+    "oportunidades": [],
+    "riscos": [],
+    "conclusao": "",
     "originais_por_setor": {
       "agronegócio": [
         {
-          "title": "Milho sobe com oferta restrita, mas colheita da safrinha mantém pressão sobre preços",
-          "summary": "",
-          "link": "https://www.canalrural.com.br/agricultura/milho/milho-sobe-com-oferta-restrita-mas-colheita-da-safrinha-mantem-pressao-sobre-precos/",
+          "title": "Exportações de café do Brasil crescem 26,3% em junho de 2026",
+          "summary": "Café brasileiro alcança 2,9 milhões de sacas em junho, superando US$ 1 bilhão em receita cambial O post Exportações de café do Brasil crescem 26,3% em junho de 2026 apareceu primeiro em Canal Rural.",
+          "link": "https://www.canalrural.com.br/videos/exportacoes-de-cafe-do-brasil-crescem-263-em-junho-de-2026/",
           "source": "Canal Rural",
-          "published_at": "2026-07-06T11:45:50+00:00",
-          "ranking_score": 0.8095180297189164,
+          "published_at": "2026-07-07T16:06:34+00:00",
+          "ranking_score": 0.8553797076653382,
           "setor": "agronegócio",
-          "confianca_setor": 0.41201111534779705,
+          "confianca_setor": 0.5269938391709659,
           "peso_fonte": 0.9
         },
         {
-          "title": "Sebrae-SP participa de evento voltado à pecuária bovina em Lavrinhas",
-          "summary": "No dia 7 de julho, às 9h30, o Sebrae-SP estará presente no município de Lavrinhas para a segunda edição do evento de pecuária “Carne do Vale”. A ação “A vez do mercado: índices, cotação e carne de qualidade”, realizada pelo Sindicato Rural de Cruzeiro e Lavrinhas, conta com a parceria da Associação dos Produtores de […]",
-          "link": "https://sp.agenciasebrae.com.br/cultura-empreendedora/sebrae-sp-participa-de-evento-voltado-a-pecuaria-bovina-em-lavrinhas/",
-          "source": "Agencia de Notícias Sebrae/SP",
-          "published_at": "2026-07-03T19:19:41+00:00",
-          "ranking_score": 0.7900388869874504,
-          "setor": "agronegócio",
-          "confianca_setor": 0.3925252425516713,
-          "peso_fonte": 0.98
-        },
-        {
-          "title": "Sebrae-SP, Sindicato Rural de Jales e Prefeitura de Turmalina realizam o 1º Dia de Campo de Turmalina",
-          "summary": "Pela primeira vez, produtores rurais de Turmalina e municípios vizinhos tiveram um espaço voltado à discussão dos principais desafios do campo na região. Agricultura familiar, citricultura, acesso a políticas públicas e prevenção de incêndios rurais pautaram o 1º Dia de Campo de Produtores Rurais, realizado nesta quinta-feira (2), no Turmalina Camping Clube. Promovido pelo Sebrae-SP, […]",
-          "link": "https://sp.agenciasebrae.com.br/cultura-empreendedora/sebrae-sp-sindicato-rural-de-jales-e-prefeitura-de-turmalina-realizam-o-1o-dia-de-campo-de-turmalina/",
-          "source": "Agencia de Notícias Sebrae/SP",
-          "published_at": "2026-07-03T18:07:36+00:00",
-          "ranking_score": 0.7791808766602114,
-          "setor": "agronegócio",
-          "confianca_setor": 0.38011752899390744,
-          "peso_fonte": 0.98
-        },
-        {
-          "title": "Tecnologia no campo transforma a rotina de produtores rurais e impulsiona o agronegócio no Maranhão",
-          "summary": "OUÇA ESTA MATÉRIA 🎧 Realizada pelo Sebrae, 6ª edição do Inova Agro aproxima pequenos produtores da inovação por meio de capacitações, demonstrações de tecnologias e troca de experiências.A inovação deixou de ser um conceito distante para se tornar ferramenta de transformação na rotina de quem vive da produção rural. Foi com esse propósito que cerca […]",
-          "link": "https://ma.agenciasebrae.com.br/cultura-empreendedora/tecnologia-no-campo-transforma-a-rotina-de-produtores-rurais-e-impulsiona-o-agronegocio-no-maranhao/",
-          "source": "Agencia de Notícias Sebrae/MA",
-          "published_at": "2026-07-03T18:38:54+00:00",
-          "ranking_score": 0.7713858373298081,
-          "setor": "agronegócio",
-          "confianca_setor": 0.37001964991131325,
-          "peso_fonte": 0.98
-        },
-        {
-          "title": "Mercado do boi gordo recua em junho com ajuste da demanda e menor ritmo dos frigoríficos",
-          "summary": "",
-          "link": "https://www.canalrural.com.br/pecuaria/mercado-do-boi-gordo-recua-em-junho-com-ajuste-da-demanda-e-menor-ritmo-dos-frigorificos/",
+          "title": "Nova onda de frio e geadas impactam safra de trigo no Brasil",
+          "summary": "Geadas e clima frio afetam o plantio de trigo e café no Brasil, com previsão de chuvas e desafios para os produtores rurais O post Nova onda de frio e geadas impactam safra de trigo no Brasil apareceu primeiro em Canal Rural.",
+          "link": "https://www.canalrural.com.br/videos/nova-onda-de-frio-e-geadas-impactam-safra-de-trigo-no-brasil/",
           "source": "Canal Rural",
-          "published_at": "2026-07-05T22:01:00+00:00",
-          "ranking_score": 0.7640193948529338,
+          "published_at": "2026-07-07T15:15:24+00:00",
+          "ranking_score": 0.8463942314952916,
           "setor": "agronegócio",
-          "confianca_setor": 0.3675114389515147,
+          "confianca_setor": 0.5144269695931144,
+          "peso_fonte": 0.9
+        },
+        {
+          "title": "Trigo deve manter preços firmes com safra reduzida em 20%, diz StoneX",
+          "summary": "Produção de trigo no Brasil deve cair 20% em 2023, mas preços permanecem estáveis devido a fatores climáticos e de qualidade O post Trigo deve manter preços firmes com safra reduzida em 20%, diz StoneX apareceu primeiro em Canal Rural.",
+          "link": "https://www.canalrural.com.br/videos/trigo-deve-manter-precos-firmes-com-safra-reduzida-em-20-diz-stonex/",
+          "source": "Canal Rural",
+          "published_at": "2026-07-07T15:15:35+00:00",
+          "ranking_score": 0.8347166751042395,
+          "setor": "agronegócio",
+          "confianca_setor": 0.4969393808036974,
+          "peso_fonte": 0.9
+        },
+        {
+          "title": "Doença fúngica preocupa produtores de milho em Mato Grosso",
+          "summary": "Produtores enfrentam perdas de até 45% na colheita devido a doença fúngica ainda em investigação em Mato Grosso O post Doença fúngica preocupa produtores de milho em Mato Grosso apareceu primeiro em Canal Rural.",
+          "link": "https://www.canalrural.com.br/videos/doenca-fungica-preocupa-produtores-de-milho-em-mato-grosso/",
+          "source": "Canal Rural",
+          "published_at": "2026-07-07T15:15:11+00:00",
+          "ranking_score": 0.8314876044413588,
+          "setor": "agronegócio",
+          "confianca_setor": 0.4921115346785653,
+          "peso_fonte": 0.9
+        },
+        {
+          "title": "USDA informa venda de 105 mil toneladas de farelo de soja à Colômbia",
+          "summary": "Carga foi negociada por exportadores dos Estados Unidos para entrega no ano comercial 2025/26. O post USDA informa venda de 105 mil toneladas de farelo de soja à Colômbia apareceu primeiro em Canal Rural.",
+          "link": "https://www.canalrural.com.br/economia/usda-informa-venda-de-105-mil-toneladas-de-farelo-de-soja-a-colombia/",
+          "source": "Canal Rural",
+          "published_at": "2026-07-07T16:02:06+00:00",
+          "ranking_score": 0.7887114962020149,
+          "setor": "agronegócio",
+          "confianca_setor": 0.4272511870987161,
           "peso_fonte": 0.9
         }
       ],
       "comércio": [
+        {
+          "title": "Com criatividade e planejamento, pequenos negócios transformam as Festas Julinas em oportunidade de crescimento",
+          "summary": "Mesmo com o fim de junho, o clima de festa não para. As tradicionais Festas Juninas dão lugar às chamadas Festas Julinas, preservando os costumes de uma das manifestações culturais mais tradicionais do Brasil. Além de preservarem tradições e fortalecerem a identidade cultural, as celebrações movimentam diversos segmentos da economia, gerando oportunidades para pequenos negócios […]",
+          "link": "https://ms.agenciasebrae.com.br/cultura-empreendedora/com-criatividade-e-planejamento-pequenos-negocios-transformam-as-festas-julinas-em-oportunidade-de-crescimento/",
+          "source": "Agencia de Notícias Sebrae/MS",
+          "published_at": "2026-07-07T12:45:46+00:00",
+          "ranking_score": 0.6964131083700053,
+          "setor": "comércio",
+          "confianca_setor": 0.23103231128136292,
+          "peso_fonte": 0.98
+        },
+        {
+          "title": "BC estuda limitar acesso ao Pix por instituições mais vulneráveis a ataques cibernéticos",
+          "summary": "O Banco Central estuda aplicar restrições de acesso ao Pix a instituições que apresentarem fragilidade em requisitos de segurança cibernética. O órgão busca, com a adoção de medidas preventivas, reforçar a segurança do sistema financeiro após ataques hackers que provocaram desvios milionários de recursos desde o ano passado. (07/06/2026 - 18h39)",
+          "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/bc-estuda-limitar-acesso-ao-pix-a-instituicoes-mais-vulneraveis-a-ataques-ciberneticos.shtml",
+          "source": "Folha Mercado",
+          "published_at": "2026-07-06T21:39:00+00:00",
+          "ranking_score": 0.689361587086901,
+          "setor": "comércio",
+          "confianca_setor": 0.3436857216538089,
+          "peso_fonte": 0.84
+        },
+        {
+          "title": "Dólar e Bolsa fecham em queda com investidores à espera de novos dados econômicos",
+          "summary": "O dólar fechou em queda de 0,69% nesta segunda-feira (6), cotado a R$ 5,132, na volta do final de semana prolongado nos Estados Unidos. (07/06/2026 - 09h40)",
+          "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/dolar-abre-em-leve-alta-nesta-segunda-com-investidores-a-espera-de-novos-dados-economicos.shtml",
+          "source": "Folha Mercado",
+          "published_at": "2026-07-06T12:40:00+00:00",
+          "ranking_score": 0.6867481156315978,
+          "setor": "comércio",
+          "confianca_setor": 0.3491141879278165,
+          "peso_fonte": 0.84
+        },
         {
           "title": "BC amplia acesso a contas em moeda estrangeira e moderniza a regulação cambial no país",
           "summary": "​O Banco Central (BC) anunciou, em 18 de junho, um novo passo no processo de modernização do mercado de câmbio brasileiro. A Resolução BCB 575 ampliou as possibilidades de abertura e movimentação de contas de depósito em moeda estrangeira no país, permitindo que novos perfis de pessoas jurídicas passem a utilizar esse instrumento em operações ligadas ao comércio exterior, ao crédito externo e ao investimento estrangeiro. A medida tem como objetivo aumentar a eficiência das operações internacionais, reduzir custos para empresas que atuam além das fronteiras e adequar a regulação à crescente integração da economia brasileira ao ambiente internacional.\"Estamos aprimorando a regulação cambial para refletir melhor a inserção internacional da economia brasileira, com mais eficiência operacional e menor custo para as empresas, sem abrir mão da segurança, dos controles prudenciais e das regras que preservam o funcionamento do mercado de câmbio\", destaca Ricardo Franco Moura, Chefe do Departamento de Regulação Prudencial e Cambial (Dereg) do BC.A regulamentação atual já permite a utilização dessas contas por determinados agentes econômicos, como instituições financeiras, embaixadas, seguradoras e empresas de setores específicos. A medida amplia esse rol, incluindo novas categorias de titulares.Com a nova regra, poderão ser titulares dessas contas pessoas jurídicas exportadoras de bens, empresas residentes de direito privado com dívidas contratadas no exterior, sociedades sediadas no país com participação direta de não residentes em seu capital social e pessoas jurídicas não residentes credoras de crédito externo ou com participação direta em empresas brasileiras. Na prática, a norma abre espaço para que empresas com relação recorrente com o exterior administrem melhor seus fluxos financeiros, com menor necessidade de conversões operacionais e mais previsibilidade na gestão de recursos. Ao mesmo tempo, o aperfeiçoamento regulatório veio acompanhado de salvaguardas. A norma mantém as atuais restrições ao uso de moeda estrangeira para pagamentos no território nacional e não interfere na formação da taxa de câmbio. Também foram preservadas as exigências de prevenção à lavagem de dinheiro e ao financiamento do terrorismo, em linha com padrões internacionais. Além disso, as novas contas estarão sujeitas a condições específicas, como a vedação a saques e depósitos em espécie e a necessidade de comprovação da origem dos recursos. A norma entra em vigor em 1º de outubro de 2026, prazo definido para que as instituições autorizadas adaptem seus sistemas e processos.",
           "link": "https://www.bcb.gov.br/detalhenoticia/21191/noticia",
           "source": "Banco Central do Brasil Notícias",
           "published_at": "2026-07-01T12:45:15+00:00",
-          "ranking_score": 0.7378888195600423,
+          "ranking_score": 0.6836000807142828,
           "setor": "comércio",
           "confianca_setor": 0.4383814004045377,
           "peso_fonte": 0.88
         },
         {
-          "title": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda",
-          "summary": "Índices futuros dos EUA avançam com ações de tecnologia em alta The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda appeared first on InfoMoney.",
-          "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-06072026/",
+          "title": "Por que as bolsas de NY caem nesta terça, mesmo após lucro recorde da Samsung?",
+          "summary": "Em paralelo à prévia de resultados divulgada pela Samsung, a DeepSeek anunciou o desenvolvimento de seu próprio chip de IA, segundo três fontes a par do assunto informaram à Reuters The post Por que as bolsas de NY caem nesta terça, mesmo após lucro recorde da Samsung? appeared first on InfoMoney.",
+          "link": "https://www.infomoney.com.br/mercados/bolsas-de-ny-abertura-fechamento-07072026/",
           "source": "InfoMoney",
-          "published_at": "2026-07-06T11:38:33+00:00",
-          "ranking_score": 0.7030707946395076,
+          "published_at": "2026-07-07T15:54:42+00:00",
+          "ranking_score": 0.66903945089587,
           "setor": "comércio",
-          "confianca_setor": 0.31208762999332984,
+          "confianca_setor": 0.28658996327597824,
           "peso_fonte": 0.85
-        },
-        {
-          "title": "Ribeirão das Neves avança no mercado pet com crescimento de 23% em novos negócios, em 2025",
-          "summary": "O mercado pet segue em expansão no Brasil, e Ribeirão das Neves acompanha esse crescimento. O município ocupa a 9ª posição no ranking de abertura de pequenos negócios do segmento em Minas Gerais. Em 2025, foram abertas 90 empresas no setor, um crescimento de 23,29% em relação ao ano anterior. São 386 pequenos negócios ativos […]",
-          "link": "https://mg.agenciasebrae.com.br/cultura-empreendedora/ribeirao-das-neves-avanca-no-mercado-pet-com-crescimento-de-23-em-novos-negocios-em-2025/",
-          "source": "Agencia de Notícias Sebrae/MG",
-          "published_at": "2026-07-02T12:34:30+00:00",
-          "ranking_score": 0.6917921497108879,
-          "setor": "comércio",
-          "confianca_setor": 0.2973541981277232,
-          "peso_fonte": 0.98
-        },
-        {
-          "title": "As férias estão chegando e, com elas, novas possibilidades para os pequenos negócios",
-          "summary": "As férias do meio de ano representam uma oportunidade para diversos setores da economia. De acordo com o Sebrae, o período costuma aumentar a circulação de pessoas e estimular o consumo de produtos e serviços ligados ao lazer, turismo, entretenimento e alimentação, gerando reflexos positivos para os pequenos negócios. Com mudanças na rotina das famílias […]",
-          "link": "https://ce.agenciasebrae.com.br/cultura-empreendedora/as-ferias-estao-chegando-e-com-elas-novas-possibilidades-para-os-pequenos-negocios/",
-          "source": "Agencia de Notícias Sebrae/CE",
-          "published_at": "2026-07-03T22:02:15+00:00",
-          "ranking_score": 0.6822329527551829,
-          "setor": "comércio",
-          "confianca_setor": 0.2567451440349458,
-          "peso_fonte": 0.98
-        },
-        {
-          "title": "Ecossistema de duplicatas escriturais: títulos de crédito passarão a ser negociados em formato digital",
-          "summary": "O Banco Central (BC) lançou nesta terça-feira (30/6) o ecossistema de duplicatas escriturais, marco relevante para a modernização do mercado de crédito no país. O início da negociação desses ativos em formato digital, representa um novo estágio de maturidade institucional e operacional para o sistema financeiro nacional. As duplicatas escriturais consistem na versão eletrônica de títulos de crédito representativos de recebíveis mercantis amplamente utilizados nas relações comerciais, especialmente no financiamento de capital de giro. Ao substituir o formato físico por registros eletrônicos padronizados e rastreáveis, o novo modelo busca conferir maior transparência, eficiência e segurança às operações, contribuindo para o desenvolvimento de um ambiente mais confiável para credores e tomadores de crédito. Saiba mais sobre as duplicatas escriturais aqui​.​ O evento de lançamento aconteceu no Auditório do Edifício-Sede do Banco Central e contou com discurso do Diretor de Regulação do BC, Gilneu Vivan, do Deputado Federal Júlio Lopes, autor da lei da duplicata escritural, além de autoridades do Ministério da Fazenda, do setor produtivo e do sistema financeiro. \"O lançamento deste ecossistema representa mais do que a introdução de uma nova infraestrutura: trata-se de um passo concreto na direção de um sistema financeiro mais moderno, seguro e eficiente, capaz de melhor servir às necessidades da economia real. As duplicatas escriturais ilustram, de forma clara, como a combinação entre tecnologia, inovação regulatória e cooperação institucional pode gerar ganhos tangíveis para empresas, instituições financeiras e a sociedade como um todo\", destacou Gilneu Vivan.Segundo o Diretor de Regulação do BC, a implementação do ecossistema de duplicatas escriturais demandou mais tempo do que originalmente previsto. Além da pandemia, a entrada em operação do ecossistema de registro de recebíveis de cartões apontou a necessidade de aperfeiçoamentos operacionais, tecnológicos e de governança no projeto. “A incorporação de tais aprendizados ao desenho das duplicatas escriturais demandou tempo, mas permitiu assegurar um sistema mais robusto, interoperável e confiável desde o início de sua implementação.” Confiança Foram discutidos na ocasião os principais benefícios esperados com a implementação do ecossistema. Entre eles, destacam-se a redução de assimetrias de informação e o fortalecimento da segurança operacional e jurídica nas operações. A digitalização e a centralização dos registros tendem a mitigar riscos como a duplicidade de cessões e a dificuldade de verificação de titularidade, problemas historicamente associados ao mercado de duplicatas. Também foram tratados no encontro os ganhos concretos a serem proporcionados pelo novo sistema para pequenas e médias empresas, que frequentemente enfrentam maiores dificuldades de acesso ao crédito. Com o registro eletrônico dos recebíveis, essas empresas passam a dispor de ativos mais transparentes e verificáveis, o que eleva a confiança por parte de instituições financeiras e amplia suas possibilidades de financiamento. A melhoria na qualidade da informação permite avaliação de risco mais precisa, criando condições para a oferta de crédito em termos mais favoráveis. A maior segurança jurídica e a redução de potenciais fraudes aumentam a disposição do mercado em financiar empresas de menor porte. A padronização e a rastreabilidade das duplicatas reduzem incertezas tradicionais, favorecendo a concorrência entre financiadores e contribuindo para a diminuição do custo do crédito. Processos mais simples e digitais também tendem a acelerar o acesso a recursos, aspecto fundamental para a gestão de caixa e o capital de giro das pequenas empresas. Outro efeito diz respeito ao custo do crédito de forma geral. A medida reforça o compromisso do BC, ao promover maior previsibilidade, menor risco operacional e legal, empoderando as empresas nas negociações desses ativos, resultando em um mercado de crédito mais eficiente, competitivo e inclusivo, alinhado às melhores práticas internacionais. Debate Também participaram da abertura do evento de lançamento o deputado federal Julio Lopes, o presidente da Confederação Nacional da Indústria (CNI), Ricardo Alvarez Alban, e o secretário de Reformas Econômicas do Ministério da Fazenda, Regis Dudena. O encontro promoveu, ainda, o debate Duplicata Escritural: impactos para o crédito e para a economia real, com moderação do Secretário-Executivo do BC, Rogério Lucca. A mesa contou com o diretor-executivo de Inovação, Produtos e Serviços da Febraban, Ivo Mósca; o CEO da Associação Brasileira de Bancos (ABBC), Leandro Vilain; o coordenador do Comitê Gestor da Estrutura de Governança da Convenção de Duplicatas Escriturais da Associação das Provedoras de Infraestrutura do Mercado Financeiro (APIIMF), Fernando Fontes; e o diretor adjunto de Desenvolvimento Industrial da CNI, Mario Sérgio Telles.",
-          "link": "https://www.bcb.gov.br/detalhenoticia/21194/noticia",
-          "source": "Banco Central do Brasil Notícias",
-          "published_at": "2026-07-03T13:54:54+00:00",
-          "ranking_score": 0.6734330021573036,
-          "setor": "comércio",
-          "confianca_setor": 0.31631753445854155,
-          "peso_fonte": 0.88
         }
       ],
       "indústria": [
+        {
+          "title": "Toyota levará parte da produção de caminhonetes do México para nova fábrica de US$ 3,6 bi nos EUA",
+          "summary": "A Toyota anunciou nesta segunda-feira (6) que construirá uma nova fábrica automotiva de US$ 3,6 bilhões (R$ 18,4 bi) no Texas e transferirá parte da produção de caminhonetes do México para os Estados Unidos. (07/06/2026 - 18h50)",
+          "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/toyota-levara-parte-da-producao-de-caminhonetes-do-mexico-para-nova-fabrica-de-us-36-bi-nos-eua.shtml",
+          "source": "Folha Mercado",
+          "published_at": "2026-07-06T21:50:00+00:00",
+          "ranking_score": 0.670875605205438,
+          "setor": "indústria",
+          "confianca_setor": 0.3158166409112633,
+          "peso_fonte": 0.84
+        },
+        {
+          "title": "Petróleo fecha com leve queda próximo a preço pré-guerra",
+          "summary": "O preço do petróleo fechou esta segunda-feira (6) perto da estabilidade, com o Brent, referência global, registrando leve queda de 0,15%, a US$ 72,01. O dia foi marcado por oscilações: o barril chegou a cair 1,51%, a US$ 71,03, e subir 0,24%, a US$ 72,29 durante a sessão. (07/05/2026 - 19h53)",
+          "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/petroleo-abre-em-leve-queda-e-se-aproxima-de-preco-pre-guerra.shtml",
+          "source": "Folha Mercado",
+          "published_at": "2026-07-05T22:53:00+00:00",
+          "ranking_score": 0.6544197503524624,
+          "setor": "indústria",
+          "confianca_setor": 0.3150429378066709,
+          "peso_fonte": 0.84
+        },
         {
           "title": "Opep+ aprova novo aumento na produção de petróleo após retomada de exportações via Hormuz",
           "summary": "A OPEP+ concordou com um novo aumento nas metas de produção a partir de agosto, informou o grupo em comunicado neste domingo (5). A decisão amplia a oferta global em um momento em que os preços do petróleo estão caindo devido à reabertura gradual do estreito de Hormuz para exportações de petróleo. (07/05/2026 - 09h52)",
           "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/opep-aprova-novo-aumento-na-producao-de-petroleo-apos-retomada-de-exportacoes-via-hormuz.shtml",
           "source": "Folha Mercado",
           "published_at": "2026-07-05T12:52:00+00:00",
-          "ranking_score": 0.672867026758818,
+          "ranking_score": 0.6378390389134343,
           "setor": "indústria",
           "confianca_setor": 0.3006332624485187,
-          "peso_fonte": 0.84
-        },
-        {
-          "title": "Imposto sobre exportação de petróleo pode cair a 5% ou 6% com redução gradual de subvenções",
-          "summary": "O Imposto de Exportação sobre o petróleo pode cair a 5% ou 6% em meio ao processo de retirada gradual das subvenções aos combustíveis, segundo um integrante da equipe econômica ouvido pela Folha. Hoje, a alíquota do tributo está em 12%. (07/03/2026 - 10h00)",
-          "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/imposto-sobre-exportacao-de-petroleo-pode-cair-a-5-ou-6-com-reducao-gradual-de-subvencoes.shtml",
-          "source": "Folha Mercado",
-          "published_at": "2026-07-03T13:00:00+00:00",
-          "ranking_score": 0.6663152835711097,
-          "setor": "indústria",
-          "confianca_setor": 0.33368582900704,
           "peso_fonte": 0.84
         },
         {
@@ -481,92 +470,81 @@
           "link": "https://ma.agenciasebrae.com.br/cultura-empreendedora/biofabrica-maranhense-aposta-na-proteina-de-insetos-e-conquista-mercado-nacional-com-producao-sustentavel/",
           "source": "Agencia de Notícias Sebrae/MA",
           "published_at": "2026-07-01T18:38:13+00:00",
-          "ranking_score": 0.6548864667363983,
+          "ranking_score": 0.6245686531241077,
           "setor": "indústria",
           "confianca_setor": 0.26709540458226805,
           "peso_fonte": 0.98
         },
         {
-          "title": "Recuperação histórica da ExxonMobil consolida CEO como líder da indústria de petróleo global",
-          "summary": "A ExxonMobil consolidou uma das recuperações mais expressivas da indústria de petróleo nos últimos anos. Na assembleia anual realizada em maio, a empresa celebrou a aprovação da mudança do domicílio legal de Nova Jersey para o Texas, apesar das críticas de acionistas que afirmam que a medida reduz seus direitos. (07/04/2026 - 04h00)",
-          "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/recuperacao-historica-da-exxonmobil-consolida-ceo-como-lider-da-industria-de-petroleo-global.shtml",
-          "source": "Folha Mercado",
-          "published_at": "2026-07-04T07:00:00+00:00",
-          "ranking_score": 0.64538997057948,
+          "title": "Produção industrial varia -0,2% em maio",
+          "summary": "Em maio de 2026, a produção industrial variou –0,2% frente a abril, primeiro resultado negativo do ano. Em relação a maio de 2025, a indústria variou 0,2%, após avançar 2,7% em abril. O acumulado no ano avançou 1,4%, enquanto nos últimos 12 meses, variou 0,4%. Período Taxa Maio de 2026/abril de 2026 -0,20% Maio de 2026/maio de 2025 0,20% Acumulado no ano 1,40% Acumulado em 12 meses 0,40% Média móvel trimestral 0,30% Na passagem de abril para maio, três das grandes categorias econômicas e 8 dos 25 ramos industriais tiveram queda na produção. Entre as atividades, nessa mesma comparação, as influências negativas mais intensas vieram de coque, produtos derivados do petróleo e biocombustíveis (-6,1%) e indústrias extrativas (-2,6%). Outras contribuições negativas relevantes foram produtos alimentícios (-1,3%), produtos têxteis (-4,0%), impressão e reprodução de gravações (-8,1%) e equipamentos de informática, produtos eletrônicos e ópticos (-2,0%). Já entre as 16 atividades com avanço na produção, produtos farmoquímicos e farmacêuticos (13,1%), veículos automotores, reboques e carrocerias (4,1%) e produtos químicos (3,1%) exerceram as principais influências. Vale destacar também os impactos positivos dos setores de metalurgia (2,3%), confecção de artigos do vestuário e acessórios (4,7%), outros equipamentos de transporte (4,7%), máquinas, aparelhos e materiais elétricos (2,6%) e máquinas e equipamentos (1,2%). Entre as grandes categorias econômicas, ainda na comparação com abril, bens de consumo semi e não duráveis (-1,3%) tiveram o maior recuo e intensificaram o resultado negativo de abril (-0,3%). Bens intermediários (-0,4%) e bens de capital (-0,2%) também registraram taxas negativas. Enquanto bens de consumo duráveis (3,6%) foram o único resultado positivo, eliminando o recuo de 3,1% de abril, quando interrompeu três meses consecutivos de expansão. Indicadores da Produção Industrial por Grandes Categorias EconômicasBrasil - Maio de 2026 Grandes Categorias Econômicas Variação (%) Maio 2026 / Abril 2026* Maio 2026 / Maio 2025 Acumulada Janeiro-Maio/2026 Acumulada em 12 Meses Bens de Capital -0,2 -6,7 -6,2 -4,8 Bens Intermediários -0,4 1,4 2,1 1,4 Bens de Consumo -0,5 -0,7 1,4 -0,8 Duráveis 3,6 1,5 0,6 -1,0 Semiduráveis e não Duráveis -1,3 -1,1 1,5 -0,8 Indústria Geral -0,2 0,2 1,4 0,4 Fonte: IBGE, Diretoria de Pesquisas, Coordenação de Estatísticas Conjunturais em Empresas*Série com ajuste sazonal Média móvel trimestral varia 0,3% no trimestre encerrado em maio Ainda na comparação com abril, a média móvel trimestral variou 0,3% no trimestre encerrado em maio. Entre as grandes categorias econômicas, bens de consumo duráveis (0,8%) e bens intermediários (0,6%) assinalaram os avanços mais elevados. Bens de capital (0,1%) também mostrou taxa positiva neste mês, após crescer 1,0% em abril e 2,0% em março de 2026. Já bens de consumo semi e não duráveis (-0,4%) apontou o único recuo e interrompeu a trajetória ascendente iniciada em julho de 2025. Frente a maio de 2025, produção industrial varia 0,2% Na comparação com igual mês do ano anterior, a indústria variou 0,2% em maio de 2026, com resultados positivos em duas das quatro grandes categorias econômicas, 8 dos 25 ramos, 27 dos 80 grupos e 39,0% dos 789 produtos pesquisados. As atividades que exerceram as principais influências positivas foram coque, produtos derivados do petróleo e biocombustíveis (5,7%), indústrias extrativas (3,1%), veículos automotores, reboques e carrocerias (7,3%) e produtos farmoquímicos e farmacêuticos (13,2%) impulsionadas, principalmente, pela maior produção dos itens óleo diesel, álcool etílico, querosenes de aviação e naftas, na primeira; óleos brutos de petróleo e gás natural, na segunda; automóveis, autopeças e veículos para o transporte de mercadorias, na terceira; e medicamentos, na quarta. Ainda na comparação com maio de 2025, entre as 17 atividades que recuaram, produtos alimentícios (-3,7%) e máquinas e equipamentos (-9,5%) exerceram as maiores influências, pressionadas, em grande medida, pela menor produção dos itens açúcar VHP, cristal e refinado, filés e outras carnes de peixes frescos, refrigerados ou congelados, carnes de bovinos frescas ou refrigeradas, pães, arroz, complementos alimentares, suplementos vitamínicos e minerais, carnes e miudezas de aves congeladas, rações e produtos embutidos ou de salamaria e outras preparações de carnes de aves, na primeira; e aparelhos de ar-condicionado de paredes, de janelas ou transportáveis (inclusive os do tipo “split system”), máquinas para colheita, bombas centrífugas, semeadores, plantadeiras ou adubadores, aparelhos elevadores ou transportadores para mercadorias, ventiladores e coifas (exaustores) para uso industrial, válvulas de expansão de segurança redutoras de pressão, silos metálicos para cereais, tratores agrícolas, máquinas ou aparelhos para o setor agrícola e compressores usados em aparelhos de refrigeração, na segunda. Destaque também para os impactos negativos dos setores de equipamentos de informática, produtos eletrônicos e ópticos (-8,7%), produtos de metal (-4,0%), celulose, papel e produtos de papel (-2,7%), artefatos de couro, artigos para viagem e calçados (-7,1%), produtos têxteis (-5,6%), confecção de artigos do vestuário e acessórios (-4,3%) e bebidas (-2,6%). Bens de consumo duráveis e intermediários crescem, enquanto semi e não duráveis e de capital recuam Ainda no confronto com igual mês do ano anterior, bens de consumo duráveis (1,5%) e bens intermediários (1,4%) assinalaram os resultados positivos entre as grandes categorias econômicas. Já bens de consumo semi e não duráveis (-1,1%) e de bens de capital (-6,7%) tiveram taxas negativas. Bens de consumo duráveis voltou a crescer (1,5%) após recuar 3,1% em abril. O setor foi impulsionado pela maior fabricação de automóveis (13,9%). Vale destacar também os avanços na produção de motocicletas (7,0%) e de eletrodomésticos da “linha branca” (5,2%) e da “linha marrom” (1,1%). Os principais impactos negativos foram assinalados pelos grupamentos de outros eletrodomésticos (-17,7%) e de móveis (-4,2%). A produção de bens intermediários, ao crescer 1,4% em relação a maio do ano anterior, marcou a quinta taxa positiva consecutiva neste tipo de comparação. O resultado é explicado, principalmente, pelos avanços nos produtos associados às atividades de coque, produtos derivados do petróleo e biocombustíveis (8,5%), indústrias extrativas (3,1%), veículos automotores, reboques e carrocerias (5,1%), metalurgia (1,8%), produtos de borracha e de material plástico (1,5%) e produtos químicos (0,6%), enquanto as pressões negativas foram registradas por produtos alimentícios (-5,7%), celulose, papel e produtos de papel (-3,8%), produtos de metal (-2,7%), produtos têxteis (-5,1%), máquinas e equipamentos (-2,7%) e produtos de minerais não metálicos (-0,7%). Vale citar também os resultados negativos assinalados pelos grupamentos de insumos típicos para construção civil (-3,4%), que apontou a décima segunda taxa negativa consecutiva; e de embalagens (-1,9%), que intensificou o recuo de 0,5% registrado em abril de 2026. Bens de consumo semi e não duráveis recuou 1,1% em maio, em relação a maio de 2025, e interrompeu dois meses consecutivos de taxas positivas: abril (3,3%) e março (4,8%) de 2026. O desempenho negativo foi explicado, em grande parte, pelos recuos nos grupamentos de alimentos e bebidas elaborados para consumo doméstico (-2,4%) e de semiduráveis (-5,6%), pressionados, em grande medida, pela menor produção dos itens vinhos, carnes de bovinos frescas ou refrigeradas, açúcar refinado, pães, refrigerantes, arroz, complementos alimentares, suplementos vitamínicos e minerais, carnes e miudezas de aves congeladas e produtos embutidos ou de salamaria e outras preparações de carnes de aves, no primeiro; e de sandálias e chinelos de material sintético, calçados femininos de material sintético e de couro, vestuário infantil e seus acessórios (de malha ou não), calças compridas (de malha ou não), calçados esportivos de material sintético, vestidos (de malha ou não), bermudas, jardineiras, shorts e semelhantes (de malha ou não), conjuntos de uso feminino (de malha ou não), artigos do vestuário para uso adulto, tênis masculino, calçados masculinos de couro e artefatos de alumínio para uso doméstico, no segundo. Vale destacar também o resultado negativo registrado pelo grupamento de alimentos e bebidas básicos para consumo doméstico (-37,8%), influenciado pelos recuos na produção de filés e outras carnes de peixes frescos, refrigerados ou congelados e peixes congelados. Por outro lado, os grupamentos de carburantes (1,2%) e de não duráveis (4,1%) apontaram as taxas positivas em maio de 2026, impulsionados, principalmente, pela maior produção de álcool etílico, no primeiro; e de medicamentos, cigarros, desinfetantes e sabões ou detergentes em pó, no segundo. Bens de capital recuou 6,7% em maio frente a igual mês do ano anterior e intensificou a queda de 4,9% de abril. O segmento foi influenciado, principalmente, pelos recuos nos grupamentos de bens de capital agrícolas (-23,1%) e de uso misto (-19,9%). Os demais resultados negativos foram registrados pelos grupamentos de bens de capital para fins industriais (-4,0%) e para energia elétrica (-1,5%). Já equipamentos de transporte (1,7%) e para construção (11,3%) assinalaram os impactos positivos. Acumulado no ano cresce 1,4% No acumulado no ano, frente a igual período do ano anterior, a indústria avançou 1,4%, com resultados positivos em três das quatro grandes categorias econômicas, 8 dos 25 ramos, 28 dos 80 grupos e 42,1% dos 789 produtos pesquisados. Entre as atividades, as principais influências positivas foram indústrias extrativas (7,9%) e coque, produtos derivados do petróleo e biocombustíveis (5,1%), impulsionadas, em grande medida, pela maior produção dos itens óleos brutos de petróleo, minérios de ferro pelotizados ou sinterizados e gás natural, na primeira; e álcool etílico, óleo diesel, querosenes de aviação, naftas e óleos combustíveis, na segunda. Vale destacar também as contribuições positivas assinaladas pelos setores de produtos farmoquímicos e farmacêuticos (11,5%), de veículos automotores, reboques e carrocerias (3,2%) e de produtos alimentícios (1,3%). Já entre as 17 atividades em queda, a de máquinas e equipamentos (-8,8%) exerceu o maior impacto negativo, pressionada, em grande medida, pela menor produção dos itens aparelhos de ar-condicionado de paredes, de janelas ou transportáveis (inclusive os do tipo “split system”), máquinas ou aparelhos para o setor agrícola, bombas centrífugas, máquinas para colheita, válvulas de expansão de segurança redutoras de pressão, ventiladores e coifas (exaustores) para uso industrial, tratores agrícolas, silos metálicos para cereais, centros de usinagem para trabalhar metais, compressores usados em aparelhos de refrigeração e máquinas para limpeza e seleção de grãos. Outras influências negativas importantes foram assinaladas pelos ramos de produtos químicos (-2,2%), produtos de metal (-4,1%), celulose, papel e produtos de papel (-3,0%), confecção de artigos do vestuário e acessórios (-5,8%), artefatos de couro, artigos para viagem e calçados (-6,5%) e equipamentos de informática, produtos eletrônicos e ópticos (-3,3%). Entre as grandes categorias econômicas, o perfil dos resultados para os cinco primeiros meses de 2026 mostrou maior dinamismo para bens intermediários (2,1%) e bens de consumo semi e não duráveis (1,5%), impulsionados, principalmente, pela expansão na produção de óleos brutos de petróleo, óleo diesel, minérios de ferro pelotizados ou sinterizados, gás natural e querosenes de aviação, no primeiro; e de álcool etílico, medicamentos e carnes e miudezas de aves congeladas, no segundo. Bens de consumo duráveis (0,6%) também apontou resultado positivo. Já bens de capital (-6,2%) assinalou a única taxa negativa, pressionado, em grande medida, pela menor fabricação de bens de capital de uso misto (-15,7%), agrícolas (-16,9%) e para fins industriais (-4,5%). Saiba mais sobre a Pesquisa Industrial Mensal (PIM) Produção Física (PF) Brasil: O que é a PIM-PF? Tabelas e Séries Históricas Publicações",
+          "link": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/47446-producao-industrial-varia-0-2-em-maio2.html",
+          "source": "Agencia de Notícias IBGE",
+          "published_at": "2026-07-02T18:00:28+00:00",
+          "ranking_score": 0.5469903981648001,
           "setor": "indústria",
-          "confianca_setor": 0.292303890455313,
-          "peso_fonte": 0.84
-        },
-        {
-          "title": "Axia (ex-Eletrobras) e consórcio da Alupar vencem relicitação de projetos de transmissão de energia",
-          "summary": "O consórcio Olympus, da Alupar, e a Axia Energia (ex-Eletrobras) foram os vencedores dos quatro projetos de transmissão de energia elétrica relicitados pelo governo em leilão nesta sexta-feira (3). Os projetos totalizam R$ 1,8 bilhão em investimentos totais para obras de reforço da rede elétrica em São Paulo, Mato Grosso e Mato Grosso do Sul. (07/03/2026 - 17h00)",
-          "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/axia-ex-eletrobras-e-consorcio-da-alupar-vencem-relicitacao-de-projetos-de-transmissao-de-energia.shtml",
-          "source": "Folha Mercado",
-          "published_at": "2026-07-03T20:00:00+00:00",
-          "ranking_score": 0.6071628080879033,
-          "setor": "indústria",
-          "confianca_setor": 0.2544429122300272,
-          "peso_fonte": 0.84
+          "confianca_setor": 0.30323803064171306,
+          "peso_fonte": 0.75
         }
       ],
       "serviço": [
         {
-          "title": "Sebraetec amplia acesso à inovação e fortalece pequenos negócios em Roraima",
-          "summary": "Com foco no aumento da competitividade dos pequenos negócios por meio da inovação, o Sebraetec oferece consultorias especializadas para microempreendedores individuais (MEI), microempresas (ME) e empresas de pequeno porte (EPP). A iniciativa conecta empresários a prestadores de serviços credenciados, que desenvolvem soluções personalizadas em áreas como transformação digital, produtividade, design, sustentabilidade, eficiência energética, inteligência artificial […]",
-          "link": "https://rr.agenciasebrae.com.br/cultura-empreendedora/sebraetec-amplia-acesso-a-inovacao-e-fortalece-pequenos-negocios-em-roraima/",
-          "source": "Agencia de Notícias Sebrae/RR",
-          "published_at": "2026-07-03T14:15:08+00:00",
-          "ranking_score": 0.7527525518728174,
+          "title": "AI law startup Norm raises $120M, hits unicorn valuation",
+          "summary": "AI law startup Norm has raised a $120 million Series C round led by Khosla Ventures, valuing the startup at $1.2 billion.",
+          "link": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
+          "source": "TechCrunch",
+          "published_at": "2026-07-07T14:35:42+00:00",
+          "ranking_score": 0.9012599584035443,
           "setor": "serviço",
-          "confianca_setor": 0.3507344203354721,
-          "peso_fonte": 0.98
-        },
-        {
-          "title": "Douglas Freitas assume como CRO da ZoomHolding",
-          "summary": "Douglas Freitas, novo CRO da ZoomHolding (Imagem: Divulgação)Executivo assume o cargo com a missão de integrar áreas comerciais e ampliar a geração de receita da ZoomHolding O post Douglas Freitas assume como CRO da ZoomHolding apareceu primeiro em Startups.",
-          "link": "https://startups.com.br/danca-das-cadeiras/douglas-freitas-assume-como-cro-da-zoomholding/",
-          "source": "Startups",
-          "published_at": "2026-07-03T13:00:00+00:00",
-          "ranking_score": 0.7388542727199234,
-          "setor": "serviço",
-          "confianca_setor": 0.44887220760289664,
+          "confianca_setor": 0.6740465079413472,
           "peso_fonte": 0.8
         },
         {
-          "title": "Microsoft lança empresa para ajudar companhias a adotarem IA",
-          "summary": "A Microsoft anunciou nesta quinta-feira (2) que está criando uma nova empresa que ajudará empresas a selecionar tecnologias de inteligência artificial que funcionem para seus negócios e gerem retorno sobre seus investimentos. (07/02/2026 - 19h05)",
-          "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/07/microsoft-lanca-empresa-para-ajudar-companhias-a-adotarem-ia.shtml",
-          "source": "Folha Mercado",
-          "published_at": "2026-07-02T22:05:00+00:00",
-          "ranking_score": 0.7350869299652969,
+          "title": "Quatro empresas goianas estão no Top 100 do Prêmio Sebrae Startups 2026",
+          "summary": "O Sebrae Nacional divulgou a lista das mil startups do Prêmio Sebrae Startups 2026, com a classificação de 24 startups goianas. Dessas, quatro foram classificadas pelo júri especializado entre as Top 100 na segunda fase de seleção e seguem para a disputa da próxima etapa, das Top 30, de finalistas por categoria, que serão divulgadas […]",
+          "link": "https://go.agenciasebrae.com.br/inovacao-e-tecnologia/quatro-empresas-goianas-estao-no-top-100-do-premio-sebrae-startups-2026/",
+          "source": "Agencia de Notícias Sebrae/GO",
+          "published_at": "2026-07-06T22:58:51+00:00",
+          "ranking_score": 0.768484345130689,
           "setor": "serviço",
-          "confianca_setor": 0.43164397727073217,
-          "peso_fonte": 0.84
-        },
-        {
-          "title": "Startup-SE realiza competição de inovação entre universitários em Palmas",
-          "summary": "Nesta última segunda-feira, 29, foi finalizado o projeto Startup-SE, uma iniciativa que tem o objetivo de desenvolver competências empreendedoras, inovadoras e socioemocionais dos estudantes universitários. O evento, que ocorreu no Auditório do Sebrae, em Palmas, reuniu equipes que apresentaram soluções construídas ao longo da jornada de aprendizagem proposta pelo programa. Desenvolvido pela Universidade Federal do […]",
-          "link": "https://to.agenciasebrae.com.br/inovacao-e-tecnologia/startup-se-realiza-competicao-de-inovacao-entre-universitarios-em-palmas/",
-          "source": "Agencia de Notícias Sebrae/TO",
-          "published_at": "2026-07-01T17:23:32+00:00",
-          "ranking_score": 0.7318154183817037,
-          "setor": "serviço",
-          "confianca_setor": 0.36339411802902494,
+          "confianca_setor": 0.3532736205058783,
           "peso_fonte": 0.98
         },
         {
-          "title": "Chamada internacional impulsiona negócios inovadores e conecta empreendedores a investidores e mercados globais",
-          "summary": "Transformar uma boa ideia em um negócio inovador e competitivo pode estar mais perto da realidade de empreendedores, startups, pesquisadores e instituições de ciência e tecnologia. Estão abertas as inscrições para a Chamada de Ideias da Brazilian Innovation and Funding Platform (BraFIP), iniciativa que conta com apoio de organizações internacionais e premiará as 15 melhores […]",
-          "link": "https://pb.agenciasebrae.com.br/inovacao-e-tecnologia/chamada-internacional-impulsiona-negocios-inovadores-e-conecta-empreendedores-a-investidores-e-mercados-globais/",
-          "source": "Agencia de Notícias Sebrae/PB",
-          "published_at": "2026-07-03T17:40:49+00:00",
-          "ranking_score": 0.7290931459925887,
+          "title": "British Space Startup Launches Longevity Lab Into Orbit",
+          "summary": "The lab will beam back data to train AI models to predict how proteins behind age-related diseases like Alzheimer’s and certain cancers behave.",
+          "link": "https://www.wired.com/story/british-space-startup-launches-longevity-lab-into-orbit/",
+          "source": "Wired",
+          "published_at": "2026-07-07T09:57:12+00:00",
+          "ranking_score": 0.7657107699611733,
           "setor": "serviço",
-          "confianca_setor": 0.31849912031204247,
+          "confianca_setor": 0.5910943536086419,
+          "peso_fonte": 0.65
+        },
+        {
+          "title": "Varejo+ Experience leva inovação, inteligência artificial e tendências do mercado a Alfenas",
+          "summary": "Iniciativa prepara empreendedores para as novas demandas do mercado e para o futuro do varejo",
+          "link": "https://mg.agenciasebrae.com.br/cultura-empreendedora/varejo-experience-leva-inovacao-inteligencia-artificial-e-tendencias-do-mercado-a-alfenas/",
+          "source": "Agencia de Notícias Sebrae/MG",
+          "published_at": "2026-07-06T19:27:31+00:00",
+          "ranking_score": 0.764887509565491,
+          "setor": "serviço",
+          "confianca_setor": 0.35155086493701576,
+          "peso_fonte": 0.98
+        },
+        {
+          "title": "Café com Negócios & Conexões chega à 30ª edição e mobiliza ecossistema de inovação com conteúdos sobre IA",
+          "summary": "Ao longo dos anos, a Inteligência Artificial (IA) deixou de ser curiosidade para se tornar ferramenta cotidiana. São inúmeras as plataformas e aplicativos que oferecem serviços personalizados e tornam processos mais eficientes tanto para empresas quanto para o dia a dia das pessoas ao redor do mundo. Ao mesmo tempo, surgem dúvidas sobre privacidade, emprego, […]",
+          "link": "https://df.agenciasebrae.com.br/inovacao-e-tecnologia/cafe-com-negocios-conexoes-chega-a-30a-edicao-e-mobiliza-ecossistema-de-inovacao-com-conteudos-sobre-ia/",
+          "source": "Agencia de Notícias Sebrae/DF",
+          "published_at": "2026-07-07T13:10:12+00:00",
+          "ranking_score": 0.7510866487533145,
+          "setor": "serviço",
+          "confianca_setor": 0.312469700081272,
           "peso_fonte": 0.98
         }
       ]
     },
-    "modelo_resposta_bruta": "{\n\"introducao\": \"A edição desta semana traz um panorama estratégico dos principais setores da economia brasileira, destacando avanços regulatórios, tecnológicos e de mercado que impactam diretamente pequenos negócios e tomadores de decisão. As notícias e análises detalham movimentos relevantes no agronegócio, comércio, indústria e serviços, apontando tendências, riscos e oportunidades que exigem atenção especial dos empresários e gestores públicos.\",\n\n\"setores\": {\n    \"agronegócio\": {\n        \"titulo\": \"Agronegócio: Volatilidade de preços e inovação fortalecem pequenos produtores\",\n        \"analise\": \"O setor agropecuário vive momentos de volatilidade, especialmente nos mercados de milho e carne bovina. A oferta restrita de milho impulsiona os preços, mas a colheita da safrinha exerce pressão baixista, exigindo uma gestão ativa dos produtores diante das oscilações. O mercado do boi gordo apresentou recuo em junho devido ao menor ritmo dos frigoríficos e ajuste da demanda, impactando pecuaristas e cooperativas na gestão de receitas e custos.\\n\\nEventos e capacitações promovidos pelo Sebrae em diferentes regiões reforçam a aproximação dos pequenos produtores com tecnologias e práticas inovadoras. Essas iniciativas ampliam o acesso à agricultura familiar, políticas públicas e prevenção de riscos como incêndios rurais, fortalecendo a competitividade e sustentabilidade no campo. A adoção de novas soluções e parcerias institucionais mostra-se fundamental para a tomada de decisão e ajustes operacionais, especialmente diante da expectativa de continuidade da volatilidade nos próximos dias.\",\n        \"destaques\": [\n            \"Oferta restrita de milho impulsiona preços, mas a colheita da safrinha pode limitar ganhos.\",\n            \"Mercado do boi gordo recua, refletindo menor demanda e ritmo dos frigoríficos.\",\n            \"Eventos e capacitações ampliam acesso de pequenos produtores a tecnologias e políticas públicas.\"\n        ],\n        \"riscos\": [\n            \"Volatilidade nos preços do milho devido à entrada da safra e oscilações de oferta.\",\n            \"Redução na demanda por carne bovina e ritmo dos frigoríficos pode impactar receitas dos pecuaristas.\"\n        ],\n        \"oportunidades\": [\n            \"Adoção de tecnologias e capacitações pode elevar produtividade e eficiência dos pequenos produtores.\",\n            \"Discussão de políticas públicas e prevenção de riscos favorecem gestão e sustentabilidade no campo.\"\n        ]\n    },\n\n    \"comércio\": {\n        \"titulo\": \"Comércio: Modernização regulatória e nichos em expansão impulsionam pequenos negócios\",\n        \"analise\": \"O setor de comércio passa por transformações relevantes, com destaque para a modernização cambial promovida pelo Banco Central. A ampliação do acesso a contas em moeda estrangeira favorece empresas exportadoras, reduzindo custos operacionais e facilitando a gestão de fluxos financeiros. Paralelamente, o lançamento do ecossistema de duplicatas escriturais digitalizadas amplia o acesso ao crédito para pequenas e médias empresas, trazendo mais segurança, transparência e eficiência às operações mercantis.\\n\\nO mercado pet se destaca pelo crescimento expressivo, como observado em Ribeirão das Neves, impulsionando a abertura de pequenos negócios e refletindo oportunidades em segmentos específicos. O período de férias representa potencial de aumento no consumo de produtos e serviços ligados ao lazer, turismo e alimentação, abrindo novas possibilidades para empresas que souberem adaptar seus processos e aproveitar tendências sazonais.\",\n        \"destaques\": [\n            \"Banco Central amplia acesso a contas em moeda estrangeira, favorecendo empresas exportadoras e com relação internacional.\",\n            \"Duplicatas escriturais digitalizadas facilitam o acesso ao crédito para pequenas e médias empresas, trazendo mais segurança e eficiência.\",\n            \"O mercado pet e o período de férias impulsionam a abertura e o crescimento de pequenos negócios em setores específicos.\"\n        ],\n        \"riscos\": [\n            \"Necessidade de adaptação operacional e tecnológica para atender às novas regras cambiais e de duplicatas escriturais.\",\n            \"Pequenos negócios podem enfrentar desafios de acesso a sistemas digitais e compliance regulatório, afetando competitividade.\"\n        ],\n        \"oportunidades\": [\n            \"Abertura de contas em moeda estrangeira e digitalização de duplicatas podem reduzir custos e ampliar acesso ao crédito para empresas com operações internacionais.\",\n            \"Períodos de alta circulação, como férias, e nichos em expansão, como o mercado pet, oferecem potencial de crescimento para pequenos negócios.\"\n        ]\n    },\n\n    \"indústria\": {\n        \"titulo\": \"Indústria: Queda de custos e inovação sustentável fortalecem o setor\",\n        \"analise\": \"O setor industrial acompanha avanços na produção global de petróleo, com a OPEP+ aprovando aumento nas metas a partir de agosto e perspectiva de redução gradual do imposto sobre exportação no Brasil. Esses fatores indicam potencial de queda nos preços e maior disponibilidade de matéria-prima, beneficiando o parque industrial nacional. Investimentos em projetos de transmissão elétrica, especialmente em São Paulo, Mato Grosso e Mato Grosso do Sul, reforçam a infraestrutura energética, contribuindo para a segurança e estabilidade do fornecimento às indústrias.\\n\\nA expansão de biofábricas focadas em proteínas de insetos representa alternativa sustentável e diversificação produtiva, especialmente para pequenos empreendedores. No entanto, persistem desafios regulatórios, volatilidade nos preços do petróleo e disputas societárias em grandes empresas do setor, exigindo atenção dos gestores quanto à adaptação frente às mudanças fiscais e demandas de mercado.\",\n        \"destaques\": [\n            \"Ampliação da produção global de petróleo com potencial impacto sobre custos industriais\",\n            \"Investimentos de R$ 1,8 bilhão em reforço da transmissão elétrica em regiões industriais\",\n            \"Evolução de modelos de negócios sustentáveis, como biofábricas de proteína de insetos\"\n        ],\n        \"riscos\": [\n            \"Volatilidade nos preços do petróleo devido à dinâmica global de oferta e demanda\",\n            \"Possíveis incertezas regulatórias e disputas societárias em grandes empresas do setor\"\n        ],\n        \"oportunidades\": [\n            \"Redução dos custos energéticos e de insumos para a indústria nacional\",\n            \"Novos nichos de mercado e inovação em cadeias produtivas sustentáveis\"\n        ]\n    },\n\n    \"serviço\": {\n        \"titulo\": \"Serviços: Inovação e tecnologia ampliam competitividade para pequenos negócios\",\n        \"analise\": \"O setor de serviços destaca-se pela intensificação de iniciativas voltadas à inovação e adoção tecnológica. Programas como o Sebraetec estão democratizando o acesso de pequenos negócios a consultorias especializadas em transformação digital, produtividade e inteligência artificial, fortalecendo MEIs, microempresas e empresas de pequeno porte. O lançamento de uma nova empresa pela Microsoft para apoiar a adoção de IA reflete a tendência de integração dessas soluções ao cotidiano empresarial.\\n\\nCompetições de inovação e chamadas internacionais, como a BraFIP, conectam startups e empreendedores a investidores e mercados globais, promovendo um ambiente colaborativo e dinâmico. O engajamento crescente em iniciativas de inovação e o fortalecimento de parcerias estratégicas podem abrir novas oportunidades de negócios e ganhos de eficiência operacional, especialmente para empresas preparadas para a transformação digital.\",\n        \"destaques\": [\n            \"Iniciativas ampliam acesso de pequenos negócios à inovação e consultorias especializadas\",\n            \"Microsoft cria empresa focada em apoiar a adoção de inteligência artificial nas empresas\",\n            \"Competições e chamadas internacionais promovem conexão entre empreendedores e investidores\"\n        ],\n        \"riscos\": [\n            \"Desafios de adoção tecnológica por parte de pequenas empresas com baixa maturidade digital\",\n            \"Possível concentração de oportunidades em negócios mais preparados ou com maior acesso a recursos\"\n        ],\n        \"oportunidades\": [\n            \"Ampliação do acesso a soluções de inovação e transformação digital para pequenos negócios\",\n            \"Conexão com investidores e mercados internacionais por meio de programas e chamadas de inovação\"\n        ]\n    }\n},\n\n\"principais_tendencias\": [\n    \"Avanço na digitalização de processos e acesso ao crédito para pequenas empresas\",\n    \"Integração de tecnologias inovadoras e sustentabilidade nos modelos de negócio\",\n    \"Modernização regulatória fortalece operações internacionais e nichos setoriais\"\n],\n\n\"oportunidades\": [\n    \"Adoção de tecnologias e capacitações para elevar produtividade e eficiência dos pequenos negócios\",\n    \"Expansão de mercados específicos, como o setor pet e biofábricas de proteínas, impulsiona novos negócios\",\n    \"Programas de inovação e acesso a consultorias especializadas ampliam competitividade e conexão global\"\n],\n\n\"riscos\": [\n    \"Volatilidade de preços em commodities agrícolas e industriais pode impactar receitas e custos\",\n    \"Desafios na adaptação a novas normas regulatórias e tecnológicas para pequenos negócios\",\n    \"Concentração de oportunidades em empresas com maior maturidade digital e acesso a recursos\"\n],\n\n\"conclusao\": \"O ambiente econômico brasileiro segue em transformação, impulsionado por mudanças regulatórias, avanços tecnológicos e expansão de segmentos estratégicos. Pequenos negócios devem se adaptar rapidamente às novas tendências e buscar oportunidades de capacitação, inovação e acesso ao crédito, garantindo competitividade diante dos riscos e incertezas do mercado. O engajamento em iniciativas de inovação e a atenção às demandas setoriais são essenciais para o crescimento sustentável e a geração de valor.\"\n}"
+    "modelo_resposta_bruta": "{\n\"introducao\": \"A edição desta semana da newsletter executiva destaca movimentos estratégicos nos principais setores da economia brasileira, com impactos diretos para empresários, líderes e gestores. O cenário revela avanços em inovação, oportunidades de internacionalização e desafios operacionais, especialmente relevantes para pequenos negócios. Tendências como a ascensão da inteligência artificial, mudanças regulatórias e volatilidade nos mercados reforçam a necessidade de adaptação ágil e visão estratégica.\",\n\"setores\": {\n    \"agronegócio\": {\n        \"titulo\": \"Exportações em alta e riscos climáticos desafiam o agronegócio\",\n        \"analise\": \"O agronegócio brasileiro vive um momento de contrastes: enquanto as exportações de café atingem crescimento de 26,3% em junho e ultrapassam US$ 1 bilhão em receita, produtores de trigo e milho enfrentam severas adversidades climáticas e fitossanitárias. As geadas e o frio intenso reduziram a safra de trigo em 20%, sustentando preços firmes no mercado interno. No milho, perdas de até 45% no Mato Grosso, causadas por uma doença fúngica ainda em investigação, ampliam preocupações sobre produtividade e abastecimento.\\n\\nEsses fatores pressionam custos de produção e exigem maior atenção à gestão de riscos, impactando diretamente pequenos e médios produtores, cooperativas e fornecedores. A demanda internacional por café e farelo de soja permanece aquecida, criando oportunidades para exportadores, mas o setor deve monitorar de perto o desenvolvimento das safras e o avanço das doenças.\",\n        \"destaques\": [\n            \"Exportações de café crescem 26,3% em junho, superando US$ 1 bilhão em receita\",\n            \"Safra de trigo reduzida em 20% mantém preços firmes no mercado interno\",\n            \"Produtores de milho em Mato Grosso enfrentam perdas significativas devido a doença fúngica\"\n        ],\n        \"riscos\": [\n            \"Persistência de geadas e doenças pode comprometer ainda mais produtividade e abastecimento de grãos\",\n            \"Elevação dos custos de produção diante de perdas e necessidade de medidas fitossanitárias\"\n        ],\n        \"oportunidades\": [\n            \"Crescimento das exportações de café reforça potencial de ganhos para produtores e exportadores\",\n            \"Demanda internacional por farelo de soja permanece sólida, sinalizando mercado favorável para o segmento\"\n        ]\n    },\n    \"comércio\": {\n        \"titulo\": \"Comércio impulsiona vendas com eventos sazonais e modernização regulatória\",\n        \"analise\": \"O setor de comércio e varejo aproveita oportunidades de crescimento apoiadas por eventos culturais, como as Festas Julinas, que continuam movimentando o mercado além do tradicional período junino. Pequenos negócios têm se destacado ao combinar criatividade e planejamento, diversificando produtos e serviços alinhados à tradição local e fortalecendo vínculos com a comunidade.\\n\\nNo campo regulatório, o Banco Central anunciou a ampliação do acesso a contas em moeda estrangeira para empresas com operações internacionais, medida que pode reduzir custos e aumentar a eficiência de exportadores e importadores. A avaliação de restrições ao Pix para instituições vulneráveis reforça a importância da segurança cibernética, exigindo atenção à gestão de riscos operacionais especialmente para pequenos negócios com menor infraestrutura tecnológica. Oscilações no dólar e nas bolsas refletem um ambiente de incerteza moderada, sem impactos imediatos ao consumo.\",\n        \"destaques\": [\n            \"Oportunidades sazonais impulsionam vendas e fortalecem pequenos negócios durante Festas Julinas\",\n            \"Nova regulação do Banco Central amplia acesso a contas em moeda estrangeira para empresas com operações internacionais\",\n            \"Estudos para limitar o Pix em instituições vulneráveis reforçam a importância da segurança cibernética\"\n        ],\n        \"riscos\": [\n            \"Possíveis restrições ao Pix podem afetar a fluidez dos pagamentos para pequenos negócios com baixa estrutura tecnológica\",\n            \"Oscilações recentes nos mercados financeiros aumentam a necessidade de cautela em decisões de compra e investimento\"\n        ],\n        \"oportunidades\": [\n            \"Explorar produtos e serviços alinhados a eventos culturais locais para ampliar vendas e engajamento\",\n            \"Empresas que atuam no comércio exterior poderão se beneficiar da modernização cambial, reduzindo custos e otimizando operações\"\n        ]\n    },\n    \"indústria\": {\n        \"titulo\": \"Indústria apresenta crescimento moderado com avanços em segmentos estratégicos\",\n        \"analise\": \"O setor industrial brasileiro registrou variação negativa de -0,2% em maio de 2026 frente ao mês anterior, marcando o primeiro resultado negativo do ano. Entretanto, no acumulado de janeiro a maio, a produção avançou 1,4%, evidenciando um ritmo moderado de crescimento. O desempenho foi impulsionado por segmentos como produtos farmoquímicos e farmacêuticos, veículos automotores e produtos químicos, enquanto áreas como máquinas e equipamentos, produtos alimentícios e têxteis sofreram retração. A produção de bens intermediários e de consumo duráveis apresentou crescimento, ao passo que bens de capital e bens de consumo semi e não duráveis recuaram, refletindo desafios em investimentos e demanda interna.\\n\\nNo cenário internacional, a decisão da OPEP+ de ampliar a produção de petróleo e a estabilização dos preços próximos ao período pré-guerra colaboram para um ambiente de custos mais previsível para a indústria, especialmente nos setores dependentes de insumos energéticos. Movimentos relevantes incluem a transferência de parte da produção de caminhonetes da Toyota do México para uma nova fábrica nos EUA, indicando possíveis mudanças na dinâmica regional das cadeias de suprimentos automotivas. Em termos de inovação, destaca-se a biofábrica maranhense que aposta na proteína de insetos, conquistando mercado nacional com produção sustentável, demonstrando a emergência de novos nichos produtivos e alternativas inovadoras à cadeia alimentar tradicional.\",\n        \"destaques\": [\n            \"Crescimento acumulado de 1,4% na produção industrial até maio, apesar de variação negativa em maio.\",\n            \"Segmentos de veículos automotores, farmoquímicos e farmacêuticos impulsionam resultados positivos.\",\n            \"Aumento da produção de petróleo pela OPEP+ e queda nos preços beneficiam custos industriais.\"\n        ],\n        \"riscos\": [\n            \"Queda expressiva na produção de bens de capital e máquinas, indicando desafios para investimentos e modernização.\",\n            \"Retração em setores tradicionais como alimentício, têxtil e vestuário pode impactar pequenos negócios e empregos.\"\n        ],\n        \"oportunidades\": [\n            \"Expansão de nichos inovadores como produção sustentável de proteína de insetos, abrindo novos mercados.\",\n            \"Ambiente internacional de custos energéticos mais estáveis favorece planejamento e competitividade industrial.\"\n        ]\n    },\n    \"serviço\": {\n        \"titulo\": \"Inovação e Inteligência Artificial aceleram transformação no setor de serviços\",\n        \"analise\": \"O setor de serviços está passando por uma forte onda de inovação, impulsionada principalmente pelo avanço da Inteligência Artificial (IA). Startups de destaque, como a Norm, evidenciam esse movimento ao atrair grandes investimentos e alcançar valorizações expressivas, indicando confiança do mercado nas soluções baseadas em IA. No Brasil, a presença de empresas goianas entre as 100 melhores do Prêmio Sebrae Startups 2026 reforça o protagonismo nacional na adoção de tecnologias inovadoras e no fortalecimento do ecossistema empreendedor regional.\\n\\nEventos e iniciativas, como o Varejo+ Experience e o Café com Negócios & Conexões, demonstram que empresários e gestores estão sendo preparados para as tendências do mercado, com foco em IA, inovação e eficiência operacional. Essas transformações aumentam a competitividade das empresas, mas também trazem questionamentos sobre privacidade e impactos no emprego, ressaltando a necessidade de adaptação estratégica no curto prazo.\",\n        \"destaques\": [\n            \"Investimento significativo em startups de IA, com casos de unicórnio no segmento jurídico\",\n            \"Reconhecimento de startups brasileiras em premiações nacionais, fortalecendo o ecossistema de inovação\",\n            \"Capacitação de empresários e gestores sobre tendências de IA e inovação no setor de serviços\"\n        ],\n        \"riscos\": [\n            \"Incertezas sobre privacidade e impacto da IA no mercado de trabalho\",\n            \"Necessidade de adaptação rápida para não perder competitividade\"\n        ],\n        \"oportunidades\": [\n            \"Adoção de IA para tornar processos mais eficientes e personalizados\",\n            \"Fortalecimento de redes de inovação e acesso a capacitação para pequenas empresas\"\n        ]\n    }\n},\n\"principais_tendencias\": [\n    \"Ascensão da Inteligência Artificial transforma o setor de serviços e impulsiona startups inovadoras\",\n    \"Eventos sazonais e modernização regulatória favorecem pequenas empresas no comércio\",\n    \"Estabilidade nos custos energéticos e produção industrial moderada abrem espaço para novos nichos e planejamento estratégico\"\n],\n\"oportunidades\": [\n    \"Exportação de café e farelo de soja com demanda internacional aquecida\",\n    \"Modernização cambial amplia eficiência para empresas do comércio exterior\",\n    \"Adoção de soluções de IA e participação em redes de inovação fortalecem pequenos negócios\"\n],\n\"riscos\": [\n    \"Clima adverso e doenças fúngicas ameaçam produtividade e abastecimento no agronegócio\",\n    \"Possíveis restrições ao Pix e volatilidade nos mercados financeiros exigem atenção à gestão de riscos no comércio\",\n    \"Retração em setores industriais tradicionais pode impactar empregos e pequenos negócios\"\n],\n\"conclusao\": \"Os próximos meses demandam atenção estratégica dos empresários e gestores, diante de um cenário de oportunidades em export"
   }
 }
